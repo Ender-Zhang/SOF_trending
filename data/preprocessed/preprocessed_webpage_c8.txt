@@ -1,0 +1,1 @@
+see number tensorboard use pytorch variabl name properli intermedi comput seem label number way name rememb correctli tensorflow tensor take namespac argument equival argument pytorch

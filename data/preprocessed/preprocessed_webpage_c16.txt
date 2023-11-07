@@ -1,0 +1,1 @@
+tri use plugin plugin import toast import export default definenuxtplugin nuxtapp toast const toast usenuxtapp toast get undefin consol nuxt document point realli help idea make work check regist plugin section nuxt document say file top level directori index file within subdirectori plugin plugin need renam recommend simpli move parent folder get
