@@ -1,0 +1,1 @@
+I am getting an error while getting models backref related data: models.py : app/db.py : router.py : My point was to use it in schema but found that even printing in the router is not working. What is a solution here? This wasn't a problem on Flask with sync sqlalchemy. requirements.txt :

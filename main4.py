@@ -115,7 +115,7 @@ print(f"Document with id {best_doc_id} has the highest BM25 score.")
 overall_freq = Counter()
 
 # Update the overall frequency Counter with words from each document.
-for text in texts:
+for text in texts: 
     overall_freq.update(text)
 
 # Find the most common term across all documents.

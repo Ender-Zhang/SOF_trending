@@ -8,25 +8,30 @@ from nltk.tokenize import word_tokenize
 nltk.download('punkt')
 nltk.download('stopwords')
 
+from bs4 import BeautifulSoup
+
 def text_from_html(body):
     soup = BeautifulSoup(body, 'html.parser')
+
     # 找到所有具有 's-prose js-post-body' 类的元素
     prose_contents = soup.find_all(class_='s-prose js-post-body')
-    # 对每个 's-prose js-post-body' 元素进行处理
+
     for prose in prose_contents:
         # 在每个 's-prose js-post-body' 元素中，找到所有 'lang-py s-code-block' 类的 <pre> 块
-        code_blocks = prose.find_all('pre', class_='lang-py s-code-block')
+        # code_blocks = prose.find_all(class_='lang-py s-code-block')
+        code_blocks = prose.find_all('pre')
         # 从 prose 元素中移除这些代码块
         for code_block in code_blocks:
             code_block.decompose()
-            
+
     # 获取剩余文本内容并返回
     texts = [element.get_text(separator=' ', strip=True) for element in prose_contents]
     return ' '.join(texts)
 
+
 # 文件夹路径
 folder_path = 'data/html'
-target_folder_path = 'data/preprocessed'
+target_folder_path = 'data/content'
 
 # 停用词和词干提取器
 stop_words = set(stopwords.words('english'))
@@ -44,21 +49,22 @@ for filename in os.listdir(folder_path):
         # 使用函数提取并清洗文本
         text = text_from_html(html_content)
 
-        # 分词
-        tokens = word_tokenize(text)
+        # # 分词
+        # tokens = word_tokenize(text)
 
-        # 标准化：转小写并过滤停用词
-        tokens = [word.lower() for word in tokens if word.isalpha() and word.lower() not in stop_words]
+        # # 标准化：转小写并过滤停用词
+        # tokens = [word.lower() for word in tokens if word.isalpha() and word.lower() not in stop_words]
 
-        # 词干提取
-        tokens = [stemmer.stem(word) for word in tokens]
+        # # 词干提取
+        # tokens = [stemmer.stem(word) for word in tokens]
 
         # 创建一个新文件名
-        preprocessed_filename = 'preprocessed_' + filename.replace('.html', '.txt')
+        preprocessed_filename = 'content_' + filename.replace('.html', '.txt')
         preprocessed_file_path = os.path.join(target_folder_path, preprocessed_filename)
 
         # 写入预处理后的文本
         with open(preprocessed_file_path, 'w', encoding='utf-8') as preprocessed_file:
-            preprocessed_file.write(' '.join(tokens))
+            preprocessed_file.write(text)
+            # preprocessed_file.write(' '.join(token))
 
 print("Preprocessing complete and files are saved.")

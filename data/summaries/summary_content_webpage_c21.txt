@@ -1,0 +1,1 @@
+PYTHONPATH defines in which directories, other than the current working directory, the interpreter looks for an import. If you have your module at /Users/Code/Me/Python/fibo.py, you will be able to import your module like this:

@@ -1,0 +1,1 @@
+I have tried to use official ETCD Template in Zabbix. However on my etcd I have https enabled, therefore I have to pass SSL certificates that are located on my machine for etcdctl. The only value that is included in documentation for that tempalate is {$ETCD.SCHEME} and I have set it to https, but is still required certificates somehow passed.

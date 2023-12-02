@@ -1,0 +1,1 @@
+If I try to write the code below, I get the following error Exception in thread "main" java.lang.UnsatisfiedLinkError: Error looking up function 'SetWindowsHookEx': the specified procedure is not found. It is not much different from registering and creating any other handler.

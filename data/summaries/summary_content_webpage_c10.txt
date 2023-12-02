@@ -1,0 +1,1 @@
+Run an R script using the BashOperator, through the use of a Docker image which has R installed. Error Code: I'm receiving the following error, and don't understand why.

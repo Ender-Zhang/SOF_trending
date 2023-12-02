@@ -1,0 +1,1 @@
+The main objective is to transform below data into water year format. I tried using the code below to reshape my dataFrame so I get this but is not what I need. Is there a quick pandas way to get the right format?

@@ -1,0 +1,1 @@
+I'm trying to use vue-toastification as a Nuxt3 plugin. I'm getting undefined in the console. Nuxt documentation on this point does not really help. Any idea how to make it work?

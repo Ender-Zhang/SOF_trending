@@ -1,0 +1,1 @@
+If you have two conditions in your WHERE clause that are linked with AND , each result row must satisfy both conditions. That means that query execution is already very efficient if there is at most one table row that satisfied the first condition, and you have an index for that condition. Since id is the primary key, there is automatically a unique index on that column.
