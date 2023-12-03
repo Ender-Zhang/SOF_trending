@@ -1,0 +1,1 @@
+My frame looks like the image below on my machine but when I run it on a different machine the layout gets messed up. Could anyone guide me with the right approach to fix this issue with different resolutions? On a screen with different resolution. The basic answer is that you are not using layout managers effectively.

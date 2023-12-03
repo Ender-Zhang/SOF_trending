@@ -1,0 +1,1 @@
+I have a tiff file, and the effect when opened in qgis is very inconsistent with the effect rendered with geotools. The cause of the problem was found. It was caused by the tiff files not generating an image pyramid.

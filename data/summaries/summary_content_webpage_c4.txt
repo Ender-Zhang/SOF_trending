@@ -1,1 +1,0 @@
-On mac this command should quit the selected app my this does not happen. instead I get a value error saying "Key 'q' is not mapped to any known key" thanks for the help!

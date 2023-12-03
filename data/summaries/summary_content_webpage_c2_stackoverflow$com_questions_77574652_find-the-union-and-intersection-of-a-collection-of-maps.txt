@@ -1,0 +1,1 @@
+Is there a way to get the disjunctive union "diff" other than just taking the compliment of "same"? Is there any way it be done within the for loop in parallel with "all" and "same", instead of after those two sets are created?

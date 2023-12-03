@@ -1,0 +1,1 @@
+Security Config has @CrossOrigin http.cors(cors->cors.configurationSource(apiConfigurationSource())) There is a problem in the code. configuration.setAllowedOriginPatterns(List.of("*")); I hope this resolves your problem.

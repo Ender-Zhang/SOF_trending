@@ -1,0 +1,1 @@
+Deserialization is working however it is not what i want. I want a Simple Calendar Date of the format yyyy-MM-dd HH:mm:ss.SSS You should been using LocalDateTime property in code.

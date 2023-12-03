@@ -1,1 +1,0 @@
-I'm seeing all these numbers on tensorboard when using pytorch. Some variables are named properly but intermediate computations seem to be labeled with numbers. Is there a way to name them? If I remember correctly, tensorflow tensors take namespace arguments.

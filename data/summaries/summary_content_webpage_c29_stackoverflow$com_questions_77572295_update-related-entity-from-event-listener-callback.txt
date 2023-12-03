@@ -1,0 +1,1 @@
+We have two entities, Parent and Child with a one-to-many relationship. When updating the Parent we want to update some entries in all related children automatically. This approach does not always update the child-entity when changing the parent-entity value. We decided to use Event-Listeners in the Parent that triggers the update process.

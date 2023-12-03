@@ -1,0 +1,1 @@
+Getting a client's name is already served by a different class's method: Client#getFullName. You can definitely have a method which returns the Client though. Note the lack of any introduced variables, break; , or null values.

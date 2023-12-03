@@ -1,0 +1,1 @@
+I am using expand bar in an eclipse application UI. The default color of expand bar item is light grey and I need to change the background color. There is no method to set the background& foreground color of expansion bar item.

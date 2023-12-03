@@ -1,1 +1,0 @@
- python script using paramiko to connect to an ssh server on AWS that I have already used before and I know that it works. But for some reason it would not connect now to this new AWS server. I am able to connect successfully via putty to the same server.

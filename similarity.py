@@ -22,7 +22,7 @@ model = SentenceTransformer('sentence-transformers/all-mpnet-base-v2')
 # 生成嵌入向量
 embeddings = model.encode(summaries)
 
-similarity_threshold = 0.4  # 设置一个相似度阈值
+similarity_threshold = 0.3  # 设置一个相似度阈值
 
 for i in range(len(embeddings)):
     for j in range(i+1, len(embeddings)):

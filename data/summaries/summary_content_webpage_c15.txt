@@ -1,1 +1,0 @@
-First time here and I'm super new to Java. I'm trying to write a program that's like an online store where the customers can upload their own pictures to the site. We're using Spring.io to create the project (so using gradle) and are using these dependencies when creating the project.

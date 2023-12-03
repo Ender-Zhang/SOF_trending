@@ -1,0 +1,1 @@
+The community reviewed whether to reopen this question 3 days ago and left it closed. Original close reason(s) were not resolved. I have an enum class with these options: BOOLEAN DATE DOUBLE FLOAT INTEGER LOCAL_DATE. I want to allow other mod developers to add new options to that enum. How can I do that? Inheritance is not allowed for enums.

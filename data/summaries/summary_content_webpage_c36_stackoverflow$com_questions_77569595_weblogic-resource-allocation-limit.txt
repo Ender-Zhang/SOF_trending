@@ -1,0 +1,1 @@
+i have a list of 1000 records fetched from oracle db. i want to process this list concurrently. therefore i have used java parallel streams. the problem is it threw error weblogic.common.resourcepool.ResourceLimitException: No resources currently available in pool ERDS to allocate to applications.

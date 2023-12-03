@@ -1,0 +1,1 @@
+I have encountered into this problem while writing a minecraft mod. Environment: MacOSJVM: Reproduce: Then execute this command: The output is "none". Update : I found that if there is a $ in arguments, java failed to get command line, e.g. $a , ${a}. Is this a bug of java? According to ProcessHandle.Info's javadoc this class is implementation and platform specific.

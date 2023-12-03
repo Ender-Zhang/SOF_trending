@@ -1,0 +1,1 @@
+Spring/Spring Security developers: For this controller method in Spring Boot, I use PreAuthorize annotation in combination with hasPermission Method. I get the this error: Unsatisfied dependency expressed through constructor parameter 0: No qualifying bean of type 'java.lang.String' available.

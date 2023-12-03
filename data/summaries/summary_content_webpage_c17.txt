@@ -1,1 +1,0 @@
-Two workarounds I've found are used to set member_ func2 and member_func3. It would be really nice to be able to just write rather than needing to call out to larger constructs. What is the reason for this design? Is there an underlying reason that prevents this?

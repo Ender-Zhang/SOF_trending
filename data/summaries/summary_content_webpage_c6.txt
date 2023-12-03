@@ -1,1 +1,0 @@
-I am using swagger editor and have imported an openapi spec as a yaml. It shows errors due to all external refs Which points to the definition in another file. I don't want to boot up the server and pass the URL just to modify the spec. Would just want to import and edit directly.

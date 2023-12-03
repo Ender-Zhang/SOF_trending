@@ -1,0 +1,1 @@
+Multi-threaded render function. I render the whole image N times with samples/N samples where N is the number of threads. Then, the images are averaged into one final image. Each pixel is printed (this occurs outside of the thread, in main)

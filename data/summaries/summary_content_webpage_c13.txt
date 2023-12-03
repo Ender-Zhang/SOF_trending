@@ -1,1 +1,0 @@
-When I click on a link to go to my "settings" page, my SettingsSummaryPage is rendered, but I'd also like SettingsPage component to be rendered as well. All of this works great if I click my /settings link -- then totally refresh the page. After finding the correct goole search term(s) I stumbled across this thread.

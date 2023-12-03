@@ -1,1 +1,0 @@
-Best practice is to import every module that defines identifiers you need, and use those identifiers as qualified by the module's name. Python doesn't automatically introduce anything into the namespace of myfile.py, but you can access everything that is in the namespaces of all the other modules.

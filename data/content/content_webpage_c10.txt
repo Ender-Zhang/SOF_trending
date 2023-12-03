@@ -1,1 +1,0 @@
-Helo I'm receiving the following error, and I don't understand why. I believe it has to do with the service account, but the service account should have editor permission Objective Run an R script using the BashOperator, through the use of a Docker image which has R installed Error Code

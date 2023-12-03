@@ -5,33 +5,36 @@ from transformers import pipeline
 # 初始化摘要模型
 summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
 
-# 指定要读取txt文件的文件夹路径
+# 指定文件夹路径
 input_folder = 'data/content/'
-# 指定保存摘要的文件夹路径
 output_folder = 'data/summaries/'
 
-# 创建输出文件夹，如果不存在
+# 创建输出文件夹
 if not os.path.exists(output_folder):
     os.makedirs(output_folder)
 
-# 获取文件夹中所有的txt文件
+# 获取所有txt文件
 txt_files = glob.glob(input_folder + '*.txt')
 
-# 循环处理每个文件
+# 处理每个文件
 for file_path in txt_files:
-    with open(file_path, 'r') as file:
+    with open(file_path, 'r', encoding='utf-8') as file:
         content = file.read()
-    
+
+    # 截断文本以符合模型的最大长度限制（1024 tokens）
+    truncated_content = content[:1024]  # 这里需要适当调整以确保正确的截断
+
+    # 动态设置max_length
+    max_length = min(130, len(truncated_content) // 2)
+
     # 生成摘要
-    summary = summarizer(content, max_length=130, min_length=30, do_sample=False)
+    summary = summarizer(truncated_content, max_length=max_length, min_length=30, do_sample=False)
     summary_text = summary[0]['summary_text']
 
-    # 获取原始文件名，并构建新的输出文件路径
+    # 保存摘要
     filename = os.path.basename(file_path)
     output_path = os.path.join(output_folder, 'summary_' + filename)
-
-    # 将摘要写入新文件
-    with open(output_path, 'w') as output_file:
+    with open(output_path, 'w', encoding='utf-8') as output_file:
         output_file.write(summary_text)
 
-print("Summaries are generated and saved.")
+print("摘要生成并保存完毕。")

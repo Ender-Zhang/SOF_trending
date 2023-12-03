@@ -1,0 +1,1 @@
+I'm facing problems in a Hibernate project where I try to remove a OneToOne relation which still has entries in a ManyToMany relation. Does someone have an idea how to solve? I know it would work if I change the on-delete cascade option from restrict to cascade on the table AppUserPermission. Since now, JPA handled all cascaded deletions in proper order.

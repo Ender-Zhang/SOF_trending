@@ -1,10 +1,41 @@
 {
     "0": [
-        "summary_content_webpage_c1.txt",
-        "summary_content_webpage.txt"
+        "summary_content_webpage_c31_stackoverflow$com_questions_77574002_set-color-for-swt-expand-bar.txt",
+        "summary_content_webpage_c12_stackoverflow$com_questions_77570427_clear-manytomany-via-cascaded-onetoone-remove.txt",
+        "summary_content_webpage_c13_stackoverflow$com_questions_77574719_understanding-java-compiler-source-and-target-flags.txt",
+        "summary_content_webpage_c16_stackoverflow$com_questions_77574717_adding-even-50-ms-delay-between-datacenters-in-cassandra-cluster-leads-to-nonode.txt",
+        "summary_content_webpage_c38_stackoverflow$com_questions_77570926_running-a-container-executing-a-jar-on-a-raspberry-pi.txt",
+        "summary_content_webpage_c3_stackoverflow$com_questions_77574918_is-there-a-good-reason-to-split-in-two-different-cases-the-following-arraylist-c.txt",
+        "summary_content_webpage_c18_stackoverflow$com_questions_77571997_langchain4j-with-downloaded-llm.txt",
+        "summary_content_webpage_c19_stackoverflow$com_questions_77571192_awt-gridbaglayout-not-working-in-different-screen-resolutions.txt",
+        "summary_content_webpage_c24_stackoverflow$com_questions_77573698_is-it-possible-to-use-interfaces-to-extend-enum-to-give-the-enum-the-ability-to.txt",
+        "summary_content_webpage_c6_stackoverflow$com_questions_77572814_crud-weirdness-after-switching-from-spring-boot-vaadin-14-to-vaadin-14-cdi.txt",
+        "summary_content_webpage_c14_stackoverflow$com_questions_77570462_demonstrate-that-jaxb-unmarshalling-will-not-load-an-xsd-schema.txt",
+        "summary_content_webpage_c40_stackoverflow$com_questions_77575116_how-do-i-use-in-clause-in-jpa-examplematcher.txt",
+        "summary_content_webpage_c23_stackoverflow$com_questions_77573545_spring-boot-application-throwing-404-error.txt",
+        "summary_content_webpage_c10_stackoverflow$com_questions_77571602_hazelcast-5-3-6-kubernetes-set-to-dns-lookup-but-client-launched-with-kubernetes.txt",
+        "summary_content_webpage_c4_stackoverflow$com_questions_77574969_adding-integration-tests-to-cloud-functions.txt",
+        "summary_content_webpage_c11_stackoverflow$com_questions_77570517_does-the-new-restclient-introduced-in-spring-framework-6-1-have-a-variant-suitab.txt",
+        "summary_content_webpage_c17_stackoverflow$com_questions_77568580_ways-to-implement-a-aws-lambda-application-for-archiving-files-from-file-server.txt",
+        "summary_content_webpage_c29_stackoverflow$com_questions_77572295_update-related-entity-from-event-listener-callback.txt",
+        "summary_content_webpage_c25_stackoverflow$com_questions_77571828_how-to-check-if-a-directory-is-in-the-classpath-after-java-11.txt",
+        "summary_content_webpage_c15_stackoverflow$com_questions_77569332_not-sure-if-i-am-missing-a-java-prerequisite.txt",
+        "summary_content_webpage_c8_stackoverflow$com_questions_77574127_java-exception-without-interrupting-program.txt",
+        "summary_content_webpage_c33_stackoverflow$com_questions_77570268_jar-file-does-not-contain-my-project-classes.txt",
+        "summary_content_webpage_c20_stackoverflow$com_questions_77573305_cannot-invoke-javax-swing-jframe-getcontentpane-because-frame-is-null.txt",
+        "summary_content_webpage_c1_stackoverflow$com_questions_77569329_javafx-styles-gets-destroyed-and-shows-errors-in-raspberry-pi-3-but-works-well.txt",
+        "summary_content_webpage_c21_stackoverflow$com_questions_77572590_javas-processhandle-cannot-get-arguments-properly.txt",
+        "summary_content_webpage_c9_stackoverflow$com_questions_77573384_im-getting-a-native-crash-in-my-application-this-crash-is-frequent-in-the-rele.txt",
+        "summary_content_webpage_c39_stackoverflow$com_questions_77574787_disable-jcombobox-pop-up-item-selection-on-arrow-keys.txt",
+        "summary_content_webpage_c37_stackoverflow$com_questions_77574339_using-spel-to-pass-parameters-in-spring-spring-security-method.txt",
+        "summary_content_webpage_c22_stackoverflow$com_questions_77573436_custom-query-jpa-mongorepository-with-optional-parameter.txt",
+        "summary_content_webpage_c30_stackoverflow$com_questions_77573077_difference-between-hashcode-and-memory-location.txt",
+        "summary_content_webpage_c36_stackoverflow$com_questions_77569595_weblogic-resource-allocation-limit.txt",
+        "summary_content_webpage_c26_stackoverflow$com_questions_77574822_cant-resolve-cors-error-in-spring-boot-angular-app.txt",
+        "summary_content_webpage_c35_stackoverflow$com_questions_77574946_json-deserialization-of-string-2023-11-10-230118-940-to-calendar.txt"
     ],
     "1": [
-        "summary_content_webpage_c22.txt",
-        "summary_content_webpage_c21.txt"
+        "summary_content_webpage_c34_stackoverflow$com_questions_77574642_preventing-com-miui-powerkeeper-in-android.txt",
+        "summary_content_webpage_c32_stackoverflow$com_questions_77573053_write-permission-denied-android-studio.txt"
     ]
 }

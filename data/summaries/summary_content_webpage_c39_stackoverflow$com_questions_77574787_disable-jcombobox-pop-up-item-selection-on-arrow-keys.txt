@@ -1,0 +1,1 @@
+I don't want JComboBox to respond to arrow key presses. Add a KeyListener to your J ComboBox and simply consume all events to prevent further processing.

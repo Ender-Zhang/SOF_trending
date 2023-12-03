@@ -46,7 +46,7 @@ distance_matrix = 1 - cos_sim_matrix
 distance_matrix[distance_matrix < 0] = 0
 
 # 应用DBSCAN算法
-db = DBSCAN(eps=0.6, min_samples=2, metric="precomputed").fit(distance_matrix)
+db = DBSCAN(eps=0.8, min_samples=2, metric="precomputed").fit(distance_matrix)
 labels = db.labels_
 
 

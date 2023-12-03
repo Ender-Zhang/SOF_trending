@@ -1,0 +1,1 @@
+I am trying to package my project with dependency using Maven in IntelliJ. The jar file with dependency is successfully built in the target location. But when I decompile the JAR file using JDGUI, the main class is empty. What shall I need to do, to get my project built with all dependencies including my main class?

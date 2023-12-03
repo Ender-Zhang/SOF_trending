@@ -1,0 +1,1 @@
+I have an issue running a container which should execute a .jar file on a raspberry pi. The .jar contains a simple "Hello world" example code. I use Java 17, the raspberry pi runs on arm64v8.

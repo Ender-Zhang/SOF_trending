@@ -1,1 +1,0 @@
-I want to click two keys at once using the keyboard method what I have tried is not working. I am open to learning other methods if they would work better. on mac this command should quit the selected app my this does not happen. instead I get a value error saying "Key 'q' is not mapped to any known key." thanks for the help!

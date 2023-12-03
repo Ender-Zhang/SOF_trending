@@ -1,0 +1,1 @@
+ JavaFX (and the JRE) include native components that only run on given platforms. JavaFX Java (non-native) components are modularized, with the different Java modules targeting various systems. You need to use the right version of your execution software for your chosen target platform.

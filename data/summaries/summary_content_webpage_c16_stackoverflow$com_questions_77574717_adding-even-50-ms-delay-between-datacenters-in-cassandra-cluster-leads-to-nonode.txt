@@ -1,0 +1,1 @@
+ Java application with Datastax Java driver very simple multidc C* cluster andtc tool. There DCA and DCB. Each of them has only node of C* in it. I try to do the test for understanding how C* takes network issues with fix delay on every packet.

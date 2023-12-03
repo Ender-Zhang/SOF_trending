@@ -1,0 +1,1 @@
+I've successfully deployed a test list-crud app to JBoss, but now the CRUD operations are acting screwy. I'm following someone's advise to switch from Spring Boot/Vaadin to Vaadin CDI. Is there a quick fix involving scope annotations, or does the code need to work differently in CDI?

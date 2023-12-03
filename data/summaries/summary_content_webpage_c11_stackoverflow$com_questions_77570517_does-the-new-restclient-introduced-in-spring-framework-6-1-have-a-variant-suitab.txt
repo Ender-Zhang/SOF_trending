@@ -1,0 +1,1 @@
+In spring framework 6.1, a new synchronous HTTP client RestClient was introduced. In Spring Boot, there was a TestRest template which could be used for integration tests. However, I could not find any mention of a variant for RestClient.

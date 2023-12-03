@@ -1,0 +1,2 @@
+I am exploring Langchain4j. I want to use it to interact with the downloaded model locally. I have downloaded stable-diffusion model from Huggingface using this command: How can I use Langchain4j(with stable-diffusion) to create an Image in my local?
+Does Langchain4j have that capability currently?

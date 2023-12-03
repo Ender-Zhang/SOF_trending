@@ -1,0 +1,1 @@
+I am able to create a traileroffer,then with another POST request I can upload images to it. After any type of request, the image uploading fails, sometimes a couple will go through successfully. The main issue is, it seems that the files which are uploaded are empty / the file size is <= 0.

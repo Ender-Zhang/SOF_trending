@@ -1,0 +1,1 @@
+Error message: Security Config has @CrossOrigin http.cors(cors->cors.configurationSource(apiConfigurationSource())) There is a problem in the code. configuration.setAllowedOriginPatterns(List.of("*")); Here, you need to specify the url to give instruction to CORS. configuration.setAllowedOriginPatterns(List.of("http://localhost:4200*")); I hope this resolves your problem.

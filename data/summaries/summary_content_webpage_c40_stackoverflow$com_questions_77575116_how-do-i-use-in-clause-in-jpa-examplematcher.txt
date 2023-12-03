@@ -1,0 +1,1 @@
+I am trying to create a search API in Spring boot using rest. I am getting the hang of ExampleMatchers in JPA to filter & search. I need to fetch ETopic using multiple ETenant names. I have not been able to find anything in example matchers to use IN clause.

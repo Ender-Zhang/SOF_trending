@@ -1,0 +1,1 @@
+I was creating a simple Time Monitoring System that records the Time In and Time out of the user and record it in a txt file named "time_monitoring.txt". Now, whenever I run the app in my phone, which is an Android 13, it shows that the write permission was denied. So, the simple solution is to stick with that and get rid of your READ_EXTERNAL_STORAGE manifest entry.

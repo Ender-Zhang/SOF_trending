@@ -1,2 +1,0 @@
-I have the code below and I want to upload generated pdf to cloudinary but stuck. My current code is like this: The above shows the pdf in browser and when I use Cloudinary::uploadFile($pdf->Output())->getSecurePath() only, cloudinary sees it as null byte value. You can try it with the Cloudinary/Uploader Just make sure you have the correct path to the FPDI library and the Cloudinary PHP SDK in your project, and ensure that your Cloudinary credentials and folder settings are correct in the upload function.
-Hope this helps.

@@ -1,1 +1,0 @@
-I want to pull the text after Corey Stapleton. There is an a href tag embedded inside a bold tag and the text follows. You can't find it using following-sibling because that text is not a sibling element (with a tag of its own)

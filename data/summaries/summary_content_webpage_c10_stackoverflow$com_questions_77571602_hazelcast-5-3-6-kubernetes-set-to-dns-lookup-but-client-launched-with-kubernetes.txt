@@ -1,0 +1,1 @@
+Hazelcast creates a client in discovery mode kubernetes_api that tries to connect in an infinite loop and blocks the app start. I tried to create a bean ClientConfigand set strategy to dns_lookup but it still tried to connect using kubernets_api.

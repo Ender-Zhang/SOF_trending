@@ -1,0 +1,1 @@
+ Java code is able to deserialize the XML input document into an instance of Customer even when this XML document produces 2 validation errors (indicated by an external editor): and This means that JAXB did not validate the given XML input during unmarshalling.

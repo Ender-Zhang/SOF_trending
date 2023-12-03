@@ -1,0 +1,1 @@
+I have in mind a method that takes as an argument a collection that supports just the stack operations push and pop. Is there a Java interface that suits stack operations more precisely than any of the above? SequencedCollection probably steers closest to what you're looking for; it has the obvious downside of not existing prior to JDK21.

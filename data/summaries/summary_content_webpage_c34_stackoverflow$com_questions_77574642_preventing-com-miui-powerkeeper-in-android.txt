@@ -1,0 +1,1 @@
+I have a background application, and it is working like a charm but when I boot my device and call it with broadcast, it is not working because of com.miui.powerkeeper. I tried giving battery optimization permission, but it did not work. So, how can I achieve this error and block com. miui. powerkeeper programmatically in Android?

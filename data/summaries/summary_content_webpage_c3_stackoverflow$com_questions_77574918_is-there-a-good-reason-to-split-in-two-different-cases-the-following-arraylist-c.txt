@@ -1,0 +1,1 @@
+The issue is not visible to the public, but googling it reveals it has been shipped with security updates to all Java versions supported at the time. If you do a git blame on that source file, you will find that this code was introduced as part of the commit 343ecd806bb050.

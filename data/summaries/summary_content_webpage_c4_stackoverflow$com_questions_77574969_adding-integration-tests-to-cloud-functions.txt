@@ -1,0 +1,1 @@
+I am trying to follow this documentation to add integration tests to a cloud function. The first step (setup) basically starts a process using java.lang.Process. Is there something I'm missing related to the setup of this "Functions Framework Maven plugin" ?

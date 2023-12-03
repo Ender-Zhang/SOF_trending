@@ -1,0 +1,4 @@
+I am trying to package my project with dependency using Maven in IntelliJ.
+I tried to use the maven-assembly-plugin to package the jar file, below is the pom.xml The jar file with dependency is successfully built in the target location. But when I decompile the JAR file using JDGUI, the main class is empty or shows "INTERNAL ERROR" What shall I need to do, to get my project built with all dependencies including my main class? Directory Edit:
+Added the 'executions' in the pom.xml
+Added Directory structure

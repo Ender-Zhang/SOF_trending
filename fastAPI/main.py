@@ -44,3 +44,36 @@ def read_groups():
         groups_with_content[group_id] = content_list
     
     return groups_with_content
+
+@app.get("/similarity-results/")
+async def read_similarity_results():
+    with open('../similarity_results.json', 'r', encoding='utf-8') as file:
+        data = json.load(file)
+    return data
+
+
+app = FastAPI()
+
+# 假设JSON文件和文本文件都在相同的目录中
+summary_folder = '../data/summaries/'
+
+@app.get("/similar-files/")
+async def read_similar_files():
+    # 读取JSON文件以获取相似文件组
+    with open('../similar_files_groups.json', 'r', encoding='utf-8') as file:
+        similar_files_groups = json.load(file)
+    
+    # 准备包含文件名和内容的响应数据
+    response_data = []
+
+    for group in similar_files_groups:
+        group_data = []
+        for file_name in group:
+            file_path = os.path.join(summary_folder, file_name)
+            if os.path.exists(file_path):
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    content = f.read()
+                    group_data.append({"file_name": file_name, "content": content})
+        response_data.append(group_data)
+
+    return response_data

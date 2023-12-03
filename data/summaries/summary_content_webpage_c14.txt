@@ -1,1 +1,0 @@
-I'm getting the following error:  TypeError: Cannot read properties of undefined (reading 'logException') Can you console.log the following to see which one is undefined? I hope the above console. log s help you find where the issue is.

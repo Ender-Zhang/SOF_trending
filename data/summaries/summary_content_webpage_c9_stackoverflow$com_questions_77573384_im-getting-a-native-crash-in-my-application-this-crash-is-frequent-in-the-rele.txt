@@ -1,0 +1,1 @@
+I tried looking into the systrace in Perfetto UI but just couldn't figure out the reason for crash. The logs for the crashes showed multiple calls related to the G.C so suspected it to be a memory leak and used LeakCanary to look for memory leaks. I'm fixing the memory leaks one by one.
