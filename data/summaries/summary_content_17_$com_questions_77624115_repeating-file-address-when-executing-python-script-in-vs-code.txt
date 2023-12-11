@@ -1,0 +1,1 @@
+I had some trouble assigning path variables when installing anaconda. I'm not sure if this is due to me assigning multiple path variables which are the same or if something incorrect is taking place.

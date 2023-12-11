@@ -1,0 +1,1 @@
+Python 3.12.0 has a problem with serializing data if an attribute is missing. This will cause the program to malfunction upon the next load. Is there some way to test whether or not the class attributes match some provided to_dict() method return?

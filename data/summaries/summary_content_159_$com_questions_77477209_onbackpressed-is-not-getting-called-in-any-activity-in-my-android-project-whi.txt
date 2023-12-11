@@ -1,0 +1,1 @@
+I am overriding onBackPressed() method in multiple activities of my Android project but it is not getting called. I have searched and found people work with onKeyUp and onKeyDown , which I don't want to use. What should I do to get this done?

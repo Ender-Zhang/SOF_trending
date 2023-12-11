@@ -1,0 +1,1 @@
+I customized kobert model using this code. and I fine-tuned this "model" with my custom train data. Then, I save model with this code. I have this files: 'config.json' and 'model.safetensors'. I wanna load my custom kobertmodel on Flutter. How can I do with this files?

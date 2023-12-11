@@ -1,0 +1,1 @@
+I am trying to pass all the series in the chart from JS to CS using dotNet helper. I tried different methods as suggested in other stack overflow answers but not able to get it to work. Would appreciate your input.

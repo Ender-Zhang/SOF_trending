@@ -1,0 +1,1 @@
+Python 2.7.18 Bottle: 0.12.7 SQLAlchemy: honestly don't know but something from 2014 (might be 0.9.8?)

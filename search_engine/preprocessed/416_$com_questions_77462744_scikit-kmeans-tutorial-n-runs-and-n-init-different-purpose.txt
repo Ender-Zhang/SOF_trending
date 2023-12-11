@@ -1,0 +1,1 @@
+http document run kmean kmean class paramet like addit function doc use paramet number time rerun kmean need paramet restart process differ initi

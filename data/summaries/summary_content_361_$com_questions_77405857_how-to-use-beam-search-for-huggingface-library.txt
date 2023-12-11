@@ -1,0 +1,1 @@
+I want to use Beam Search for text generation in interface time. Is there any built-in way to use beam search in my case? Or any well-known library, which will generate the beam search given input and model?

@@ -1,0 +1,1 @@
+I am trying to use the NullnessChecker from the checker framework. I have a java project building it with gradle and kotlin. The idea is to have as little boiler plate coding as I can. I can override where nulls are required (for parameters, return arguments and instance variables)

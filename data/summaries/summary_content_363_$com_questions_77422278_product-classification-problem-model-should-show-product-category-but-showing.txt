@@ -1,0 +1,1 @@
+ train.py prediction.py should give me the product category but it is instead giving the me the encoded number value. Can you tell me what is wrong with this model?

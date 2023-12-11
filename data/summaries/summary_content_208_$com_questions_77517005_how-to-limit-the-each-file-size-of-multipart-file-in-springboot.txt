@@ -1,0 +1,1 @@
+I want to limit each file's size to 20 MB, but it's only validating the size of all the input files. Here's what you need to do: Use custom annotation validation for all your input with different sizes. Set a default maximum size that Spring Boot can accept.

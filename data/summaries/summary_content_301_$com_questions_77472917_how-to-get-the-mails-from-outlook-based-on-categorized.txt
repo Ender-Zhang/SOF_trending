@@ -1,0 +1,1 @@
+ Graphapi is a collection, so you need to use any filterCondition. If some messages have two categories, let's say Green and Red and you want to get messages with both categories then filterCondition will be Green or Red. For example, I need to get all mails from outlook using Graphapi.

@@ -1,0 +1,1 @@
+I am trying to compute the gradient of a Gaussian Process when the training data set is given by N X D in MATLAB. The Python code for computing the gradient is given here. I have been trying to write similar code in MATLab as below, without any success.

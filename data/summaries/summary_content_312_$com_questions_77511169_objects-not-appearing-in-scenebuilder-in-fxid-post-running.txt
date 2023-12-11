@@ -1,0 +1,1 @@
+I have a code where I want to increase the height of a stick (basically a rectangle) on detecting a key press. Each time I create a new rectangle, I can see the fx:id there. But right after running the code, the id disappeared.

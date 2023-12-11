@@ -1,0 +1,1 @@
+I'm attempting to use NamedEntityRecognition (NER) to predict categories for words/phrases within a large body of text. Currently using 3 Nuget packages to try get this working. At the point of training the model [estimator.Fit(dataView)], I get the following error: Field not found.

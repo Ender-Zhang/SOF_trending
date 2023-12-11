@@ -1,0 +1,1 @@
+Code can be sorted by length so that the longer keywords would be prioritized. You can join the sorted keywords into an alternation pattern instead of substituting the string with different keywords 4 times. Do not mind the line splits, it is for another part of to handle multiple lines.

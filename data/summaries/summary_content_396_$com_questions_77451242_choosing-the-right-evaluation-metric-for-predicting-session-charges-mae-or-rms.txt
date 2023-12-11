@@ -1,0 +1,1 @@
+I'm currently working on a project where I'm using a machine learning model to predict Session Charges. I'm unsure about which evaluation metric would be most suitable for my case: Mean Absolute Error (MAE) or Root Mean Squared Error (RMSE) I understand that MAE gives the average magnitude of the errors, irrespective of their direction, while RMSE emphasizes the magnitude.

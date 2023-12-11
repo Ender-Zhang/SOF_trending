@@ -1,0 +1,1 @@
+This is disassembly of a list comprehension in python 3.10. From what I understand it creates a code object called listcomp which does the actual iteration and return the result list, and immediately call it. I can't figure out the need to create a separate function to execute this job.

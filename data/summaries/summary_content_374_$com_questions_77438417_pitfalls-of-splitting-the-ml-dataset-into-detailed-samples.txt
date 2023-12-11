@@ -1,0 +1,1 @@
+One client may have 1 phone number and another - 100 phone numbers. Some features, which belong to the client (not to the phone, e.g. age) are repeated in 100 rows.

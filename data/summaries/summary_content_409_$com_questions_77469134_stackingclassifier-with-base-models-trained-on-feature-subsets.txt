@@ -1,0 +1,1 @@
+The goal is to train 3 one-ve-rest classifiers to train sub-models, one for each class and using the class's best predictors. And then a StackingClassifier for final prediction.

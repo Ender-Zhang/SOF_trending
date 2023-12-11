@@ -1,0 +1,1 @@
+I am building a new app for testing with angular 17 trying to connect to a simple API rest. I have asked chat GPT, reviewed stack's older posts and even download an old application, but with no success. Here is my app config and the error: app.module.ts app-routing.ts cliente.service.tscliente.component.ts

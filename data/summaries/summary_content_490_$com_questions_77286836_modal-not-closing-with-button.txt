@@ -1,0 +1,1 @@
+I have the following dialog: However, somehow it's not working properly. I see the backdrop change back to a bit less dark but the modal is still there. Can it be VSC? All the answers I found are related to Bootstrap which I'm not using.

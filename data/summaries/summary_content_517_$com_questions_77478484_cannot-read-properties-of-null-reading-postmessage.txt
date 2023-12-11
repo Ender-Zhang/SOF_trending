@@ -1,0 +1,1 @@
+I'm embedding a discord widget on a C++ application using QWebEngineView. The widget is working all fine, the problem is the login. I'm able to login to my discord account from the widget, but after the login window is closed and returns to widget, I get these errors on console.

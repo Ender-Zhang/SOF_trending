@@ -1,0 +1,1 @@
+The data for each map is embedded within the html file, the file itself is very large. This is causing problems on the server which hosts the file. The embed-resources: false YAML option in Quarto means that the libraries are stored in separate files.

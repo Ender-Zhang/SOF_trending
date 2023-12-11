@@ -1,0 +1,5 @@
+After upgrading spring boot 4.20.1, in my application iam getting new error type in the problem tab.
+My previous version 4.19 i did not get any error in the problem console.
+in my repository getting error ie public interface TestInfoRepository extends PagingAndSortingRepository<TestInfo, Integer>{} Error:Expected Domain ID type is 'java.lang.Long'
+(note: in TestInfo i have declared id is long)
+Showing error in multiple files, but in runtime i did not get any error, application works fine. How can i ignore this error? Error in problem tab in sts

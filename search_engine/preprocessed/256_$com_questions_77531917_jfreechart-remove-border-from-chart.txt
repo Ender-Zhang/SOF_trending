@@ -1,0 +1,1 @@
+use jfreechart javafx chart look almost exactli want last piec littl bit border still around chart ca seem figur make chart flush window pane answer found far involv set pad opaqu inset seem fulli solv issu also sure someth chartview ad extra pad code thu far shown xyplot categoryplot remov plot axi offset like

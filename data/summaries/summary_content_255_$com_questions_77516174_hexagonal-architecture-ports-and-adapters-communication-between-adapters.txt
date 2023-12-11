@@ -1,0 +1,1 @@
+Ports and adapters are used to communicate between layers of a system. What is the correct approach when I want to communicate with two different adapters? For example, I can get a document from Elasticsearch and enrich this document by a few values which are stored in S3.

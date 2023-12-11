@@ -1,0 +1,1 @@
+I have several CSV files with the same structure. What I would like to do is to add an extra column to the final dataframe containing the name of the product, e.g. product_code 2000-01-01. This has been requested a few times but is yet to be added to Polars.

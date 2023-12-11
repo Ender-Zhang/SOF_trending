@@ -1,0 +1,1 @@
+There is always a shadow at the top of the TextArea that I want to eliminate. If you check the hierarchy of text area as in below image, the shadow is actually the background color ( gradient) of ContentView. So to turn if off, just set the ContentView background color to white in your current css.

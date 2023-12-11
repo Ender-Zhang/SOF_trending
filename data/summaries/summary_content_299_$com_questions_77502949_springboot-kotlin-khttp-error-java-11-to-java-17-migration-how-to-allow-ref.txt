@@ -1,0 +1,1 @@
+I am trying to migrate from Java 11 to Java 17. My app is written in Springboot and Kotlin. I am using khttp dependency to make client call (3rd party calls) It works fine with Java 11 as reflections are not restricted in Java 11, but this is not the same case with Java17. How do I allow reflections to make my khttp.get() calls not in my local but on the server?

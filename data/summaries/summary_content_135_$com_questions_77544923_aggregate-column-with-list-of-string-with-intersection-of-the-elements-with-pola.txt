@@ -1,0 +1,1 @@
+I'm trying to aggregate some rows in my dataframe with a list[str] column. For each index I need the intersection of all the lists in the group. Any help please? I've tried some stuff without success.

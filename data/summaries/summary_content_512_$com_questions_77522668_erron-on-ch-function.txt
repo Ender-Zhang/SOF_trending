@@ -1,0 +1,1 @@
+ HTMLTableCellElement.ch is a string containing one single character. This character is the one to align all the cell of a column on. It reflects the char and default to the decimal points associated with the language.

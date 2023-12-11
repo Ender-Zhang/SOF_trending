@@ -1,0 +1,1 @@
+This question already has answers here : Behavior of __new__ in a metaclass (also in context of inheritance) (2 answers) Closed 16 days ago . Why does it print <class 'type'> , but not < class '__main__.Meta?'

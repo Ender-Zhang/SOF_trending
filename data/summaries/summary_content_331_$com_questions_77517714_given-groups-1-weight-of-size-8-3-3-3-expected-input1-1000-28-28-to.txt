@@ -1,0 +1,1 @@
+I tried to implement a Residual connection neural network and recreate Lenet-5, and can't set up architecture. I tried to change the sizes of the input and output channels, but nothing worked. I've made some modifications to your code.

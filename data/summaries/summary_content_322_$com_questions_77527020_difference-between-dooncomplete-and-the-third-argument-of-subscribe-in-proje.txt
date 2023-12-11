@@ -1,0 +1,1 @@
+I’m not sure whether to use doOnComplete() or the third argument of subscribe() in Project Reactor. Both seem to be called when the Publisher emits a completion signal, but there are some differences between them.

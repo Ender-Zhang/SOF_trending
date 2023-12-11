@@ -1,0 +1,2 @@
+I'm using hyperopt to optimize hyperparameter of lightGBM. The code I use are shown below.
+I'm trying to log hyperparameters using log_params() in the objective function. I got some error messages like below: I'm not sure what I did wrong. Added the with mlflow.start_run(nested=True): within the objective function. There was also an issue raised for this here . Now the code creates separate folders for each evaluation containing the params and metric.

@@ -1,0 +1,1 @@
+I get an error in the browser saying: What is the way around this? and what am I doing wrong? It seems like the issue is related to Parcel's handling of dynamic imports in React. Try configuring Babel to transpile dynamic imports into a format Parcel can handle better.

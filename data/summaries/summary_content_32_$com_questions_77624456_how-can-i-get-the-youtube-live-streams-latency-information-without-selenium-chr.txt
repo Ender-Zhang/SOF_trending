@@ -1,0 +1,1 @@
+I'm trying to fetch the livestreaming latency in twitch and youtube. I resolved it for twitch with m3u8 file, however I can't resolve about it in youtube. The best scenario is parse the "Live latency" in "stats for nerds" in youtube livestreaming video player.

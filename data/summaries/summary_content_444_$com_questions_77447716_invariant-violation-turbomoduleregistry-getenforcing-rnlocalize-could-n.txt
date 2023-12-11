@@ -1,0 +1,1 @@
+Tests running with Jest are in a NodeJS environment so all the native modules are unavailable. Some React Native libraries provide mocks for this situation. For all the other ones, you can provide your own mock.

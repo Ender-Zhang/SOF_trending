@@ -1,0 +1,1 @@
+I'm trying to exclude some classes & packages which are based on HILT generated contents. It does not return the expected results. Details follow, Kotlin Version -> 1.9.0, Gradle Version -> 8.1.1, Java Compatibility-> Java Version 17, Jacoco Tool Version -> 0.8.8 App Gradle Jacoco.gradle file.

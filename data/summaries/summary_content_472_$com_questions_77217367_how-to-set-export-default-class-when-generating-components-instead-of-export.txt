@@ -1,0 +1,1 @@
+Angular 15+ support default exports. In loadChildren or loadComponent callbacks, you can do : AOT and JIT compiler. In 2017, the 'export default' seem to have issues with AOT compiler. This was fixed in March 2020.

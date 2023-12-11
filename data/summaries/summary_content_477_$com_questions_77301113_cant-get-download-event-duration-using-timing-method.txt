@@ -1,0 +1,1 @@
+I am trying to measure how much time a downloading event takes. The download object is correctly created but I cant find the timing method. Is there an other way to get the duration of a download using Playwright?

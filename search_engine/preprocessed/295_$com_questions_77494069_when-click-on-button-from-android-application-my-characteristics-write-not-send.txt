@@ -1,0 +1,1 @@
+android app user interfac contain button button click initi write oper specif ble characterist associ server transmit data howev despit code implement write data characterist data success transmit data receiv correctli server up end send data android app string input end

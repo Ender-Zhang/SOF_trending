@@ -1,0 +1,1 @@
+I've read some examples and docs on Spring security which i managed to rewrite a deprecated function on the SecurityFilterchain. However in another function below im facing issue on not knowing how i can rewrite it in a Lambda based configuration. Instead of using AuthenticationManagerBuilder , please publish the UserDetailsService and PasswordEncoder beans separately like so.

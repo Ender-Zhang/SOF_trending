@@ -1,0 +1,1 @@
+The k-index measures the condition of the magnetosphere. It is usually averaged over three hour, so each day has 8 measurements. The data is available here: https://www.swpc.noaa.gov/products/planetary-k-index.

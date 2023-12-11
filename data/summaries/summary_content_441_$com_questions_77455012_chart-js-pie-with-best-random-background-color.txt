@@ -1,0 +1,1 @@
+I have some data that will be visualized in Pie Chart form. I want 2 adjacent colors not to be identical. A possible solution is to use a color-contrast checker library, like this one.

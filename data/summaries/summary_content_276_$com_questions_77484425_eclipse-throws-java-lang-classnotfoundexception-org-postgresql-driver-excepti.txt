@@ -1,0 +1,1 @@
+The application keeps throwing me the "java.lang.ClassNotFoundException: org.postgresql.Driver", although I have added the JDBC driver in the classpath. I also tried to add the external jar in the module path but still nothing. This question already has answers here : How do I resolve ClassNotFound exception?

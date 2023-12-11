@@ -1,0 +1,1 @@
+My prometheus endpoint works fine takes around 20 ms on my local machine. When I deploy it on K8s and use Docker it takes around 12-18 seconds. Canary deployment also fails because the flagger advancement request takes more than 8 seconds. Our pipelines threshold is 500 ms.

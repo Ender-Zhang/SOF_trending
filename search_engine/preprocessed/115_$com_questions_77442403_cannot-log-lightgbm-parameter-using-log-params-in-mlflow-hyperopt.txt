@@ -1,0 +1,1 @@
+use hyperopt optim hyperparamet lightgbm code use shown tri log hyperparamet use object function got error messag like sure wrong ad within object function also issu rais code creat separ folder evalu contain param metric

@@ -1,0 +1,1 @@
+In python, I can create an intermediate dataframe and use it as input to np.random.normal() In R, this is relatively easy to do in a pipeline: Created on 2023-11-12 with reprex v2.0.2.

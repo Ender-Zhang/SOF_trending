@@ -1,0 +1,1 @@
+I want to perform an if-else transformation for elements in a List series. I use pl.when inside list.eval but encounter a warning message. What is the proper way to do this?

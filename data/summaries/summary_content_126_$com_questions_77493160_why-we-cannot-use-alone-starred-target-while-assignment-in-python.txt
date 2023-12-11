@@ -1,0 +1,1 @@
+Assignment of an object to a target list is recursively defined as follows. The object must be an iterable with the same number of items as there are targets in the target list. The first items of the iterable are assigned, from left to right, to the targets before the starred target.

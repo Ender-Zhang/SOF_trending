@@ -1,0 +1,1 @@
+In my Java code, I have a simple record class just like so: When I run a JMH benchmark of code using this record, I notice something interesting. The default equals() method of the record seems to be doing some dynamic calls. I looked for the source code, but I couldn't find anything.

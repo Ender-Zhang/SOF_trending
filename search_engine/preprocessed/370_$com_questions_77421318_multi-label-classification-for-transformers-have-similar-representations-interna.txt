@@ -1,0 +1,1 @@
+transform model need output three differ label loss comput separ combin essenc expect shape differ valu print post train get differ valu train set get differ valu train set expect loss branch differ valid test set get exactli valu possibl incorrectli

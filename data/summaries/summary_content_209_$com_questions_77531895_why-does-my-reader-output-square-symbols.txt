@@ -1,0 +1,1 @@
+I am following some tutorial vids and learning how to read files with java. In this example the instructor creates a char array sized to 100 and then uses the FileReader class to read a text file. My code is the same as the instructor but my output includes square symbols to fill up the 100 char array.

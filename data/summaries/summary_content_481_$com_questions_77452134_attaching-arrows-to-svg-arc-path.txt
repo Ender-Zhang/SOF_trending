@@ -1,0 +1,1 @@
+Is there a way to add an arrow at the end of the animated gauge to indicate the entered value? Since the gauge is displayed with the path's stroke-dasharray, it seems that a marker cannot be applied according to thesvg specification. If this is not possible, please advise if there is an alternative.

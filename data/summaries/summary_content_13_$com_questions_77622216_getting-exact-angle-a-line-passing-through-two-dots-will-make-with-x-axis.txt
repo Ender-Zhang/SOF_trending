@@ -1,0 +1,1 @@
+I'm getting wrong output with atan2 function. I have 2 variable points i.e. p1=(x1,y1) and p2=(x2,y2) now this code works fine for 0 and 90 degree line only, for other values it doesnt give accurate value. for ex: ([0.49609900927256284, 0.5], [0.5039009907274372,0.5] gives 00 angle. whereas it should give 315 or -45 degrees. Strictly python and math library.

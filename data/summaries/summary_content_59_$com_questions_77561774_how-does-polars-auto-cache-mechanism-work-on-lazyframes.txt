@@ -1,0 +1,1 @@
+Polars introduced an auto-cache mechanism for LazyFrames that occures multiple times in the logical plan. With explicit cache, we get more optimal plan because the join of df1 and df2 is performed only once. Why doesn't Polars auto- cache mechanism detect the repeated usage of join, and apply the cache by itself? What am I missing?

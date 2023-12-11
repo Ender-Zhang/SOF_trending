@@ -1,0 +1,1 @@
+I tried to get rid of @MappedSuperclass , removed inheritance from BaseEntity and created an id field by analogy from Base entity. Everything worked as it should.

@@ -1,0 +1,2 @@
+I have one JSON file and I´m trying to insert in database. Inserts are not working, not sure if I am looping correctly json I´ve done a very easy example: This is the table: and the procedure: And this is the JSON This is the call: Nothing is inserted, no errors... nothing
+Any idea what´s happening? Thanks! With correct JSON your path works: I could not find any issue in your code. But i will suggest , Can you try like this. I think this is the better way to insert json into the oracle db. Hope this code helps you.

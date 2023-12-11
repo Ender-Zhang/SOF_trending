@@ -1,0 +1,1 @@
+The Apache Commons library provides the FixedSizeList class which does not support the add, remove and clear methods. If you try to call one of these methods, your list remains the same size. I don't believe there is anything within the Java Framework.

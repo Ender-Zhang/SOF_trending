@@ -1,0 +1,1 @@
+navigator.serviceWorker.controller is null after I register my webworker: Setting a 15s timeout the same behavior occurs. And registration.serviceWorker has the controller property still set to null . However, after a soft refresh to the page the controller becomes accessible. why would this be ?

@@ -1,0 +1,1 @@
+find noun sentenc regard context use nltk librari follow problem script consid vintag noun true given context adject achiev task appendix use textblob get vintag car noun use spaci might solv task tri output use spaci separ noun print howev wish extract noun adject tri suggest print

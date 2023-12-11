@@ -1,0 +1,1 @@
+A time zone is a named history of the past, present, and future changes to the offset used by the people of a specific region. An offset is merely a number of hours-minutes-seconds ahead/behind the temporal meridian of UTC. You can get such a list in Java 8+ using the java.time classes.

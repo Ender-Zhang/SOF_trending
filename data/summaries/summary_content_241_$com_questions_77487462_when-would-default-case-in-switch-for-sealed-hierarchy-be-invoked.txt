@@ -1,0 +1,1 @@
+Starting JDK 21, pattern matching for switch enforces switch to be exhaustive. Since Rectangle & Square are records, it inherently makes the whole hierarchy non-extensible. A default class is allowed because it is possible that it is selected.

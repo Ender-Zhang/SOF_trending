@@ -1,0 +1,1 @@
+How to configure indentation and other configuration for maven build plugin by modifying google_checks.xml. Checkstyle does not (yet) support inheriting or embedding configuration (apart from using external DTDs, which is disabled by default because of security concerns)

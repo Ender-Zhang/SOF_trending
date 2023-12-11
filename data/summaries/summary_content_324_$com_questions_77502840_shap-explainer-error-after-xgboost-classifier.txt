@@ -1,0 +1,1 @@
+I am trying to understand my XGBoost model using shap. To the model I feed data in form of a dataframe with most columns having either -1,0,1 as values. 1 column has numerical values. The model works perfectly when trying to predict new values. I get following error: I already tried it with less estimators (20k) Still doesnt work.

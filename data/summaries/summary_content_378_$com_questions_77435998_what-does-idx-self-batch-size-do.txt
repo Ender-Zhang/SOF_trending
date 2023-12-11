@@ -1,0 +1,1 @@
+The function def __getitem__(self, idx): is used to fetch data from your CIFAR10Sequence dataset. When loading data from a dataset, the dataloader generates the index ( idx ) to sample a batch of data. For example, suppose your dataset contains 420 data. If idx = 42 , and the batch size self.batch_size = 8 , the def __ getitem__() function will sample data from 42×8 to 42–8+8.

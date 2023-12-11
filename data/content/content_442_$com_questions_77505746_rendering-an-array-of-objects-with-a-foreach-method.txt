@@ -1,0 +1,1 @@
+I'm having issues rendering an array of objects that are produced by a class using a forEach method. I've updated the question so that other individuals can have a live example of the problem. this code includes the html, and JavaScript sections where i'm having the issues.

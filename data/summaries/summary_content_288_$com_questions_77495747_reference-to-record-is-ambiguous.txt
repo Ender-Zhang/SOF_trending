@@ -1,0 +1,1 @@
+JOOQ has a class name with the same name that the JDK does. When you use the * (asterisk) to import the classes from jOOQ, the compiler doesn't know which class you are trying to use. For such cases you will need to import org.jooq.Record explicitly.

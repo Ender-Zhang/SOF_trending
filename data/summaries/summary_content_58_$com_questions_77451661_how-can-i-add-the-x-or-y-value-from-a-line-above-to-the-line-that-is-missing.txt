@@ -1,0 +1,1 @@
+When there is no "X" or "Y" value in a line, I want to take the value from the line above and copy it to the line after that, that is missing the value. I have a .csv file that has this structure: X310.433,Y9.6, X143.52, X144.77.

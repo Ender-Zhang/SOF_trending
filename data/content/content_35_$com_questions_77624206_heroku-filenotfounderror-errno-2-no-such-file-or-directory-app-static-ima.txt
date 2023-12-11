@@ -1,0 +1,3 @@
+I am trying to deplay my app on heroku and am having issues with file dir
+ERROR: current code any idea how can i solve the issue?
+the folder order the folder order I tried to change the path to and still was getting the same issue

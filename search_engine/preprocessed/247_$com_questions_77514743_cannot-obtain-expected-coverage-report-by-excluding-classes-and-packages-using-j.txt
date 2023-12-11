@@ -1,0 +1,1 @@
+tri exclud class packag base hilt gener content modul bindingimplement jacoco report return expect result detail follow kotlin version gradl version java compat java version jacoco tool version app gradl file

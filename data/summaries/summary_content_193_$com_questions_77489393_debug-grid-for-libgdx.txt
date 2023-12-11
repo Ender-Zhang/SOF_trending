@@ -1,0 +1,1 @@
+Can I somehow draw a 3d grid in my libgdx app, so I can zoom in and out of this grid in order to see what is going on with my application? You can use 'createLineGrid' on ModelBuilder to create a grid that (unless you rotate it) extends in the X-Z plane.

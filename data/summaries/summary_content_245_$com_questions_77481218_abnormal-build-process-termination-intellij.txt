@@ -1,0 +1,1 @@
+I've come across the problem that intellij won't start the java application as it give me an error of abnormal build process termination. Turns out, updating the jdk version worked to solve the problem.

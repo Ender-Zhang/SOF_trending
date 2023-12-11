@@ -1,0 +1,1 @@
+The majority of clustering examples in Python require an array as the input. My data is too large to fit into an array in memory (I have 64gb at the moment) I can process the features in VGG16 using the image generators/batch methods in keras, but then I cannot find a way to use these outputs in clustering algorithms without converting to an array.

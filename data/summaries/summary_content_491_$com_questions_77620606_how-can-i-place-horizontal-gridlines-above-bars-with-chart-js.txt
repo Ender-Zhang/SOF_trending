@@ -1,0 +1,1 @@
+Using Chart.js you can create a bar that looks like the second image. The y-axis line will "cross" the bar and space it out a bit. You can move the Y-axis grid above the bar layer with the z property.

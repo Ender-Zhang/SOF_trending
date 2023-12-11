@@ -1,0 +1,1 @@
+Edit and Continue feature allows you to change your code while the debugger is paused. To enable Edit and Continue, check this discussion: Is there a way to *completely* disable this feature?

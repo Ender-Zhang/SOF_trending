@@ -1,0 +1,1 @@
+P permutations is a way of finding all the permutations of an array. The approach which you're following is correct. There needs a slight modification in your implementation. When you push the element into the res array, you need to push it into an array combined with each of the sub-permutations returned by the permute(filteredArray) call.

@@ -1,0 +1,5 @@
+I want to use maven to insert the plugin configuration from a separate repo into my project. The separate repo has the following structure:
+"my-check" pom.xml module "my-archunit-plugin-config"
+-pom.xml My other java project is a simple spring boot project. it is named "my-bookshop".
+I want to include the parent pom of "my-check" , so that all modules especially the plugin configuration will be inheritated to "my-bookshop". The content of the pom of "my-archunit-plugin-config" is: How can i do this?
+I tried it by using the as dependency or in dependency management or as plugin management. But nothing works. If look with in intellij in the "my-check" project i see the plugin. But if i look into "my-bookshop" where i tried to resolve also the plugin then it is not where. How can i achieve it? Im using Maven 3.8.1

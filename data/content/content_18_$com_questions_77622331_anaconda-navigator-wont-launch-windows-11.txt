@@ -1,0 +1,3 @@
+I can't open Anaconda Navigator and Spyder from the drop down list (see image). No error appears. No issue when I open Spyder and Navigator from Anaconda Prompt (CLI).
+Digging into the code I see that the drop down shortcut is running C:\ProgramData\anaconda3\pythonw.exe C:\ProgramData\anaconda3\cwp.py C:\ProgramData\anaconda3 C:\ProgramData\anaconda3\pythonw.exe C:\ProgramData\anaconda3\Scripts\anaconda-navigator-script.py In cwp.py I get I followed the instructions in Anaconda Navigator won't launch (windows 10) nothing helped. The problem was fixed by modify "C:\ProgramData\anaconda3\cwp.py" line 10
+from into

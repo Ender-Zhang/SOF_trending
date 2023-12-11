@@ -1,0 +1,1 @@
+I am trying to deplay my app on heroku and am having issues with file dirERROR: current code any idea how can i solve the issue?

@@ -1,0 +1,4 @@
+I'm not good at English so I'm sorry for you.
+I want to use gpu version keras on M2 mac.
+and I followed this and installed them.
+then I executed its sample code and get the error. I have Mac M2 and I followed this: https://developer.apple.com/metal/tensorflow-plugin/ Everything worked fine and I checked the versions with the following:

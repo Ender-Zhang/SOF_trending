@@ -1,0 +1,1 @@
+I'd like to recursively find all .md files of the current directory that contain the “Narrow No-Break Space” U+202F Unicode character. A great addition would be to replace such U+ 202F s by normal spaces. I already find a way to extract text between \begin{document} and \end{document}.

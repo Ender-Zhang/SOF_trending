@@ -1,0 +1,2 @@
+My code: My current output: My desired output: I suppose I should do join or merge, but when I tried those I multiply the columns.
+I have done this with the loop but I am asked to make my cord shorter. Since you normalize , you can pass the meta parameter to add the 2 missing columns : Output : Try: Prints:

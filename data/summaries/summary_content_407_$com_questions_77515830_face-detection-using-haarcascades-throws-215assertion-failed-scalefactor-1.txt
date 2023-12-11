@@ -1,0 +1,1 @@
+The failed assertion was: (-215:Assertion failed) scaleFactor > 1 && _image.depth() == CV_8U in function 'detectMultiScale' Both conditions must be true. The scale factor needs to be larger than 1. Your code also calls detectMultiScale() repeatedly on the same image, with varying scale factors.

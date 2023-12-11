@@ -1,0 +1,1 @@
+I implemented CameraX but can’t enable front flash when taking a selfie. However my stock camera app is working well but CameraX is not. Did anybody face a similar issue before?

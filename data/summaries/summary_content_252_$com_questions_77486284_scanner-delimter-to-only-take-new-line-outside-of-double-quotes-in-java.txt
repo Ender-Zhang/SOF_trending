@@ -1,0 +1,1 @@
+I have requirement to read from the scanner based on new line only if its out side the double quotes. I have tried with but it not working as expected above, checked other also but none of them working for this. Please suggest what you can do.

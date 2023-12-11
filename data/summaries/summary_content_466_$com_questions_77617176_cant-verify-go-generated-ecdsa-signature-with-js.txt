@@ -1,0 +1,1 @@
+Hashing files with SHA-256 in a mobile app and sign the hash in the backend with an ECDSA P-256 key. This is then persisted. If the user needs to he can verify the integretify of the file, by basically hashing the file again and looking up the hash.

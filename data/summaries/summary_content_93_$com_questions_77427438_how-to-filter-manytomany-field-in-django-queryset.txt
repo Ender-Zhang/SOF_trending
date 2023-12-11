@@ -1,0 +1,1 @@
+I want to get the video, specified by query parameter. I have models: (I mean that a video have some parameters like Key-Value (ex. {"rabbit": 1, "panda": 1,. "lion": 0})) Then I am trying toget the video. (like this /video/?rabbit=1&panda=1 &lion=0) The SQL code that I want to do is belows: How can I realize this process in Django?

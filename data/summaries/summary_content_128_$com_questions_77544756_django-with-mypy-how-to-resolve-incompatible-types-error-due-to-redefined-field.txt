@@ -1,0 +1,1 @@
+ Typing checks via mypy have been recently added. How can I make it so that mypy allows this type reassignment? I don't wish to just use # type: ignore because I wish to use its type protections. One option is to overwrite the django stubs to be compatible with your user model.

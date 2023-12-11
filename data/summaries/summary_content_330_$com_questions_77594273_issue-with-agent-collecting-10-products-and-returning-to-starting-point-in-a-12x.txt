@@ -1,0 +1,1 @@
+I have a 12x11 matrix. I want my agent to start from row 0, column 5 (reward points 1) and collect 10 products. The problem is that once the agency starts its action it only collects 1 reward and stays there. What is my mistake?

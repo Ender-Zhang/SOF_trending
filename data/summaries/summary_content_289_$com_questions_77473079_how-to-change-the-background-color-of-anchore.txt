@@ -1,0 +1,1 @@
+I am implementing an Apache POI chart which creates three Chart. The background color of the chart is WHITE. But i would like to change it to custom RGB color. In the above image I want to change color of whole red marking area.

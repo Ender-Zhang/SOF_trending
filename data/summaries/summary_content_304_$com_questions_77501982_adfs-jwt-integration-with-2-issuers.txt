@@ -1,0 +1,1 @@
+I am trying to authorize the application with adfs. FOr many days I though the problem is with the authorization itself How to get access to the REST endpoints based on roles that are coming from payload claim JWT. However I discovered that in adfs you have an issuer path but also an access_token_issuer.

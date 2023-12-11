@@ -1,0 +1,1 @@
+I need to write python code that will connect each value of the Gold column with the data bundle [LithIntervalFrom, LithIntervalTo, Description]. But you need to take into account SamplingFrom and SamplingTo . That is, if Sampling From is equal, then we begin to assign values from the line where these variables are equal.

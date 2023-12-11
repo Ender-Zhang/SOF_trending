@@ -1,0 +1,1 @@
+I have some problems using the Process and ProcessBuilder classes in Java. The readAllAsString() method looks like this: This works fine, but it doesn't handle all scenarios. What if the process doesn't exit normally, but sits and wait for input on its standard input?

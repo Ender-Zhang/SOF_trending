@@ -1,0 +1,1 @@
+I'm looking for a way to record only a single thread in a JDK Flight Recording. It's not possible to prefilter JDK/JVM events per thread. The best you can do is filter it afterwards, for example:

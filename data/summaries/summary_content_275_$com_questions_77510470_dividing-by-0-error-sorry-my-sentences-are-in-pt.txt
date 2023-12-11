@@ -1,0 +1,1 @@
+I'm trying to build an algorithm that let's the user choose (N) number of numbers, and then randomly display them. But there's this error with my counter, says it can't divide by 0, I even tried to initialize it as 1, and before I do the math I take -1 from him to come to it's original value, but it won't work. Would appreciate some enlightnment here!

@@ -1,0 +1,1 @@
+A generator object's "size" isn't a function of the elements it will produce. It's the code it executes to generate the elements. Why does the 4 generators below use 8 more bytes?

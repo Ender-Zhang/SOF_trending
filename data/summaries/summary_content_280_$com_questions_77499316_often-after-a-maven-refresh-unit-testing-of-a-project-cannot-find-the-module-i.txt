@@ -1,0 +1,1 @@
+The problem occurs when trying to rebuild an application from a clean install in a command line. IntelliJ 2023.2.5 fails to compile the whole application. But, if I rebuild only that module, the build will succeed and the unit tests also.

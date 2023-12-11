@@ -1,0 +1,1 @@
+The type hint in g is more loose. It expects either a float or an array and will return a float. This is surprising and frustrating, because it means that one cannot use my function f without being very cautious.

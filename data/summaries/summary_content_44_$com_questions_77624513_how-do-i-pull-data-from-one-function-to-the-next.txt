@@ -1,0 +1,1 @@
+I'm just trying to figure out how to use the conditional if all of my prompts from different functions were answered with 'No' so that if thats the case it calls a different function.

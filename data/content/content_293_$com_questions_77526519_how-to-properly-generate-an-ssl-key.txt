@@ -1,0 +1,4 @@
+I'm trying to write a SSL server in Java Here's my server I generate a key using this:
+keytool -genkey -keystore server1.keystore -keyalg RSA
+In my C:\Users\Sky But I'm getting this error: I have asolutely no clue why this happens. The key was generated... I've been stuck with this for a few hours. Besides this I got this client: How do I generate a truststore? The end goal should be to convert it to a TLS server. It shouldn't be too dificult if I solve this.
+Any help would be highly appreciated. Sincerely.

@@ -1,0 +1,1 @@
+I have a double value between .0d and 60.0d. How can I format the value with left zero padded? Use the Decimal Format class. You can do it easily with String.format() :

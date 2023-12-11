@@ -1,0 +1,1 @@
+The app/EazyCNC.cfg looks like. The resulting exe works but no classpaths apart from the main .jar seem to be set. I'm using the jpackage from jdk21 as jdk11 does not have it.

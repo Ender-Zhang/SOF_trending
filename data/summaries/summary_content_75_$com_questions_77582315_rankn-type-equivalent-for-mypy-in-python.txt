@@ -1,0 +1,1 @@
+In Haskell we can use rankN types like so: Is the same thing possible in python with mypy? I don't know if there is a similar way to convey this to mypy if it is possible at all. I'm no Python expert, but from such issues as python/mypy#4395 it seems like this doesn't exist.

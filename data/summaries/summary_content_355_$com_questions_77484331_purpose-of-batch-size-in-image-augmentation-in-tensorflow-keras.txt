@@ -1,0 +1,1 @@
+I am trying to do image augmentation using keras and tensorflow. However, i couldn't understand the impact of batch_size parameter on the augmented data. I gave 1 image as input, code ran for 3 times, my output were only 3 images.

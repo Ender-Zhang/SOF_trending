@@ -1,0 +1,1 @@
+A HashMap has 10 entries but I only want to print 3 entries. Why is the if-condition inside while-loop is not working? You don't exit out of the loop once i becomes 4. Also, you don't consume/read the subsequent elements from the iterator.

@@ -1,0 +1,1 @@
+The formula I know to calculate TF-idf is TF * IDF where TF is the number of times the word occurs in a document D. The vectorizer I used had the following parameters: vectorizer = TfidfVectorizer(norm=None)

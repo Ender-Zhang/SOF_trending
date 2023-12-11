@@ -1,0 +1,1 @@
+I have this picture of white and black squares. Is there a way to scan the image from left to right and write the binary output to a .txt file? I need to do it in python.

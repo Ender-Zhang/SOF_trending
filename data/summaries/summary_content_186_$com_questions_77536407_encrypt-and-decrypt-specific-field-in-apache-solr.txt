@@ -1,0 +1,1 @@
+I'm working on a project where I need to secure a specific content field in Apache Solr by encrypting the data during indexing and decrypting it during search. Is there any tried and tested way to implement such scenario?

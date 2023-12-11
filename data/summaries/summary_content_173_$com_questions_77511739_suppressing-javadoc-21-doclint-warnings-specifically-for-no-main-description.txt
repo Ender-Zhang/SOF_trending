@@ -1,0 +1,1 @@
+In Java 17 that produced Javadocs just fine. Now in Java 21 I get the following warning (oodles of them!) throughout my large codebase. I struggle to understand the utility of this new warning. I would like to suppress this warning project-wide in the configuration.

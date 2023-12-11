@@ -1,0 +1,1 @@
+As of 2023-11-01, Apple has changed their notarization process. I took the opportunity to drop Apple's own tools for this process ( notarytool ) and switch to a Python-based solution using their documented Web API. This works great and has the additional bonus, that I can now notarize macOS apps from linux.

@@ -1,0 +1,1 @@
+Apple app store receipt validation can be done using NodeJs. For the purpose of this validation information defined in the PCKS7# container is required to be decoded. Here my knowledge comes short as I am unable to retrieve this information (e.g. receipt_creation_data , bundle_id )

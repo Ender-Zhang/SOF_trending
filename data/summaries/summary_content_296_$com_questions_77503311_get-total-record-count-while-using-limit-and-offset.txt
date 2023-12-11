@@ -1,0 +1,1 @@
+I don't know if what I'm about to post is the best way, but it's working for me. This is a sample project, and it appears to work. I'm fairly sure this turns into two hits to the database. If there's another way to do this, I hope someone posts a better method.

@@ -1,0 +1,1 @@
+I'm using Azure Machine Learning v2 SDK to create a model deployment on a kubernetes compute attached to an AML workspace. I'm able to deploy it locally as part of testing before deploying online. However, when tried to deploy online using KubernetesOnlineDeplyoment , I received DeploymentIdentityError: Failed to create Kuberne deployment identity. (More detailed error below)

@@ -1,0 +1,1 @@
+There should be a link on the main page that by clicking on it, all the products in the watch list will be displayed. By clicking on the detail button, you can see the details of the product. And by clicking the remove button, the product will be removed from the list.

@@ -1,0 +1,1 @@
+use huggingfac librari bart model want use beam search text gener interfac time know use beam search case use bart encod decod variat autoencod latent variabl insid autoencod directli use model short way use beam search case librari gener beam search given input model

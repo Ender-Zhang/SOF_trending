@@ -1,0 +1,1 @@
+React component holds a single boolean in state and renders a button that toggles that value. The value of the boolean comes from an object that is created in a parent component. When the object is created the button is displayed but the actual value is set slightly later.

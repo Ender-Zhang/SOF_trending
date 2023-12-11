@@ -1,0 +1,1 @@
+I'm trying to figure out how to make my code more readable and have less lines in my code. Use a dictionary to map extensions to content-types. It's probably better to use existing mimetypes package.

@@ -1,0 +1,1 @@
+I'm working on a project where I need to find out if image (toothed wheel) is OK or NOK. It is determined by minimum possible defect (in pixels) of teeth. So far I wrote code which will find the centre of the toothed wheel.

@@ -1,0 +1,1 @@
+implement camerax enabl front flash take selfi howev stock camera app work well camerax anybodi face similar issu implement camerax enabl front flash take selfi use give getcameraidlist getcameraidlist accept valu back camera front camera work

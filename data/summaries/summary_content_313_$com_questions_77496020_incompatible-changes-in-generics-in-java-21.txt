@@ -1,0 +1,1 @@
+Jdbi depends on the Geantyref library for some of its generics. Nowhere in the release notes or other announcements I can find anything about that something around generics has changed in Java 21. Anyone an idea what caused theses changes and why?

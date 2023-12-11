@@ -1,0 +1,1 @@
+I am trying to use the Google DocAI Warehouse sample Python code and it looks like that the location parameter is always ignored and just assumes the 'us' location. My prototype project has 'eu' as location and the sample code simply fails. Just wondering if anyone on here can help?

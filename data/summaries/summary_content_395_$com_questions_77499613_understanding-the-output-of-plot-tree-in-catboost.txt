@@ -1,0 +1,1 @@
+I am trying to visualise the trees created by catboost model. But I am unable to understand the output being rendered. Merchant_Channel and Merchant_Id are categorical variables. What do value, counter_type, prior_numerator and border mean?

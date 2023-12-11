@@ -1,0 +1,1 @@
+I'm building a Single Elimination UI using React and CSS. I've got an issue when trying to connect lines between players. I tried this way. drawn a line over it. but structure got failed.

@@ -1,0 +1,1 @@
+I have a two dimensional numpy array where some rows may have nans. I want to select the occurrence or absence of nans in rows of these arrays. What is the most optimal way of doing this? I will be dealing with numpy arrays with millions of rows.

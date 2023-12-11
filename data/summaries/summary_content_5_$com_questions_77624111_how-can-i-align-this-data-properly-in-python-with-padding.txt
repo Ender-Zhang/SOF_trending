@@ -1,0 +1,1 @@
+New to Python, I am struggling to format my data nicely for printed output. I have a hunch that there must be a data structure for this, but I cannot find it. There are some light and useful python packages for this purpose.

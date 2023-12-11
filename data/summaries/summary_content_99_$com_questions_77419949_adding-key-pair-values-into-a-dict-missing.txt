@@ -1,0 +1,1 @@
+I have been trying to add key values of a list into a dict. The key is the amount of times X is repeated in the list, and the value is X itself. The expected output was: The the actual output received was: Does anyone have any idea why is that you couldn't have duplicated keys in dict?

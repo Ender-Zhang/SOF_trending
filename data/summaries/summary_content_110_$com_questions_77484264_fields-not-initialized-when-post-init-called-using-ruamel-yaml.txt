@@ -1,0 +1,1 @@
+I am using Python 3.11 with ruamel.yaml 0.18.5 on MacOS. I have two dataclasses: Msg and Field. Msg has a field fields of type list[Field] . I want to assign something to a field of each Field after they have all been initialized. However, when I add a __post_init__(self) method to the Msg dataclass, the fields list is empty, so I can't update the indices. Why is this?

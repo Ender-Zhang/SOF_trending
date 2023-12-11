@@ -1,0 +1,26 @@
+I have requirement to read from the scanner based on new line only if its out side the double quotes. Input : "Content1 \r\n block" \r\n Contentn2 \r\n  New Content " \r\n Conetent3" Expected Output : "Content1 \r\n block" Content2 New Content " \r\n Conetent3" I have tried with but it not working as expected above, checked other also but none of them working for this /(?<=^[^"]*(?:"[^"]*"[^"]*)*)\r?\n/ this worked in Javascript to get only outside \r\n, but not working in java throwing error when tried to use as fileScanner.useDelimter() Look-behind group does not have obvuios maximum length Please suggest What you can do is use a regular expression that matches
+double-quoted strings or your \r\n , in two different named
+capturing groups. This can be done with the use of (?: | ) to do
+an " or " condition (without capturing it) and then with (?<group_name> ) to create the named capturing groups. To match a double-quoted string, it can be something like this: "(?:\\.|[^"])*" Explained: " matches the opening double-quote. \\. matches a backslash followed by any char. This is
+because double-quotes are allowed in a string and are usually
+escaped with a backslash. This way, we don't stop on a double
+quote. It will also handle this case properly: If we just have \\" as pattern, then we would not match
+correctly the "Backslash = \\" string and continue until
+the next opening double-quote. This is where we see that using a regex with lookarounds
+isn't really a solution. We need to "consume" content like
+a parser would do. By the way, your content looks like some
+CSV content without the usual , or ; delimiter. A CSV
+parser will handle strings properly. We have to try and do
+the same with our regex pattern ;-) You have to check how double-quotes are escaped in
+your input . For example, CSV syntax just doubles the
+quotes like this: [^"] will match any char which is not a double-quote. (?: | ) is a non-capturing group with two possibilities.
+Adding the * behind means that it can be repeated 0 or N times. The full regex, with the x flag for the e x tended syntax will let you add comments and spaces in your regex, for better
+reading. The PCRE syntax (PHP), with the g flag for g lobal/multiple : Test it on regex101 for Java : https://regex101.com/r/c0LZD2/3 You'll have to loop over the matches and test if the group named newline (or the group of index 2) is filled or not. If it's filled
+then replace it by your real newline. I'm not a Java developer. I use PHP or JavaScript and do that
+with a replacement callback, like this: Edit Since the question was edited to be a bit clearer, my answer isn't
+valid any more . The original question wasn't saying that \r\n was
+already in Java strings, so I was literally looking for this
+sequence of 4 characters and not the real carriage return and new
+line characters. It wasn't also clear that we had to stick using the Scanner class
+and use a "split" kind of pattern. Never mind... But in any case, don't forget to handle quotes in
+strings as they aren't any details or assumptions about this point. Traverse s , appending a substring for any line-feed , when b is false . Here is the output, with \r and \n replaced with literals, for readability. Edit If you expect escaped quotation-marks , \" , provide a  check, before flipping b .

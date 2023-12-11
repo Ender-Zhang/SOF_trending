@@ -1,0 +1,1 @@
+I'm writing a nwjs game, and I want to add accessibility features to it. I'm currently using the aria-live property to communicate with the screen reader. This works, but I need a way to interrupt it. Is there a way do do that? Or maybe there's a better way?

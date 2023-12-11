@@ -1,0 +1,1 @@
+I'm trying to convert markdown to restructuredtext. markdown has a picture with a relative path, how to automatically add an absolute path? This is my code.

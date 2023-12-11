@@ -1,0 +1,1 @@
+tri add perturb model optim perturb model paramet like follow simpl howev gradient perturb still none execut figur caus problem realiz result need think none execut chang attribut track autograd need someth like return x perturb clean

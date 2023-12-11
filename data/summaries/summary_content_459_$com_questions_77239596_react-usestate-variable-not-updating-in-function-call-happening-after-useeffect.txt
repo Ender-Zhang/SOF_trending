@@ -1,0 +1,1 @@
+React component takes some time to finish loading. If the user attempts to invoke a function on it, I aim to save that function call. When loading transitions to false, I trigger the queued function if it is defined.

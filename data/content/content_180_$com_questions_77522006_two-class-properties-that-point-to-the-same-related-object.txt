@@ -1,0 +1,5 @@
+In a request(request is for vacation days dates), that an employee can send, it needs to be clear who sent the request and who approved it(manager approves it), that's why I have requester and approver fields.
+I have employee class in which(besides username, email etc.) I have a role filed(role is an enum - it has 'ADMIN', 'MANAGER' and 'STAFF_MEMBER') so I can distinguish who is who.
+I have an bidirectional relationship between Request and Employee, my question is:
+How to do the mappedBy part if the field('requests') is connected with two fields that use @JoinColumn on the same id(of table Employee).
+In my example i put mappedBy = "requester" but does it also need to be connected with "approver" also? Employee.Java Request.java I just put mappedBy = "requester" to see if the program will run, and it did, no errors.

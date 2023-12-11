@@ -1,0 +1,1 @@
+When i hide the primaryStage, or close it, and i instantiate an stage again to be shown, it won't get the cursor position anymore. The UI keeps appearing in the same position as the first time. It's like the Controller keeps running. Somebody knows why does it happens? And how can i solve this?

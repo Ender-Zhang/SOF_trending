@@ -1,0 +1,1 @@
+Since setTimeout callbacks are ran asynchronously, we'll have to skip over it and wait for the full call stack to finish before going through the callback queue. From my computer, it took around ~20 seconds for the whole for loop to finish running.

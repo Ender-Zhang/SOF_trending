@@ -1,0 +1,3 @@
+I have a code where I want to increase the height of a stick (basically a rectangle) on detecting a key press.
+Initially, on detecting key presses the code was printing out text, which worked perfectly fine
+However after I created a rectangle object, wrote the code to increase it's height, and interfaced the rectangle with the corresponding fx:id and ran it, it threw the following error So I went back to the scene builder, and now when I tried to check if the rectangle was associated with the correct fx:id, I simply saw that the id had disappeared. This is a recurring problem. Each time I create a new rectangle, I can see the fx:id there. But right after running the code, the id disappeared. The Error The bugged controller.java code and my game-view.fxml

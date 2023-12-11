@@ -1,0 +1,1 @@
+My NextJS application is as follows: app/page.js app/layout.js When I run I get the following error: I can't find any reference to default.then. Is there any way this error can be narrowed down? I haven't been able to find this error on a web search.

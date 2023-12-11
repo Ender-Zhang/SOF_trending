@@ -1,0 +1,1 @@
+A certain producer sends Protobuf messages as binary data (byte array) These binary data enter a misconfigured Kafka cluster which deserializes the byte array as string. Then, that cluster serializes the data as string and sends it to the consumer. The unsuspecting consumer expects to receive a binary byte array, but instead gets a UTF-8 encoded mess.

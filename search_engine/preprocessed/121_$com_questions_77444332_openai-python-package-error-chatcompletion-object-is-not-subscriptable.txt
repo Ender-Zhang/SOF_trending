@@ -1,0 +1,1 @@
+updat openai packag version got error tri read chatgpt api respons object subscript code resolv error latest openai packag object type chang way must read respons complet work code see exampl project readm

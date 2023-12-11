@@ -1,0 +1,1 @@
+I want to display a nice plot of SHAP values. I have the following code that is working. I tryied the following line of code shap.summary_plot(shap_values, X, feature_names=['Feature 1', 'Feature 2', ' Feature 3], 'Feature 4', ' feature 5']) but is not working With your LSTM model, specify the class and datapoint you want to explain.

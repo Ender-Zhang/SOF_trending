@@ -1,0 +1,1 @@
+I need to send a string to a Dot Matrix printer which uses Epson FX emulation that would print a simple barcode. I am able to print it by manually typing out the control codes into a string. Now my struggle is actually giving it my own data and changing the last 10 string codes. Is there a way in JavaScript to do this?

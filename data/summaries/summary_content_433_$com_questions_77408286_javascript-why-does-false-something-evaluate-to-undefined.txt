@@ -1,0 +1,1 @@
+When properties are accessed on primitives, JavaScript auto-boxes the value into a wrapper object. Once the property access is complete, the temporary object wrapper is discarded. In your examples: false.nonExistingProperty accesses a property on the false Boolean value.

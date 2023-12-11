@@ -1,0 +1,2 @@
+I edited the question after i experimented a bit more ! I am experimenting with yolo8. I made a test script to show the problem: I expected to find 1 contour but i find 3 contours in this example. input image: output image: So 1 mask belongs to 1 found object but it has 3 contours. Why is it finding multiple contours ? How should i filter out the correct contour ?
+I found that the first found contour is not allways the correct one.

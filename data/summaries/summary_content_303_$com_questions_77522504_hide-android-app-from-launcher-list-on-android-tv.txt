@@ -1,0 +1,1 @@
+Is there any way to hide an Android app from the Android TV launcher list? I removed the activity class from the code and removed the manifest activity declaration as well. But the Android app is still showing up in the launcher list. This is like hidden system apps try delete intent filter.

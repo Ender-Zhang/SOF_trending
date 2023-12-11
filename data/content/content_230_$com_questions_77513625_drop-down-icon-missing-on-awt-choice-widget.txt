@@ -1,0 +1,2 @@
+Running my java awt code on Linux MintOsv20. The program extends java.awt.Frame and adds to it a simple choice menu of fruits, which upon selection will update a textfield. But alas, the drop down menu is not having its caret icon. produces the output as, Another one of my Mint os machine also had this issue.
+Can some learned counsel guide me on this?

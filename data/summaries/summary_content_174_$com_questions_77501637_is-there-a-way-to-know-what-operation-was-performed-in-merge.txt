@@ -1,0 +1,1 @@
+Using jOOQ and PostgreSQL, is there a way to know what operation was executed for a MERGE, INSERT or UPDATE? E.g. using the example from jOOZ's documentation: Ideally, I'd get both the resulting row and what operationwas executed.

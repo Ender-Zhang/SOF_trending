@@ -1,0 +1,1 @@
+There are various third-party "form" hooks for doing this sort of thing, so you might search for one of those. You could go even further and generate the form fields from the object.

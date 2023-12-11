@@ -1,0 +1,1 @@
+Data set includes AVGAttendance, AVGAbsence, AVGGrade, AVGofPracticaltasks, AVGTotalclicks. Target variable is the (AMS) which has categorical data such I(Intrinsic motivation), ID(Identified regulation), E(External regulations)

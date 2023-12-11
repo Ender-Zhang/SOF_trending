@@ -1,0 +1,12 @@
+react-native-geolocation-service(^5.3.1) throws this error or app crashed when Geolocation.getCurrentPosition() is called. The error started getting after I have added react-native-maps(^1.8.0) library. It was working fine before. After doing a lot of search, i saw somewhere it was probably due to version mismatch of playservices from other modules. react-native version - 0.72.3 In my android/build.gradle > googlePlayServicesVersion = "17.0.0" When i change googlePlayServicesVersion version then the build fails with the following message:
+`* What went wrong:
+Could not determine the dependencies of task ':react-native-device-info:compileDebugAidl'. Could not resolve all task dependencies for configuration ':react-native-device-info:debugCompileClasspath'.
+Could not find com.google.android.gms:play-services-iid:18.0.0.
+Required by:
+project :react-native-device-info Try: Run with --stacktrace option to get the stack trace.
+Run with --info or --debug option to get more log output.
+Run with --scan to get full insights. Get more help at https://help.gradle.org BUILD FAILED in 9s
+error Failed to install the app. Command failed with exit code 1: ./gradlew app:installDebug -PreactNativeDevServerPort=8081 FAILURE: Build failed with an exception. * What went wrong:
+Could not determine the dependencies of task ':react-native-device-info:compileDebugAidl'. Could not resolve all task dependencies for configuration ':react-native-device-info:debugCompileClasspath'. > Could not find com.google.android.gms:play-services-iid:18.0.0. Required by: project :react-native-device-info` Tried -
+bumping googlePlayServicesVersion to 17.+/18.0.0/20.0.0. implementation (project(path: ':react-native-device-info')) { exclude group: 'com.google.android.gms', module: 'play-services' } added the above line in android>app>build.gradle Faced similar issue, after hours of debugging here is the solution below. In android/build.gradle: Add this line => playServicesLocationVersion = "21.0.1" inside buildscript.ext In android/app/build.gradle: Add this line or upgrade the version to 21.0.1 if older version already exists=> playServicesLocationVersion = "21.0.1" add this Line project/build.gradle
+not android/build.gradlew

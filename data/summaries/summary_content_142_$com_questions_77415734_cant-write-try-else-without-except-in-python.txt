@@ -1,0 +1,1 @@
+You can't write just: You need an except to write an else (try-else-finally also doesn't work). The use case for an else without an except is to run some code on a non exception exit of the block. For this case specifically you can use: For general cases pass can be used: aneroid correctly pointed out that the code example does not work.

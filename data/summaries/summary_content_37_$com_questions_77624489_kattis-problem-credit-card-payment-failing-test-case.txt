@@ -1,0 +1,1 @@
+The problem is Credit Card Payment (problem ID: creditcard), available here. It seems simple enough to me at first. I then got to work implementing it. I had multiple solutions on how to round half up. Each one gave a slightly different amount of test cases passed.

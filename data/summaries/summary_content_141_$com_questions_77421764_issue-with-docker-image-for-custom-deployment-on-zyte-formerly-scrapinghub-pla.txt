@@ -1,0 +1,1 @@
+I am currently facing an issue while trying to create a Docker image for custom deployment on the Zyte platform. My goal is to set up a Python environment with Scrapy, Playwright, Twisted, and other necessary dependencies. I suspect there might be an issue with the paths or permissions.

@@ -1,0 +1,1 @@
+Booleans in Python are implemented as ints and usually there is no difference in numpy and other packages when changing 0 by False and 1 by True. The same thing happens with scipy.integrate.

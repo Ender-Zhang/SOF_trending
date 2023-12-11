@@ -1,0 +1,1 @@
+I want the finger to drag across the screen, and have a preview of the line show from the fixed start position. Problem is I am having trouble getting rid of all the preview lines drawn on screen so I'm getting this "sun-like" figure.

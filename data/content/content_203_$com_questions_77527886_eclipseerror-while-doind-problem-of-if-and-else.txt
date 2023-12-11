@@ -1,0 +1,1 @@
+this error comes in while my code is i dont get what this error actually means i m new in java still learning could you help me please You dont need to have String Args simple get he users input via scanner and check if it is passed or fail. Refer the below working exaple here . Sample code :

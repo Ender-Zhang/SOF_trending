@@ -1,0 +1,1 @@
+I wanted to write a transformer model to copy input sequence to output sequence. I thought it would be relatively straight forward, however the results are less than ideal. I would love to get some pointers on where I can improve.

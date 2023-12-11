@@ -1,0 +1,7 @@
+0.Suppose, you have to work with an ML problem, where you have to predict
+the number of oxygen tanks needed to be shipped from Indonesia. Which
+of the following ML algorithm you will choose:
+a. Logistic regression
+b. Decision Tree
+c. Both of the above
+d. none of the above choose an option for ml model

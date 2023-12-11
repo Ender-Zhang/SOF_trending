@@ -1,0 +1,1 @@
+I have two similar third-party services that send data to our application through XML. Both files have a "value" tag but with a different datatype (one string, one complex) I have not found a way to convince IntelliJ or the jaxb-runtime library to accept this situation.

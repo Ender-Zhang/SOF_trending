@@ -1,0 +1,1 @@
+run get result nan also get calcul loss function code look like train data look like valu either anyth els would expect predict somewher instead get nan number tri adam optim instead sgd keep code inform databas code run without nan also mention mhen good pratic need tri

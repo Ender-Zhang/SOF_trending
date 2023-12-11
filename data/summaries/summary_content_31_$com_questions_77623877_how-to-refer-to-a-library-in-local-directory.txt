@@ -1,0 +1,1 @@
+I am using a library awslimitchecker whose source code is in GitHub. I have forked the repo and add some modification. Now I would like to use my modified version in my script. How can I refer to this library in my local folder?

@@ -1,0 +1,1 @@
+I have a model trained and saved in a folder. I want to load it to integrate its result within a Flask web application. However, I have the error : when I use pickle to get the model. I provide it just in case but it works.

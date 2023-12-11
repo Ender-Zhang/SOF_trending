@@ -1,0 +1,1 @@
+I'm trying to find the equivalent of a min_count param on polars groupby, such as in pandas. Let's suppose the dataframe How can I groupby through the fruit key with the constrain of the group having at least 4 values for the sum?

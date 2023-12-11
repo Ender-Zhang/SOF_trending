@@ -1,0 +1,1 @@
+deploy model vertex gcp config code use deploy look like model configur util gpu resourc configur work use machin run model machin acceler request result extrem high latenc cpu util gpu util stay flat know go best troubleshoot option

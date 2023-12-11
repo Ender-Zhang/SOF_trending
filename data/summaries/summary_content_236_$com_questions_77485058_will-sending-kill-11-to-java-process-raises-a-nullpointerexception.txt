@@ -1,0 +1,1 @@
+HotSpot JVM employs a technique called "implicit null check" The JVM compiles an access to an object field which offset is less than a page size (4096) to a single load/store instruction. If such an instruction is executed for null reference, the OS raises SIGSEGV. HotSpot signal handler catches this signal and transfers control to the code.

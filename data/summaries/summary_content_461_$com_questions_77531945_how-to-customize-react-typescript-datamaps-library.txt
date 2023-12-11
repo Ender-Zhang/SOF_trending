@@ -1,0 +1,1 @@
+I am currently using the react-typescript-datamaps library in a ReactJS project. There is no explicit mention or feature that would allow you to directly customize the font style and size for country names. Any insights or code snippets would be greatly appreciated.

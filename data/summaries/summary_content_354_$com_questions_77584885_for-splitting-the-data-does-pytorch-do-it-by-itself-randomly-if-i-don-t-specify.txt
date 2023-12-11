@@ -1,0 +1,1 @@
+I am working on pytorch deep learning model autoencoder, i have dataset (csv file) with 10 classes and 500 000 rows. For splitting the data, does pytorCh do it by itself randomly if I don’t specify split ratio?

@@ -1,0 +1,1 @@
+I am reviewing some code written in tensorflow 1 that uses a neural network to modulate the weights of a second neural network. The documentation I found was really bad and I can't understand what exactly does the session.run function do with the "fetches" parameter.

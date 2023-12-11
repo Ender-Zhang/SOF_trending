@@ -1,0 +1,2 @@
+How are you doing? I have an issue in creating db in MariaDB using Java Spring boot jpa. User Model: Farm Model: User_farm Model: Maria DB table User Table Farm Table User Farm Table In the User Farm Table, after creating DB, "id" should be primary key and id_users and id_farm are fk. But "id_users" was primary key after building.
+Please let me know how I can resolve that issue. Thanks

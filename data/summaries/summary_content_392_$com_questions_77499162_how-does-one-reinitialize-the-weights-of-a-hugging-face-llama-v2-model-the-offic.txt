@@ -1,0 +1,1 @@
+I want to reinitialize the weights of a LLaMA v2 model I'm using/downloading. I went through all the documentation and the source code from their Hugging  Face code. I tried the very simple test of going through the modules/parameters and reinitializing.

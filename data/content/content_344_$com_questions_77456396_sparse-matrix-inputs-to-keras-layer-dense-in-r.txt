@@ -1,0 +1,1 @@
+Edit :  Wide open to possibilities in torch for R too. How can columns from a dgCMatrix in R be fed as inputs to a layer_dense when using the keras R API? My data is too large to consider coercing it from sparse to dense, and it is too inefficient to coerce small chunks to dense for minibatch updates. Minimum reproducible example:

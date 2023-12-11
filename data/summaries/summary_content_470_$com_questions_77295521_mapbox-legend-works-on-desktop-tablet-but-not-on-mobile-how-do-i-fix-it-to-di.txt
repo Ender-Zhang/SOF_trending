@@ -1,0 +1,1 @@
+In developer tools for Chrome, the legend displays perfectly on top of a mapbox map for desktop, tablet and mobile. If I actually use my iPhone though, the legends displays incorrectly. It becomes vertical and all formatting appears lost.

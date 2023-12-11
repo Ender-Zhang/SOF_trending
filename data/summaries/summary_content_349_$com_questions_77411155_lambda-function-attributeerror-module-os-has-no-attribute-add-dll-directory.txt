@@ -1,0 +1,1 @@
+I am encountering an issue with my AWS Lambda function with Python 3.9. The function uses Spacy (version 3.7.2) and is set up as a layer in Amazon Lambda. During execution, I'm facing the following error. I suspect it might be related to the Lambda environment or the way dependencies are packaged.

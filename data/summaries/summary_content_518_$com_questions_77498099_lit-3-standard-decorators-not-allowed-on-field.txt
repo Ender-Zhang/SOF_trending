@@ -1,0 +1,1 @@
+Using the Lit @queryDecorator for a field to query from the components shadow-dom. I have tried with/without the accessor . Setting the player =null for some sort of initialization.

@@ -1,0 +1,1 @@
+Currently, I am using relplot to do this: However, this leads to a plot where the empty plots are distorting the placement of the subplots with data. Here is another solution that is based on @mwaskom's suggestion in the comments.

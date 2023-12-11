@@ -1,0 +1,1 @@
+I'm trying using pyspark but got error every time, which version of spark,hadoop,java should i use ? I don't understand Spark very well, but I was able to fix this issue by upgrading Spark. Upgrading Spark itself to 3.5.0 resolved it.

@@ -1,0 +1,1 @@
+I am just starting to learn selenium automation, and I am stuck at a part where even though I follow tutorials to the point, it does not work. I have to use Java 1.8 version.

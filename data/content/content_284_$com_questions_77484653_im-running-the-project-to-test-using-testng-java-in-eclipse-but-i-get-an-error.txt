@@ -1,0 +1,1 @@
+I have applied the jdk21 library instead of the default, and selenium server 4.15.0 and also installed tomcat 8.5 but when I run it I get an error. I tried downloading aspectjweaver-1.9.2.jar into the aspectjweaver folder but running it again still got the error.

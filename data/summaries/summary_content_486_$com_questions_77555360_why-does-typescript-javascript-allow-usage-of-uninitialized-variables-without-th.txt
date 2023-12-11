@@ -1,0 +1,1 @@
+I have encountered an issue where TypeScript or JavaScript does not throw an error or warning for using an uninitialized variable within code snippets. I'm seeking guidance on how to modify my code or configuration to enforce stricter checks to catch uninitial variable usage during the build process or at runtime.

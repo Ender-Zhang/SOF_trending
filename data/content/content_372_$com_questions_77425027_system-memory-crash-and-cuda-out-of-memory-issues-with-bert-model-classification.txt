@@ -1,0 +1,12 @@
+Question: I'm encountering memory-related issues when attempting to classify a large number of entries using a custom-trained BERT model. I've tried running the code both on my local system and Google Colab (with a GPU), but I'm consistently hitting memory limits. The project involves extracting text from scanned images pytesseract ocr engine and classifying them using bert(bert-base-uncased) transformer model. The inputs are in form of python dictionary where keys are page number and the values are extracted texts.
+Here's an overview of the problem:
+Local System:
+OS: Windows 10
+Python: 3.10.6
+Successfully loaded the BERT model from Google Drive to VS Code.
+The system crashes after classifying around 130 entries of 250 entries, with both memory and disk utilization at 100%. Google Colab (T4 GPU):
+CUDA Out of Memory Error encountered during the classification process of 250 entries. Python Code: Here's the code snippet I'm using:
+input: Steps Taken: I've tried batch processing with various batch sizes (30, 50, etc.), but the problem persists.
+Deallocated used memory by setting variables to None and using the Python garbage collector (gc), but the issue was not resolved.
+When decreasing the token size from 256 to 128, the model's performance was very low. Specific Questions: How can I optimize my code to classify a large number of entries using a BERT model without running into memory issues and system crashes to try in local windows machine?
+Are there any best practices for handling GPU memory consumption when using BERT for classification?

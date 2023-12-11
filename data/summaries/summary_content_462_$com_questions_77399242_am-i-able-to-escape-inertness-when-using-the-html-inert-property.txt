@@ -1,0 +1,1 @@
+Some of the content of the dialog is top-layer incompatible, namely, Google Recaptcha, which renders beneath the dialog. As of today's date (2023-10-31), both MDN and the HTML Living Specification indicate that it's possible to "escape inertness"

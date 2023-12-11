@@ -1,0 +1,1 @@
+Im facing issue, where imageview is getting pushed out by inner linear layout. I tried a constraint layout chaining, but the view needed a constraint from left and right side, which resulted in aligning the view into the center, which is not desired. I want the view, to be aligned to the left side. Does anybody know?

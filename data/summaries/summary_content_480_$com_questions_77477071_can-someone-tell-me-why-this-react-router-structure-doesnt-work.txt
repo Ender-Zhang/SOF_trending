@@ -1,0 +1,1 @@
+When I click on Europe, the URL changes in the address bar, but I don't see the Europe component. Instead it just seems to stay on the World component. What's the deal? If World is a layout route with nested routes, World necessarily should render an Outlet for the nested routes to render their element content into.

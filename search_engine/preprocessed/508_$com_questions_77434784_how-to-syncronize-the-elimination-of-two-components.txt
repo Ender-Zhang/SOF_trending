@@ -1,0 +1,1 @@
+let say two component display common compon make delet request api insid one component compon get delet refresh browser fix common compon get elimin time compon behavior press delet insid card use redux context make state main compon includ two compon save task array use state prop compon press remov button pleas run remov function main compon get result want

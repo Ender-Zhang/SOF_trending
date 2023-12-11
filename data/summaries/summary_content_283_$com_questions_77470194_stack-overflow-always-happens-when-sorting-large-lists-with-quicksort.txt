@@ -1,0 +1,1 @@
+My quicksort always throws a stack overflow when sorting large lists. A stack overflow is supposed to indicate that the stop condition is incorrect but i cant find the issue. I would really appreciate some help. Thanks for reading.

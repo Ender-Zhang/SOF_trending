@@ -1,0 +1,1 @@
+In the case of a multiclass problem, the M1 approach (one-hot-encode output) is the correct/suitable one. But, i am getting a higher f1-score in the y_test set, for the M2 approach. This also happened when i use MLPClassifier .

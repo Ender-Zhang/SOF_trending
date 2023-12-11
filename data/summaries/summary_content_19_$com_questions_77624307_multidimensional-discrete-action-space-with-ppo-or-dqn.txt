@@ -1,0 +1,1 @@
+I want to know how to apply PPO to realize multi-dimensional discrete action space, such as having two dimensional actions [1,2,3]. How can I use pytorch to implement the output of the action environment and the design of the Actor network and the update of the policy network?

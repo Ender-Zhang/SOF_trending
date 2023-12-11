@@ -1,0 +1,1 @@
+I am having a hard time setting the font to Open Sans in my PDF document. WkHTMLtoX is retired (end of life) and thus no more security fixes. So you should ensure to use the latest.

@@ -1,0 +1,1 @@
+I have one JSON file and I´m trying to insert in database. Inserts are not working, not sure if I am looping correctly. With correct JSON your path works: I could not find any issue in your code. But i will suggest , Can you try like this. I think this is the better way to insert.

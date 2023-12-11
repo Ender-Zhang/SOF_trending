@@ -1,0 +1,9 @@
+I tried to train a XGBoost model using GPU acceleration.
+When training my model using gridsearch, I get the following warning: UserWarning: [17:29:04] WARNING:
+/workspace/src/common/error_msg.cc:58: Falling back to prediction
+using DMatrix due to mismatched devices. This might lead to higher
+memory usage and slower performance. XGBoost is running on: cuda:0,
+while the input data is on: cpu. Potential solutions: Use a data structure that matches the device ordinal in the booster. Set the device for booster before call to inplace_predict. Although some potential solutions are given, I'm not sure how to interpret them and what to do with this information.
+Surprisingly, it only appears when using GridSearchCV.
+In my minimal example below, I do not get the warning if I use reg directly instead of gs . My X and y variables come from hdf5 files that I read using pandas.
+Can anybody give me a hint on how I might improve my code to not raise the warning? packages:

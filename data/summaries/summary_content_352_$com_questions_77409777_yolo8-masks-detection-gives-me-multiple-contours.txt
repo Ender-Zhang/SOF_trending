@@ -1,0 +1,1 @@
+I am experimenting with yolo8. I made a test script to show the problem: I expected to find 1 contour but i find 3 contours in this example. Why is it finding multiple contours ? How should i filter out the correct contour ?

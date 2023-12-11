@@ -1,0 +1,31 @@
+/* PageRankComponent 的样式 */
+.page-rank-component {
+    text-align: left; /* 文本靠左对齐 */
+    padding: 20px; /* 内边距 */
+  }
+  
+  .page-rank-image {
+    text-align: center; /* 图片居中对齐 */
+    max-width: 100%; /* 确保图片不超出容器宽度 */
+    height: auto; /* 保持图片的高度比例 */
+    margin-bottom: 20px; /* 图片和文本列表之间的间距 */
+  }
+  
+  .text-list {
+    list-style-type: none; /* 去除列表项的默认样式 */
+    padding: 0; /* 去除默认的内边距 */
+  }
+  
+  .text-list li {
+    margin-bottom: 10px; /* 列表项之间的间距 */
+  }
+  
+  .text-list li a {
+    color: #007bff; /* 链接的颜色 */
+    text-decoration: none; /* 去除下划线 */
+  }
+  
+  .text-list li a:hover {
+    text-decoration: underline; /* 鼠标悬停时显示下划线 */
+  }
+  

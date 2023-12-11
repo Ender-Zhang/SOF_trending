@@ -1,0 +1,1 @@
+I'm trying to integrate the OneDrive File Picker v8 API into a SPA project but I keep getting an error in connecting to the picker which I can't decipher. I'm following the provided Javascript basic consumer sample to get things started but I'm having no luck so far.

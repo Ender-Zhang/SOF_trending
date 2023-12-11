@@ -1,0 +1,1 @@
+I want to build on this question which explains how to draw an arrow between two divs using svg. I want to not have to position the arrow manually between the divs. There are several issues that need to be addressed at the same time to achieve what you want.

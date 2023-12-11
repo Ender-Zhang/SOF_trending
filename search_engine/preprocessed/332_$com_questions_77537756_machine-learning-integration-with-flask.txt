@@ -1,0 +1,1 @@
+model train save folder want load integr result within flask web applic howev error use pickl get model code train save model provid case work applic give input predict answer output creat handl model load predict unfortun error use within flask applic like

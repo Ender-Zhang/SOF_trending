@@ -1,0 +1,1 @@
+? how to find common "a" Matrix all element conver str? I want to find common str

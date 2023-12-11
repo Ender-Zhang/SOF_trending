@@ -1,0 +1,1 @@
+It works fine in browser, but if I install my website as a PWA it simply redirects to the one opened in the browser or to a blank page otherwise. Is there any way to get notifications to redirect either to their "origin" or, ideally, to the installed PWA.

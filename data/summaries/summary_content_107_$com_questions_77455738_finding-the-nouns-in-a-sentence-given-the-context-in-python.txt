@@ -1,0 +1,1 @@
+Using textblob , we get "vintage car" as the noun: Using spacy might solve your task. You can use spacy and noun_chunks to separate out the nouns.

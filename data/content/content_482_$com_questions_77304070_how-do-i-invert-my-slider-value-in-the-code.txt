@@ -1,0 +1,1 @@
+I want to multiply my slider value by minus one to make the ball come back and not leave the canvas. (I am using p5js) the ball just leaves the canvas. Try this code: Don't use var, use let for variable declaration. I removed unnecessary checks. You can try this code and let me know the result. 

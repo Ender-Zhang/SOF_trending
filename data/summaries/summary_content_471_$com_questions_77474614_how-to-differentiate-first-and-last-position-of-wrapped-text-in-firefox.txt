@@ -1,0 +1,1 @@
+I am working with a contentEditable span where I want to place a position: absolute element on the same line as the cursor. The problem happens when the text gets wrapped because it doesn't fit. The first and last position of the wrapped lines have weird behaviours. For Chrome it seems to work fine although in my full implementation it also has imprecise behavior.

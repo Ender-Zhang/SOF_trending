@@ -1,0 +1,1 @@
+The code is a mess. There nothing wrong with my code really. I was watching a tutorial to help me learn to make games in canvas. I understand its the speed and direction of an object, but why must I add it? I’ve been trying to understand it for 8 hours now. And I don’t think I can continue with learning until I understand why.

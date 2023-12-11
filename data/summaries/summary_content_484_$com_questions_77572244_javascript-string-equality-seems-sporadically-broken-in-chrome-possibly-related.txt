@@ -1,0 +1,1 @@
+Every occurrence of this error happens on Chrome, and the first occurrence was on October 16, 2023. Users run into this error once or twice, then it seems to resolve itself. The bounty expires in 18 hours.

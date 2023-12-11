@@ -1,0 +1,1 @@
+I'm trying to test my project using BDD and therefore im using Cucumber. The problem is, that when I want to test Product Controller i can't properly mock my ProductService and i get NullPointerException - my service is null.

@@ -1,0 +1,1 @@
+'I am having trouble with this error message every time I try to send an axios request to fetch data' Starting with v5, only the "Object" form is allowed when calling query related functions. Please use the error stack to find the culprit call.

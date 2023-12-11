@@ -1,0 +1,3 @@
+I am a beginner.
+I'm trying to rewrite a Convolution layer without using TensorFlow or PyTorch, but my code is too slow and memory-intensive. I'm asking this question to seek advice on how to optimize my code. Thank you. ==> 75.3529281616211
+And this code take about 15GBs Ram

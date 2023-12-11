@@ -1,0 +1,1 @@
+I have a non-diagonal matrix, but with the non-Diagonal elements much smaller than the diagonal ones, so upon diagonalization, I expect that the diagonal elements will change, but just a little. I am currently just using numpy.linalg.eig to get the eigenvalues, however I would like the order of these values to be the same as the (similar) values before diagonalization.

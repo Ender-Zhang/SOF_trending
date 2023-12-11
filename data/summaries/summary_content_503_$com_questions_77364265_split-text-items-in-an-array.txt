@@ -1,0 +1,1 @@
+I have an array like the following I want to split the items in the array with the following conditions if there is a variable (curly bracket) and there is content after the variable, that line should be split into 2 lines. For example following is the output i need. What i tried so far is as follows

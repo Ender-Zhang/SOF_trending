@@ -1,0 +1,1 @@
+I have a dataset of 8000 images I am using for training, and I ran into some memory limitations. I am trying to set up my program such so that it saves the model after X number of iterations. If I define 6 epochs, it should run 3, save where it's at, and then continue training.

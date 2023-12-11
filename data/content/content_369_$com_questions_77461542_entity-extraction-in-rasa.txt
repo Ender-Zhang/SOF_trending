@@ -1,0 +1,6 @@
+I want to create a chatbot that extract words from the user message as entity and send it to dictionary and in return get the meaning of that word. But the problem is entity values are not getting extracted, and I am getting empty brackets [ ]. I am trying to solve this issue for weeks now. Now, I am exhausted and desperate. Please help me to figure this out. Here is all the files: https://github.com/Attiqakaleem0/Rasa-word-meaning-bot Installation versions on my system are:
+Rasa Version      :         3.6.13
+Minimum Compatible Version: 3.5.0
+Rasa SDK Version  :         3.6.2
+Python Version    :         3.10.0
+Operating System  :         Windows-10-10.0.19045-SP0 You need to add the RegexEntityExtractor to the pipeline in your config.yml. config.yml: Additionally you will need to modify your NLU training data to match the correct format for extracting entities. Before: After: The Rasa documentation goes into more detail about how to format NLU training data.

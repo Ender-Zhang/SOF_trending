@@ -1,0 +1,1 @@
+Python's standard library is vast, and my intuition tells that there must be a way in it to accomplish this, but I just can't figure it out. This is purely for curiosity and learning purposes.

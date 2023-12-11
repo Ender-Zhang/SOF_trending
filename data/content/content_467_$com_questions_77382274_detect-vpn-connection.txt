@@ -1,0 +1,1 @@
+Is there any way of detecting VPN connection on app launch in both Android and iOS React Native Expo app? I already tried both Expo Network and NetInfo but none of them work for me. Currently I am on expo version 47.0.0.

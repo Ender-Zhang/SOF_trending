@@ -1,0 +1,1 @@
+I'm trying implement Prim's Minimum Spanning Tree Algorithm of a graph represented using Adjacency Matrix in Java. The code is running successfully, but not able to generate expected output. The Algorithm only selects the first vertex and doesn't move forward.

@@ -1,0 +1,1 @@
+I am trying to write simple code to read a simulator yabe device in my Java code. I can read the device with yab (a bacnet explorer free app) I am missing something I cant get what the list is always empty. Can anyone direct me what am I missing?Thank you.

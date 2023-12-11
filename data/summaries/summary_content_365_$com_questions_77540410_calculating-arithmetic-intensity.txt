@@ -1,0 +1,1 @@
+I'm trying to derive the AI math behind each of the fp16 data opreations. Each of the output activation requires 1024x2 = 2048 MACs. For #2 I get: Flops =  2 ops * 1024 inputs * 4096 weights each.

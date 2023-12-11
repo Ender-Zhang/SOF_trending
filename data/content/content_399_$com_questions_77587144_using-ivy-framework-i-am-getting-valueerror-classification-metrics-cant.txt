@@ -1,0 +1,2 @@
+I am trying to implement a Ivy framework for modifying the model using the kdd dataset Here is the code Below is the code for splitting and finding the accuracy and classification report;
+I am getting this error on the last line: what's wrong on it?

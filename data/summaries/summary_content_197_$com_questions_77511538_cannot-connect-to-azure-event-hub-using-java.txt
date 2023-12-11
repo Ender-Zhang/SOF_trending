@@ -1,0 +1,1 @@
+Using Node.js I can connect and receive events without any issues. When you construct the Java consumer, you're passing your connection string along with a token credential via .credential. This is going to cause the connection string to be interpreted as the fully qualified namespace.

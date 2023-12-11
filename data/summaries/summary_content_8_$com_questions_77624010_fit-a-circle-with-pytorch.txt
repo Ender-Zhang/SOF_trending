@@ -1,0 +1,1 @@
+I made a network with one hidden layer, but it has very high losses and is almost impossible to fit. To improve the convergence of your code, you can do these suggestions: Scale you input data into a similar range using min-max scaling or standardization. Increase num_epochs. Change batch_size.

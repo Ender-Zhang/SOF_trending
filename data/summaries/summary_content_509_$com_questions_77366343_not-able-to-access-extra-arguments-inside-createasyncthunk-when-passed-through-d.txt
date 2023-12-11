@@ -1,0 +1,1 @@
+where axios instance is response from custom axios hook which i have used for adding token to headers before making request. The extra available in the thunkAPI is the "extra argument" specified to thunk middleware. See getDefaultMiddleware for more details and information.

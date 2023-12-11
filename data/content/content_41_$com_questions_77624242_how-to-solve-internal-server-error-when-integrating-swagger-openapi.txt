@@ -1,0 +1,5 @@
+a college student here trying to finish a confusing assignment at 4am.
+The end goal should be to produce a centralized log server, where different systems can run a python script that sends all kinds of logs to this server.
+I have to design an API for a centralized server where the logs can be stored.
+So this is what I've started with: app.py: swagger.yml: And my home.html: backup.py (the file that will send the log entries): After running this command to run the app.py file: python3 -m uvicorn app:app --reload and i browse to 127.0.0.1 I get a webpage stating 'internal server error'
+on the terminal I see this error: I get the same error when running the backup.py file. I've been trying to debug this for the past week, but i don't seem intelligent enough to find a solution. Please any help is appreciated.

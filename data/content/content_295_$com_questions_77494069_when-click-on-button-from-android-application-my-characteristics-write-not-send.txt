@@ -1,0 +1,5 @@
+I have an Android app with a user interface containing a button. On button click, I initiate a write operation to a specific BLE characteristic associated with the ESP32 server to transmit data. However, despite the code being implemented to write data to the characteristic, the data isn't successfully transmitted to the ESP32.
+The data I received correctly from the server is below.
+UPS%12345678%223%012.8%000%223%00.0%04%1%001%13.5%00.0%00.3%00.0%00.4%000.0%000.0%END
+Now I have to send this data from the Android App to esp32.
+String input = builderList.get(1).toString() + "%" + " ON" + "%" + "END";

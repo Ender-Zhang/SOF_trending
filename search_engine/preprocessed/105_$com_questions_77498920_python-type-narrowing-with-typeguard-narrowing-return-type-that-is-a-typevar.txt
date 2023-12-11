@@ -1,0 +1,1 @@
+consid follow case point return get error pyright complain type str assign return type similarli int case python interpret python happen isinst typevar correctli narrow thu correct return type infer match return valu acheiv similar behaviour use custom type guard

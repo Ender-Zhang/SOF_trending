@@ -1,0 +1,1 @@
+I am trying to understand how the package neuralnet works. I am using the mnist dataset, which contains 60,000 rows that correspond to different pictures. The data looks like this: First I remove the pixels that have a variance equal to 0. Then I standardize the data to ensure that each feature contributes equally to the model.

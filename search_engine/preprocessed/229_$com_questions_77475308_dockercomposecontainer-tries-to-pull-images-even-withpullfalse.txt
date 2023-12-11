@@ -1,0 +1,1 @@
+hi new docker testcontain tri creat dockercomposecontain file need expos one servic tri use string servic integ port method though call dockercomposecontain tri pull imag want ever pull imag go code tri use fals set never thought fals issu resolv mayb understand function properli

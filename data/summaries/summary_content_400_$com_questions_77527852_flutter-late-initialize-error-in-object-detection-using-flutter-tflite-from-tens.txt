@@ -1,0 +1,1 @@
+When i implemented example frok flutter tflite text classification example i got this error when classifying text. The following LateError was thrown while handling a gesture. Field '_dict@277468318' has not been initialized.

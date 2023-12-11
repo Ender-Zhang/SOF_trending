@@ -1,0 +1,1 @@
+I would like to make cross validation on 3 folds and stop learning my LSTM model if for 3 consecutive epchos there is no improvement in the mean AUC of the 3 folds from the cross-validation. How can I modify my code to achieve that ?

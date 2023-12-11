@@ -1,37 +1,189 @@
 [
     [
-        "summary_content_webpage_c13_stackoverflow$com_questions_77574719_understanding-java-compiler-source-and-target-flags.txt",
-        "summary_content_webpage_c33_stackoverflow$com_questions_77570268_jar-file-does-not-contain-my-project-classes.txt"
+        "summary_content_128_$com_questions_77544756_django-with-mypy-how-to-resolve-incompatible-types-error-due-to-redefined-field.txt",
+        "summary_content_75_$com_questions_77582315_rankn-type-equivalent-for-mypy-in-python.txt"
     ],
     [
-        "summary_content_webpage_c38_stackoverflow$com_questions_77570926_running-a-container-executing-a-jar-on-a-raspberry-pi.txt",
-        "summary_content_webpage_c1_stackoverflow$com_questions_77569329_javafx-styles-gets-destroyed-and-shows-errors-in-raspberry-pi-3-but-works-well.txt",
-        "summary_content_webpage_c21_stackoverflow$com_questions_77572590_javas-processhandle-cannot-get-arguments-properly.txt"
+        "summary_content_95_$com_questions_77578724_conformal-prediction-intervals-insample-data-nixtla.txt",
+        "summary_content_315_$com_questions_77541474_how-to-sort-sddl-dacl-aces-in-canonical-order.txt"
+    ],
+    [
+        "summary_content_351_$com_questions_77406158_tensorflow-js-model-history-being-malformed-after-model-save-checkpoint.txt",
+        "summary_content_97_$com_questions_77415274_clear-all-the-gpu-memory-used-by-pytorch-in-current-python-code-without-exiting.txt"
+    ],
+    [
+        "summary_content_346_$com_questions_77626832_attributeerror-h1binfo-object-has-no-attribute-k-meananalyze.txt",
+        "summary_content_422_$com_questions_77451004_attributeerror-module-numpy-linalg-umath-linalg-has-no-attribute-ilp64.txt"
+    ],
+    [
+        "summary_content_327_$com_questions_77421509_how-to-deploy-a-pretrained-face-detection-pickle-file-on-azure-and-use-it-as-an.txt",
+        "summary_content_356_$com_questions_77522368_can-you-load-ml-models-from-azureml-registry-to-an-azure-function-app.txt",
+        "summary_content_64_$com_questions_77594674_azure-ml-deploymentidentityerror-failed-to-create-kubernetes-deployment-identi.txt"
+    ],
+    [
+        "summary_content_358_$com_questions_77440924_no-attribute-error-for-convolutional-neural-networks.txt",
+        "summary_content_381_$com_questions_77615883_attributeerror-flags-object-has-no-attribute-c-contiguous.txt"
+    ],
+    [
+        "summary_content_11_$com_questions_77622358_why-is-my-while-loop-blocking-the-for-x-in-range0-60-5-from-working.txt",
+        "summary_content_511_$com_questions_77454741_why-doesnt-app-module-exist-in-angular-17.txt",
+        "summary_content_webpage_c15_stackoverflow$com_questions_77569332_not-sure-if-i-am-missing-a-java-prerequisite.txt",
+        "summary_content_201_$com_questions_77467746_if-i-have-2-spinners-and-one-is-open-if-i-try-to-open-the-other-it-doesnt-open.txt"
+    ],
+    [
+        "summary_content_49_$com_questions_77622975_how-to-have-a-nice-ui-with-python.txt",
+        "summary_content_80_$com_questions_77438628_how-to-analyze-pdf-using-chatgpt-vision-python-api.txt",
+        "summary_content_6_$com_questions_77624662_cant-run-llm-commands-in-windows-cmd.txt",
+        "summary_content_353_$com_questions_77550758_is-there-a-standard-format-for-saving-trained-logistic-regression-models.txt"
+    ],
+    [
+        "summary_content_127_$com_questions_77505030_openai-api-error-you-tried-to-access-openai-chatcompletion-but-this-is-no-lon.txt",
+        "summary_content_121_$com_questions_77444332_openai-python-package-error-chatcompletion-object-is-not-subscriptable.txt"
+    ],
+    [
+        "summary_content_81_$com_questions_77481878_is-there-any-relation-between-classes-which-use-the-same-type-variable.txt",
+        "summary_content_105_$com_questions_77498920_python-type-narrowing-with-typeguard-narrowing-return-type-that-is-a-typevar.txt",
+        "summary_content_69_$com_questions_77563636_python-type-hints-for-type-promotion.txt"
+    ],
+    [
+        "summary_content_311_$com_questions_77518064_spring-boot-app-prometheus-endpoint-taking-a-long-time-without-a-custom-control.txt",
+        "summary_content_261_$com_questions_77514993_viable-solution-to-handling-long-running-query-in-java.txt"
+    ],
+    [
+        "summary_content_245_$com_questions_77481218_abnormal-build-process-termination-intellij.txt",
+        "summary_content_280_$com_questions_77499316_often-after-a-maven-refresh-unit-testing-of-a-project-cannot-find-the-module-i.txt"
+    ],
+    [
+        "summary_content_166_$com_questions_77470328_java-program-to-allow-people-through-a-gate.txt",
+        "summary_content_171_$com_questions_77520318_barrier-maintaining-the-order-of-threads-flow-after-being-open-java-multithread.txt"
     ],
     [
         "summary_content_webpage_c3_stackoverflow$com_questions_77574918_is-there-a-good-reason-to-split-in-two-different-cases-the-following-arraylist-c.txt",
-        "summary_content_webpage_c25_stackoverflow$com_questions_77571828_how-to-check-if-a-directory-is-in-the-classpath-after-java-11.txt",
-        "summary_content_webpage_c21_stackoverflow$com_questions_77572590_javas-processhandle-cannot-get-arguments-properly.txt"
+        "summary_content_173_$com_questions_77511739_suppressing-javadoc-21-doclint-warnings-specifically-for-no-main-description.txt"
     ],
     [
-        "summary_content_webpage_c40_stackoverflow$com_questions_77575116_how-do-i-use-in-clause-in-jpa-examplematcher.txt",
-        "summary_content_webpage_c11_stackoverflow$com_questions_77570517_does-the-new-restclient-introduced-in-spring-framework-6-1-have-a-variant-suitab.txt",
-        "summary_content_webpage_c37_stackoverflow$com_questions_77574339_using-spel-to-pass-parameters-in-spring-spring-security-method.txt",
-        "summary_content_webpage_c22_stackoverflow$com_questions_77573436_custom-query-jpa-mongorepository-with-optional-parameter.txt"
+        "summary_content_316_$com_questions_77487673_authenticationprincipal-does-not-fill-fields-from-the-base-entity-mappedsuperc.txt",
+        "summary_content_152_$com_questions_77491737_unittest-final-uuid-changes-within-the-test-if-beforeeachrepository-save-is.txt"
     ],
     [
-        "summary_content_webpage_c23_stackoverflow$com_questions_77573545_spring-boot-application-throwing-404-error.txt",
-        "summary_content_webpage_c11_stackoverflow$com_questions_77570517_does-the-new-restclient-introduced-in-spring-framework-6-1-have-a-variant-suitab.txt",
-        "summary_content_webpage_c37_stackoverflow$com_questions_77574339_using-spel-to-pass-parameters-in-spring-spring-security-method.txt",
-        "summary_content_webpage_c26_stackoverflow$com_questions_77574822_cant-resolve-cors-error-in-spring-boot-angular-app.txt"
+        "summary_content_370_$com_questions_77421318_multi-label-classification-for-transformers-have-similar-representations-interna.txt",
+        "summary_content_360_$com_questions_77426965_how-to-add-up-two-different-losses-in-a-correct-way-when-the-difference-between.txt"
+    ],
+    [
+        "summary_content_227_$com_questions_77494540_are-records-syntactic-sugar-for-classes.txt",
+        "summary_content_185_$com_questions_77514303_what-does-javas-record-equals-method-actually-do-under-the-hood.txt"
+    ],
+    [
+        "summary_content_216_$com_questions_77490397_cwe-918-with-spring-value-parameters.txt",
+        "summary_content_243_$com_questions_77487003_using-different-application-properties-in-java-jar-without-spring.txt"
+    ],
+    [
+        "summary_content_165_$com_questions_77511983_remove-all-borders-and-axis-lines-from-javafx-areachart.txt",
+        "summary_content_256_$com_questions_77531917_jfreechart-remove-border-from-chart.txt"
+    ],
+    [
+        "summary_content_webpage_c14_stackoverflow$com_questions_77570462_demonstrate-that-jaxb-unmarshalling-will-not-load-an-xsd-schema.txt",
+        "summary_content_228_$com_questions_77489159_how-to-deal-with-two-almost-identical-xsd-files.txt"
+    ],
+    [
+        "summary_content_27_$com_questions_77624506_error-module-tensorflow-keras-has-no-attribute-version.txt",
+        "summary_content_333_$com_questions_77471744_tensorflow-in-python-3-12.txt",
+        "summary_content_350_$com_questions_77506684_tensorflow-error-with-graph-execution-error-and.txt",
+        "summary_content_379_$com_questions_77623127_forecasting-multivariate-time-series-in-chapter-15-of-the-book-hands-on-machin.txt"
+    ],
+    [
+        "summary_content_490_$com_questions_77286836_modal-not-closing-with-button.txt",
+        "summary_content_462_$com_questions_77399242_am-i-able-to-escape-inertness-when-using-the-html-inert-property.txt"
+    ],
+    [
+        "summary_content_338_$com_questions_77506839_why-do-i-get-a-notfounderror-when-trying-to-save-my-model-with-model-savemy-m.txt",
+        "summary_content_382_$com_questions_77442067_tensorflow-could-not-find-matching-concrete-function-to-call-loaded-from-the-sa.txt"
+    ],
+    [
+        "summary_content_215_$com_questions_77503307_i-cant-start-the-javafx-program-error-javafx-runtime-components-are-missing.txt",
+        "summary_content_webpage_c33_stackoverflow$com_questions_77570268_jar-file-does-not-contain-my-project-classes.txt",
+        "summary_content_webpage_c1_stackoverflow$com_questions_77569329_javafx-styles-gets-destroyed-and-shows-errors-in-raspberry-pi-3-but-works-well.txt"
+    ],
+    [
+        "summary_content_378_$com_questions_77435998_what-does-idx-self-batch-size-do.txt",
+        "summary_content_50_$com_questions_77623919_how-to-fix-pyarrow-dataset-dataset-take-spend-so-much-time-to-featch-the-data.txt"
+    ],
+    [
+        "summary_content_349_$com_questions_77411155_lambda-function-attributeerror-module-os-has-no-attribute-add-dll-directory.txt",
+        "summary_content_2_$com_questions_77616281_aws-lambda-layers-import-numpy-module-works-in-one-aws-account-but-not-another.txt"
+    ],
+    [
+        "summary_content_341_$com_questions_77432533_how-to-use-custom-scoring-function-in-gridsearchcv-typeerror-cannot-pickle-ge.txt",
+        "summary_content_381_$com_questions_77615883_attributeerror-flags-object-has-no-attribute-c-contiguous.txt"
+    ],
+    [
+        "summary_content_363_$com_questions_77422278_product-classification-problem-model-should-show-product-category-but-showing.txt",
+        "summary_content_376_$com_questions_77434847_tensorflow-model-predict-returning-nan.txt"
+    ],
+    [
+        "summary_content_520_$com_questions_77602661_is-there-a-way-to-reinitialize-jquery.txt",
+        "summary_content_315_$com_questions_77541474_how-to-sort-sddl-dacl-aces-in-canonical-order.txt"
     ],
     [
         "summary_content_webpage_c17_stackoverflow$com_questions_77568580_ways-to-implement-a-aws-lambda-application-for-archiving-files-from-file-server.txt",
-        "summary_content_webpage_c15_stackoverflow$com_questions_77569332_not-sure-if-i-am-missing-a-java-prerequisite.txt",
-        "summary_content_webpage_c20_stackoverflow$com_questions_77573305_cannot-invoke-javax-swing-jframe-getcontentpane-because-frame-is-null.txt"
+        "summary_content_145_$com_questions_77476151_datetime-mixes-day-and-month-when-converting-strings-to-datetime-format.txt",
+        "summary_content_511_$com_questions_77454741_why-doesnt-app-module-exist-in-angular-17.txt",
+        "summary_content_63_$com_questions_77443607_how-do-i-calculate-the-sum-and-the-average-of-all-values-in-a-python-dict-by-key.txt",
+        "summary_content_45_$com_questions_77624244_why-it-can-happen-try-to-create-pivot-table.txt",
+        "summary_content_80_$com_questions_77438628_how-to-analyze-pdf-using-chatgpt-vision-python-api.txt",
+        "summary_content_6_$com_questions_77624662_cant-run-llm-commands-in-windows-cmd.txt"
     ],
     [
-        "summary_content_webpage_c34_stackoverflow$com_questions_77574642_preventing-com-miui-powerkeeper-in-android.txt",
+        "summary_content_281_$com_questions_77472317_spring-boot-3-startup-failure-caused-by-logback-logging.txt",
+        "summary_content_251_$com_questions_77514388_class-org-springframework-aop-framework-cglibaopproxyserializablenoop-cannot-be.txt",
+        "summary_content_163_$com_questions_77492052_upgraded-spring-boot-4-20-1-getting-error-in-problems-tab-for-spring-boot-type-c.txt"
+    ],
+    [
+        "summary_content_260_$com_questions_77495610_email-simulation-with-django.txt",
+        "summary_content_513_$com_questions_77443850_nodemailer-deprecationwarning-the-punycode-module-is-deprecated.txt"
+    ],
+    [
+        "summary_content_343_$com_questions_77511496_issue-with-achieving-deterministic-training-results-in-tensorflow-gpu-2-10-0.txt",
+        "summary_content_375_$com_questions_77538082_correctly-seeding-numpy-random-generator.txt"
+    ],
+    [
+        "summary_content_webpage_c20_stackoverflow$com_questions_77573305_cannot-invoke-javax-swing-jframe-getcontentpane-because-frame-is-null.txt",
+        "summary_content_145_$com_questions_77476151_datetime-mixes-day-and-month-when-converting-strings-to-datetime-format.txt"
+    ],
+    [
+        "summary_content_137_$com_questions_77452120_typeerror-createembeddingresponse-object-is-not-subscriptable.txt",
+        "summary_content_121_$com_questions_77444332_openai-python-package-error-chatcompletion-object-is-not-subscriptable.txt"
+    ],
+    [
+        "summary_content_244_$com_questions_77539033_how-to-avoid-compatibility-issues-between-java-ee-and-jakarta-ee.txt",
+        "summary_content_webpage_c1_stackoverflow$com_questions_77569329_javafx-styles-gets-destroyed-and-shows-errors-in-raspberry-pi-3-but-works-well.txt"
+    ],
+    [
+        "summary_content_445_$com_questions_77465683_react-usestate-is-not-resetting-to-initial-state.txt",
+        "summary_content_449_$com_questions_77466910_how-to-render-my-view-when-initial-value-is-delayed.txt"
+    ],
+    [
+        "summary_content_297_$com_questions_77484818_i-want-to-create-a-simple-paint-in-java.txt",
+        "summary_content_499_$com_questions_77402285_connecting-lines-in-a-single-elimination-ui-with-an-odd-number-of-players-reac.txt"
+    ],
+    [
+        "summary_content_302_$com_questions_77512467_loading-and-saving-javafx-image-to-db.txt",
+        "summary_content_webpage_c1_stackoverflow$com_questions_77569329_javafx-styles-gets-destroyed-and-shows-errors-in-raspberry-pi-3-but-works-well.txt"
+    ],
+    [
+        "summary_content_262_$com_questions_77490538_weird-characters-in-javafx-labels.txt",
+        "summary_content_webpage_c1_stackoverflow$com_questions_77569329_javafx-styles-gets-destroyed-and-shows-errors-in-raspberry-pi-3-but-works-well.txt"
+    ],
+    [
+        "summary_content_104_$com_questions_77562118_how-to-calculate-time-between-rows-for-each-id-in-a-pandas-dataframe-using-polar.txt",
+        "summary_content_86_$com_questions_77433576_how-to-apply-rolling-map-in-python-polars-for-a-function-that-uses-multiple-in.txt"
+    ],
+    [
+        "summary_content_259_$com_questions_77510587_android-13-problems-writing-and-reading-files.txt",
         "summary_content_webpage_c32_stackoverflow$com_questions_77573053_write-permission-denied-android-studio.txt"
+    ],
+    [
+        "summary_content_332_$com_questions_77537756_machine-learning-integration-with-flask.txt",
+        "summary_content_382_$com_questions_77442067_tensorflow-could-not-find-matching-concrete-function-to-call-loaded-from-the-sa.txt"
     ]
 ]

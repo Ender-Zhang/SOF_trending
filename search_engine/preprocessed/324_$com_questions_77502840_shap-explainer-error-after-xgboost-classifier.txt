@@ -1,0 +1,1 @@
+tri understand xgboost model use shap model feed data form datafram column either valu column numer valu code look like model work perfectli tri predict new valu tri get follow error alreadi tri less estim still doesnt work idea solv

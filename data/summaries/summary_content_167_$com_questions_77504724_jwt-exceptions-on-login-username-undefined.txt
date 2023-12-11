@@ -1,0 +1,1 @@
+I have an app in Spring Boot on the server side and TypeScript with Angular on the client side. When I send the data to the server, it doesn't capture the username from the JWT and sets it as undefined. Let me know if you need further assistance or clarification on any part of the code.

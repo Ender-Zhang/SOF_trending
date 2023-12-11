@@ -1,0 +1,1 @@
+I have a discrete distribution say x=[1,2,4,5]; P(x)=[0.1, 0.2,0.3,.0.4] . CDF is given by F(x), where P and F denote the corresponding values at the given x. I want to query the CDF of this distribution at different points, say y=0.5, 1.6, 2.3, 3.4, 4.5,.5, 5.7, 8.9. Is there a way (some library function) to get F(y) quickly without having to

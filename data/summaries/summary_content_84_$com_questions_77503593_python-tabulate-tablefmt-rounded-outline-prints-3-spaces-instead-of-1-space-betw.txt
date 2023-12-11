@@ -1,0 +1,1 @@
+You can leverage the MIN_PADDING constant. There is a global minimum padding setting you can change. I don't know how recommended that is but they mention it for whitespace handling.

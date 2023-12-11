@@ -1,0 +1,1 @@
+I'm making a webpage that plays a random sound every time you load the webpage. I can't get my browser to play sound and I don't know what to do. There are two possibilities that come to mind: The button isn't registered/bound to the "click" event. The button has a bad inline event handler.

@@ -1,0 +1,2 @@
+I'm trying to save and load a model across two files. in file 1: in file 2: I keep having this error: I've tried serializing the model with joblib, pickle, installed tf-nightly (as suggested here Could not find matching function to call loaded from the SavedModel ) My end goal is just to be able to load a model that was trained and predict new incoming data, if there's another solution I'd be glad to hear it!
+I can also provide the full error message if needed.

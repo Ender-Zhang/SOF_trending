@@ -1,0 +1,1 @@
+React-native-geolocation-service(^5.3.1) throws this error or app crashed when Geolocation.getCurrentPosition() is called. It was working fine before. After doing a lot of search, i saw somewhere it was probably due to version mismatch of playservices from other modules.

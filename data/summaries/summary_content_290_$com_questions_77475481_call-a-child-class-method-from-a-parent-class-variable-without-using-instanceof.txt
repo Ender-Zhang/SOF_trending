@@ -1,0 +1,1 @@
+There is no way to do this. Only something of type BankAccount -- which would have to be cast to it -- can have getAccountNumber() called on it. In the simple case you can add an abstract method to the parent class. This makes an accountNumber property to be abstract.

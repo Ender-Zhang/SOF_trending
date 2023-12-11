@@ -1,0 +1,1 @@
+I'm trying to query a table that will answer the following question, but I don't understand what the error is in my code. I was expecting a table of sailor names that answers the question, or an empty table.

@@ -1,0 +1,1 @@
+I want to use maven to insert the plugin configuration from a separate repo into my project. How can i do this? I tried it by using the as dependency or in dependency management or as plugin management. But nothing works.

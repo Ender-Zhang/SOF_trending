@@ -1,0 +1,1 @@
+Each video has a unique name, attached to this dataset is a CSV file. I have to Preprocess this videos into suitable frames and then feed them into my model for action identification. However I run into series of problems trying to encode my labels.

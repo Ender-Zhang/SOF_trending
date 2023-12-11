@@ -1,0 +1,1 @@
+I am using the java.time package in Android, and I want to format a ZonedDateTime according to the user's device settings. I tried my default DateTimeFormatter. ofLocalizedDateTime/ofLocalizedTime , but these always use a fixed format regardless of the device's setting. How do I get a java. time.format.DateTime formatter that respects the user’s device preferences?

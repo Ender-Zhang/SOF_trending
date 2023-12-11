@@ -1,0 +1,1 @@
+I am a bit confused about the difference in behavior between __doc__ and other methods: But it does not work as property either. This is mentioned and somewhat discussed here @ 22750354 , but I need help finding out why the Child class does not inherit the method/property of__doc__ . And are there other methods like __doc __ in terms of inheritance? Thank you.

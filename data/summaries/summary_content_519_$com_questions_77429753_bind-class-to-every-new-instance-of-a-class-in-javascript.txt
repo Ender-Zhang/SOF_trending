@@ -1,0 +1,1 @@
+I've been taken a bunch of JavaScript riddles lately and got really stuck on this one for like a day and a half. Since I want to come up with the final solution myself, I will post a somewhat similar piece of code just so I can grab the general idea and implement it as per the context.

@@ -1,0 +1,1 @@
+I have the following piece of code: But, this outputs the cashflow column as $95000 but I want it output $95,000 Prefer use the Styler instead of the DataFrame : Output: You just need to play around with the format specifier:

@@ -1,0 +1,1 @@
+I'm creating a Filament admin panel with a widget running a Leaflet.js map. All goes well, the data gets passed to the JS. But leaflet doesn't create the map. It seems that the L.map() command can't find the DIV I'm referrencing.

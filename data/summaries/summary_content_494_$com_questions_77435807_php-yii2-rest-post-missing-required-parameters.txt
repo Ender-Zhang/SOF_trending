@@ -1,0 +1,1 @@
+I want to use a REST POST request to send a list of words to the server, the server will translate the words and send back their translation. When I send the POST request, I get this message in the browser JavaScript console: "Bad Request"

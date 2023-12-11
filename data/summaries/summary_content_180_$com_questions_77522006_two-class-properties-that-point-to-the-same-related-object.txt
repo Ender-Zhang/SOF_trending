@@ -1,0 +1,1 @@
+In a request(request is for vacation days dates), that an employee can send, it needs to be clear who sent the request and who approved it. That's why I have requester and approver fields. I just put mappedBy = "requester" to see if the program will run, and it did, no errors.

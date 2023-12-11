@@ -1,0 +1,1 @@
+GC error can be safely ignored, this is logged only when that method of fixing a memory leak no longer exists. You cannot change the DevMode classpath to use Jetty 11 instead of Jetty 9. Instead, run it separately from GWT DevMode and pass -noserver to DevMode.

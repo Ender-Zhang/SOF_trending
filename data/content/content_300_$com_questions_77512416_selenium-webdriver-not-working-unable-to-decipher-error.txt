@@ -1,0 +1,7 @@
+I am just starting to learn selenium automation, and I am stuck at a part where even though I follow tutorials to the point, it does not work **--My code--
+** **What the error says
+** **I have all the JAR files from the lastest stable version of selenium.
+I have the lastest stable version of the chrome webdriver
+and I am using java 8 on eclipse ** I have to use Java 1.8 version
+You can see on the JRE System libaray it says "[JavaSE-17]"
+it should say "[JavaSE-1.8]"

@@ -1,0 +1,3 @@
+I've followed the instructure of this guide: https://nosan.github.io/embedded-cassandra/4.0.7/#what-are-oss-supported-by-embedded-cassandra .
+I faced with the issue that library doesn't support the m1 aarch64 chip. I used the: AmazonCorretto OpenJdk 1.8 Maven builder manager Macbook pro 14 m1 chip pom.xml Main.java Logs: it should work right now, it was Apache Cassandra limitation.
+You can try embedded-cassandra 4.1.0

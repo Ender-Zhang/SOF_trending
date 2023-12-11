@@ -1,0 +1,1 @@
+I'm trying to create a complicated program in Python. There are 9 prime numbers that I want to use (2,3,5,7,11,13,17,19,23) The goal is to get a fraction of the numbers that is divisible by all of the prime numbers multiplied together.

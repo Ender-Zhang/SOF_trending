@@ -1,0 +1,1 @@
+There are a few reasons why the mergeMap in your example may not be lazy. Promise.resolve is already eagerly evaluated, so the duplicateValue function will always return a resolved promise. The concatAll operator itself is not lazy. It immediately subscribes to the inner observables and begins emitting values.

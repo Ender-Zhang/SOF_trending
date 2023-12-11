@@ -1,0 +1,1 @@
+My previous version 4.19 i did not get any error in the problem console. After upgrading spring boot 4.20.1, in my application iam getting new error type. How can i ignore this error?

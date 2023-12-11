@@ -1,0 +1,1 @@
+I am encountering an issue while working with WebSocket connections in Micronaut 3.9.0. I am attempting to set a timeout for the WebSocket connection, and despite my efforts, the timeout doesn't seem to interrupt the connection attempt as expected. You should use a different approach to manage WebSocket timeouts.

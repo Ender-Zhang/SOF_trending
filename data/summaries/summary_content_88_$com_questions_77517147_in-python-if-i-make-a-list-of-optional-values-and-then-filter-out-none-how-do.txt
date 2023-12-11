@@ -1,0 +1,1 @@
+In Python, when collecting a sequence of Optional values into an Iterable or List while filtering out None values, how do you express to the typechecker that the element type is no longer Optional? What's the cleanest way of doing this?

@@ -1,0 +1,1 @@
+Running the test part the encoded values do not match. For example malaysia should be encoded as 79 but whatever country I put in the test, it encodes as 0. How can I adjust it so that the labeling from training phase is applied to the testing phase?

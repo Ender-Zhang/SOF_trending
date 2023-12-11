@@ -1,0 +1,1 @@
+Running this code block on google colab. "import nltk" is causing the issue. How to rectify the same? I tried uninstalling and reinstalling both numpy and nltk. I also tried to upgrade them but the same error persists.

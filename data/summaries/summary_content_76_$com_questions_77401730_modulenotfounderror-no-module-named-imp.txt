@@ -1,0 +1,1 @@
+I would like to try to deploy an application on AWS using the elasticbeanstalk service. Through this command you can configure and deploy an environment directly with a configuration file. I first installed python via the site (Python version 3.12.0), and then all the steps described in the guide link. Now if I run the eb command from cmd I always get this error.

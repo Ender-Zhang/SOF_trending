@@ -1,0 +1,1 @@
+The typing.TypeVar class allows one to specify reusable type variables. With Python 3.12 / PEP 695, one can define a class A / B with type variable T like this:

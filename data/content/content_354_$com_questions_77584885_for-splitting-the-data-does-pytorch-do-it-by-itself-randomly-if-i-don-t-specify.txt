@@ -1,0 +1,2 @@
+For splitting the data, does pytorch do it by itself randomly if I don’t specify split ratio? I am working on pytorch deep learning model autoencoder, i have dataset (csv file) with 10 classes and 500 000 rows.
+I removed the label column. I saw one research paper code and they did not split code instead they removed label from dataset (csv file)

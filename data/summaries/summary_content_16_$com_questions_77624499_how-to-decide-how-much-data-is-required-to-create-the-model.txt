@@ -1,0 +1,1 @@
+I need to understand how much past data is required for the forecasting using Prophet. Is there a way to understand the size of data required or does this depend on some scenarios or type of data.

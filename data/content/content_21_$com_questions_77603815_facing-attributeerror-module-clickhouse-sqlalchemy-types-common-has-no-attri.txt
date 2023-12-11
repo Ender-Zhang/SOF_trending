@@ -1,0 +1,5 @@
+did !pip install great expectation in the deepnote, but when i import great_expectations as gx it gives the error. Tried from a different device aswell but getting the same issue. Just wanted to setup a basic great expectation for a demo, if anyone can help it would be greatly appreciated. The entire error ----------------------------------------------------------- AttributeError                            Traceback (most recent call last)
+Cell In [3], line 2
+1 import pandas as pd
+----> 2 import great_expectations as gx
+3 df = gx.read_csv("student.csv") ... AttributeError: module 'clickhouse_sqlalchemy.types.common' has no attribute 'Int256' tried to import great_expectation python library on deepnote. Megan from Deepnote here. Per the docs on Great Expectations here, have you also run !great_expectations --yes --v3-api init to initialize GE?

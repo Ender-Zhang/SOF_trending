@@ -1,0 +1,1 @@
+I have the following code that scrolls the whole page down instead of the certain div (I indicated in red color div I want to scroll down) and test fails because webbriver cannot find the element that is hidden under red slider. The code scrolls green slider instead of red slider.

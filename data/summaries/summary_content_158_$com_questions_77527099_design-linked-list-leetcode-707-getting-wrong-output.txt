@@ -1,0 +1,1 @@
+I am trying to solve LeetCode problem 707. Design Linked List : Design your implementation of the linked list. Assume all nodes in the linkedList are 0-indexed. Implement the MyLinkedList class:

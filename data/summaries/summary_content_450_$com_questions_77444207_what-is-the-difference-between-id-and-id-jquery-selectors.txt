@@ -1,0 +1,1 @@
+In the DevTools console of Chrome (version 63), I typed the following: Notice the extra asterisk in the second query. Both queries find the same element, but the second one is clearly getting a slightly different result. Can someone explain what effect the asterisk is having?

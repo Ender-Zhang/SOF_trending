@@ -1,0 +1,1 @@
+When I fetch next data (add items to the last) only added items renders which is good. However, when fetching previous items (they get prepended to the list) all the items are re-rendered.

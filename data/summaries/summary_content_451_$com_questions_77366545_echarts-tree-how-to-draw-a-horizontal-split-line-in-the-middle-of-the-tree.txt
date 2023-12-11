@@ -1,0 +1,1 @@
+How to have a split line from the tree's left to the right edge, like the below one using ECharts: Currently, the below HTML and JavaScript code could generate the tree without the split line. Heres a hacky solution: You can add a graph series, make it transparent and use the markLine property.

@@ -1,0 +1,1 @@
+I have text file with 4,000 lines, this file has a pattern, have a title machine, and after have a list of problems and solutions. I have almost finished, but I can't separate the defects and the solution correctly. I had to insert the name of the machine before every problem in the txt file, like this.

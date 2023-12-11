@@ -1,0 +1,1 @@
+The issue occurs when the batch job starts first and creates the bean, and then the application attempts to use the bean. I have changed the @ejb.util generate = "logical" based on the IBM WebSphere suggestion.

@@ -1,0 +1,1 @@
+My CNN and LSTM model works just fine separately. My combined cnn-lstm model is not working it has to something with converting the data into 3d tensors. The dataset consist of eeg readings of 84 patients each patient having 60 columns.

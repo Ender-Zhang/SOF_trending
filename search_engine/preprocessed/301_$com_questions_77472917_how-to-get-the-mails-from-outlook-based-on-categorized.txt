@@ -1,0 +1,1 @@
+need get mail outlook use graphapi code show unread mail get need get categori like refer instead use isread condit need get mail base categori categori properti collect need use messag two categori let say green red want get messag categori filtercondit want get messag either green red

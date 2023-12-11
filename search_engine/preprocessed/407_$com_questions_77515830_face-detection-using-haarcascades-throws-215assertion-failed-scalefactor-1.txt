@@ -1,0 +1,1 @@
+problem use haarcascad detect face photo get error function happen sometim imag fail assert assert fail scalefactor function condit must true least one fals scale factor need larger code reduc code also call detectmultiscal repeatedli imag vari scale factor unreason pick scale factor suitabl close run detect may big step tri go close wast time practic gain

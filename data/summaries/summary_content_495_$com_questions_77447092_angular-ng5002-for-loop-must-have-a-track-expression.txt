@@ -1,0 +1,1 @@
+The track expression is used to keep track of items in an array and their association to the DOM. Loops over immutable data without trackBy is one of the most common causes for performance issues across Angular applications.

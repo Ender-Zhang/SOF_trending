@@ -1,0 +1,1 @@
+I am using a python script to insert large csv files (up to 14GB) into a locally hosted SQL Server database. No matter the batch size I am running out of memory at the same point in the loading process. I have a feeling the memory error is related to the SQL side of things.

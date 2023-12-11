@@ -1,0 +1,1 @@
+The input sentence in this example, 'Happy Birthday!' is composed of 3 tokens. Each should be exponentiated to get the perplexity value of each token. But the last token seem to have the same perplexity as the entire sentence. this is happening because in the second code snippet, you loop over the input sequence by adding a new token at each iteration.

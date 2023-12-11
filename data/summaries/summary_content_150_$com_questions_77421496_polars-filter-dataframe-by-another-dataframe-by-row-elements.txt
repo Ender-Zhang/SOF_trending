@@ -1,0 +1,1 @@
+I want to solve the problem described for pandas here in polars. Especially, consider a DataFrame df1 that looks like: and another DataFrame called df2 like: At outlined in the question above, I would like to filter df1 for all rows that are not in df2 . Especially, the expected results looks like this:

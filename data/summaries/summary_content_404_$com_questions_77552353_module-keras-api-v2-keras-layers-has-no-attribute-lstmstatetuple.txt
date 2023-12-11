@@ -1,0 +1,1 @@
+While running a LSTM model, I'm stuck at this code - I got this error: You are not able to use LSTmStateTuple because: L STM stateuple is NOT in tf.keras.layers.LSTM rather it is in compat.v1.

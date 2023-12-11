@@ -1,0 +1,6 @@
+I want to limit each file's size to 20 MB, but it's only validating the size of all the input files. I have used the below properties to limit the file size. Could you please guide me on how I can restrict the size of each file? spring:
+servlet:
+multipart:
+max-file-size: 20MB
+max-request-size: 20MB
+enabled: true Here's what you need to do: Use custom annotation validation for all your input with different sizes. Set a default maximum size that Spring Boot can accept in your application.properties To achieve step 1, lets say you have an Entity: Post With an interface, PostImageSize and the class ImageSizeValidation mentioned in PostImageSize interface Once you have set this up, using the annotation @PostImageSize in your entity will enable custom validation. After this, you can customize the size according to the annotations you have and include in your entity which will enable it. For step 2 in your application.properties Goodluck !!!

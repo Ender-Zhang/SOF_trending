@@ -1,0 +1,24 @@
+I was going through the python docs on simple assignment. I found below from the docs. Assignment of an object to a target list, optionally enclosed in
+parentheses or square brackets, is recursively defined as follows. If the target list is a single target with no trailing comma,
+optionally in parentheses, the object is assigned to that target. Else: If the target list contains one target prefixed with an asterisk,
+called a “starred” target: The object must be an iterable with at
+least as many items as there are targets in the target list, minus
+one. The first items of the iterable are assigned, from left to right,
+to the targets before the starred target. The final items of the
+iterable are assigned to the targets after the starred target. A list
+of the remaining items in the iterable is then assigned to the starred
+target (the list can be empty). Else: The object must be an iterable with the same number of items as
+there are targets in the target list, and the items are assigned, from
+left to right, to the corresponding targets. What I understood is that if the target list contains starred target then object, on RHS, must be iterable. So while assignment, python first unpacks the object and assigns the items as per the above rule and then rest of  the values is assigned to the starred target. Now, Considering above I have kept only starred target and was expecting the values on RHS ( which is a tuple) to be assigned to starred target. However, Python  gives syntax error for this  line. I am still trying to understand where I am lacking as it is nowhere mentioned that I can't use starred target alone. But Below works. Please explain why here alone why alone starred target is working here ? You can instead add a comma to make the unpacking assignment to an explicit tuple: as pointed out in PEP-3132 : It is also an error to use the starred expression as a lone assignment
+target, as in This, however, is valid syntax: It is also pointed out in the same documentation that unpacking assignment to a list is semantically equivalent to unpacking assignment to a tuple: For example, if seq is a sliceable sequence, all the following
+assignments are equivalent if seq has at least two elements: You can also refer to the discussion with Guido van Rossum, the creator of Python, from the Python mailing list, for how the decision to disallow *a = range(5) was made: Also, what should this do? Perhaps the grammar could disallow it? I say disallow it.  That is ambiguous as to what your intentions are even if
+you know what '*' does for multiple assignment. My real point was that the PEP lacks precision here. It should list
+the exact proposed changes to Grammar/Grammar. --
+--Guido van Rossum (home page: http://www.python.org/~guido/ ) as well as this follow-up discussion : Also, what should this do? Perhaps the grammar could disallow it? I'm not so sure about the grammar, I'm currently catching it in the AST
+generation stage. Hopefully it's possible to only allow this if there's at least one
+comma? In any case the grammar will probably end up accepting *a in lots of
+places where it isn't really allowed and you'll have to fix all of
+those. That sounds messy; only allowing *a at the end seems a bit
+more manageable. But I'll hold off until I can shoot holes in your
+implementation. ;-) --
+--Guido van Rossum (home page: http://www.python.org/~guido/ ) In simpler terms, *a=1,2,3 will throw a syntax error because you are trying to use the starred expression as a lone assignment target. [*a] = 1,2,3 works just as (*a,)=1,2,3 or simply add a trailing comma after your starred expression like this *a, = 1, 2, 3 They all return a list of the values i.e. [1,2,3].

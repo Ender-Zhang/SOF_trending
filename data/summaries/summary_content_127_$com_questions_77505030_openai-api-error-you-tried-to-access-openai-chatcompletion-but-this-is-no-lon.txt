@@ -1,0 +1,1 @@
+I am currently working on a chatbot, and as I am using Windows 11 it does not let me migrate to newer OpenAI library or downgrade it. Could I replace the ChatCompletion function with something else to work on my version?

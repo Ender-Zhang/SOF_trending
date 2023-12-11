@@ -1,0 +1,1 @@
+When upgrading to version 1.71 of BouncyCastle we get following warning when compiling: warning: [deprecation] getObject() in ASN1TaggedObject has been deprecated. This method will raise an exception if it is not BERTags.CONTEXT_SPECIFIC. Use getBaseUniversal(boolean, int) only after confirming the expected tag class.

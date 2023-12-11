@@ -1,0 +1,1 @@
+The implementation (and documentation) of Stream.toList is like this: I'm wondering why the list returned by Arrays.asList needs to be copied to a new ArrayList . Would it not be sufficient to just return the following?

@@ -1,0 +1,1 @@
+code basic everyth work fine ide creat file creat instanc class use static mergesort method sort array run code websit allow one file cramp mergesort class file realiz actual chang done array pass method pleas know tri differ thing abl get sort work loop merg method outsid bodi outer loop

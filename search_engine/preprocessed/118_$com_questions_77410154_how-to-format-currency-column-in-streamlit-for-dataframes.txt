@@ -1,0 +1,1 @@
+follow piec code output cashflow column want output prefer use styler instead datafram output need play around format specifi

@@ -1,0 +1,1 @@
+I have created a neural network for my data which has 4 parameters as input and 1 output. I want to optimize the output with pso but I get an error while compiling the code. I use the model.predict as the objective function.

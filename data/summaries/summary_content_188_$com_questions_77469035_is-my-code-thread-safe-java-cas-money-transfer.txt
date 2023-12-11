@@ -1,0 +1,1 @@
+I am solving classic java concurency kata: you have a bunch of accounts and you need to transfer money from one to another in multi-thread env. I am trying to find out how to solve this task in non-blocking way, by using CAS and AtomicReference.

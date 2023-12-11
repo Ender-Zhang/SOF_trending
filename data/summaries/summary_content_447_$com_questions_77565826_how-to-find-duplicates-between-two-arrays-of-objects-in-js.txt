@@ -1,0 +1,1 @@
+Use an object like userName: {Name:..., CheckedIn:... CheckedOut:...} to accumulate values. After that, Object.values(diff) will return the data you're looking for. You could take an object for collecting and initialize each value with default properties.

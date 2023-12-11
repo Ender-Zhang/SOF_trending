@@ -1,0 +1,1 @@
+I have two lists, both contain integers represented as strings. large_list is large, up to low 10s of thousands of elements. small_list  is smaller,up to hundreds of element. I am filtering the larger one by the smaller one. I'm curious to know which is more efficient: (a) (b)

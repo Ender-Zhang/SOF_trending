@@ -1,0 +1,1 @@
+Can you please tell me how I can make the text colour change when scrolling depending on the background gradient and increase when scrolling? Right now, either gradient or zoom works. Added clarity and showed two code examples that work either this way or that way.

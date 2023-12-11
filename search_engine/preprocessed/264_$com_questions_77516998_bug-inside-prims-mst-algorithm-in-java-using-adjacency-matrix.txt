@@ -1,0 +1,1 @@
+tri implement prim minimum span tree algorithm graph repres use adjac matrix java code run success abl gener expect output algorithm select first vertex move forward wrong implement algorithm main function call tri run code output get repeatedli progress start vertex

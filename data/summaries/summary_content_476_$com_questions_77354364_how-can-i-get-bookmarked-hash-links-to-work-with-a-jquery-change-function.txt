@@ -1,0 +1,1 @@
+The #theme-selector changes the hash and shows/hides the relevant divs with the class, i.e. .theme1 or .theme2. When going to example.com/#theme1 from a bookmarked link, all divs are shown. You need to use $(location).attr('hash'); to get the current hash.

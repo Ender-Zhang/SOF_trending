@@ -1,0 +1,1 @@
+In the groovy with spock tests you should use @SpringBean to create and inject mocks into application context. To use @ SpringBean you have to use a strongly typed field def or Object. You also need to directly assign the Mock/Stub/Spy to the field using the standard Spock syntax.

@@ -1,0 +1,1 @@
+This question already has answers here : Can I fire and forget a promise in nodejs (ES7)? (4 answers) Are there any (negative) side effects when I don't use the "then" function of a Promise? (1 answer) Are JavaScript forever-pending promises bad? (2 answers) Does never resolved promise cause memory leak? ( 1 answer)

@@ -1,0 +1,1 @@
+I'm currently working on a project using a Raspberry Pi, and I've successfully trained machine learning models locally. Now, I'm looking to deploy these models on Azure and make API calls to utilize them. I and new to azure and any guidance or steps you can provide to help me with this deployment process would be greatly appreciated.

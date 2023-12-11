@@ -1,0 +1,1 @@
+I'm facing a problem since this morning with webapps deployed with Apps Script. External scripts are not loaded from the HTML side, and a new error arise in the console. I've observed that the issue seems to be related to recent changes in the Content Security Policy (CSP) by Google. This issue has been affecting various developers.

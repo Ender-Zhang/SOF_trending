@@ -1,0 +1,1 @@
+I'm having problem with my Logback in Java/Spring Boot application. My Logback is keep creating large tmp files and it's taking over lots of disk usage. I know I can solve this issue by using SizeAndTimeBasedRollingPolicy and %i option.

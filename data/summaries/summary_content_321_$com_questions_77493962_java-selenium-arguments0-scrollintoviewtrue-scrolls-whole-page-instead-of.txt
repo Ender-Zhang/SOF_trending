@@ -1,0 +1,1 @@
+The code scrolls green slider instead of red slider. The code scrolls the whole page down instead of the certain div. The test fails because webbriver cannot find the element.

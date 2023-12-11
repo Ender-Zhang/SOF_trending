@@ -1,0 +1,1 @@
+C++ code uses the MT19937 generator as follows: Python version is (with NumPy 1.23.3) In both cases, the random seed is set to 1234 . But the two produce different outputs on my machine (macOS 14.0 ARM). The C++ code outputs while the Python code outputs.

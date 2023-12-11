@@ -1,0 +1,1 @@
+want use maven insert plugin configur separ repo project separ repo follow structur modul java project simpl spring boot project name want includ parent pom modul especi plugin configur inherit content pom tri use depend depend manag plugin manag noth work look intellij project see plugin look tri resolv also plugin achiev im use maven

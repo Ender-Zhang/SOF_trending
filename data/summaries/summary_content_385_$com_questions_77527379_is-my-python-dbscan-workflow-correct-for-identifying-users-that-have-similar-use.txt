@@ -1,0 +1,1 @@
+I am not sure if what i'm doing is correct as I am a beginner. The images I saw for DBSCAN are donut shapes which is most likely due to a lot data (which I need to add more user's list)

@@ -1,0 +1,6 @@
+I am trying to use a CodeBert model followed by a CNN for multi-class classification of vulnerabilities in source code. I tried to test the outputs of the CodeBert model on an example. This is the output: I then created the model by inserting the CodeBert model before my CNN I built a Dataload that returns the source code and the label associated with the cwe.
+And I wrote the training function. I have some pretty strange results. But the strangest thing is that it seems that the CodeBert model always outputs the same values.
+In fact, if I try to relaunch the first example of the question, it generates three tensors that are all equal to each other.
+This is the output of the example piece of code written at the beginning of the question after launching the training function. I don't understand where the problem is, the input_ids and attention_mask are the correct size and actually change for each batch. However, the output always remains the same.
+Can someone help me?
+I've tried changing everything but I just can't figure it out.

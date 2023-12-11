@@ -1,0 +1,1 @@
+tell pleas add button help titl stage javafx use linux prefac ca modifi titl bar stage javafx workaround solut build titl bar add top scene remov origin titl bar use borderpan root node scene creat titl bar top part borderpan remov origin stage titl bar

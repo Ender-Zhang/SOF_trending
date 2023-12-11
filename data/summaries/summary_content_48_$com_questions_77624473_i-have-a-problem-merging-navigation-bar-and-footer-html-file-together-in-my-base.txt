@@ -1,0 +1,1 @@
+I've been trying to figure out how to include the two templates in my base html and I found no success. In your included pages you are including an entire HTML page. You only want to be including the HTML tags that fit inside the overall template. You'll need to switch the CSS in the included pages t.

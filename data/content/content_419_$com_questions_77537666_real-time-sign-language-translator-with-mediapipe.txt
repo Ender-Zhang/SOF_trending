@@ -1,0 +1,3 @@
+So, i'm making a sign language translator with mediapipe, and it works fine till i hold up both of my hands, it gives the following error: "X has 84 features, but RandomForestClassifier is expecting 42 features as input". I've tried tons of different solutions but none of them have worked so far.
+This is the code i'm running: Any of you guys have any idea on how to fix my problem?
+Thanks in advance I tried a lot of different solutions but none of them worked so far. i'm expecting the program to be able to scan and translate both of my hands at the same time

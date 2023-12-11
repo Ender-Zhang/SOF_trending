@@ -1,0 +1,1 @@
+I deployed a model to Vertex on GCP, and the config code used to deploy it looks like this: The model is configured to utilize GPU resources, and this configuration has worked using both P4s and P100s on n1 machines. When running the model on a g2 machine with an L4 accelerator, requests result in extremely high latency and CPU utilization.

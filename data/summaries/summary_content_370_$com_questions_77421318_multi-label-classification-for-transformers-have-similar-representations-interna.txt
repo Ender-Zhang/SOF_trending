@@ -1,0 +1,1 @@
+I have a transformer model that needs to output three different labels. Loss is computed on out_1, out_5 and out_4 separately and combined. When I print them post training I get different values on the training set. How is this possible? What am I doing incorrectly here?

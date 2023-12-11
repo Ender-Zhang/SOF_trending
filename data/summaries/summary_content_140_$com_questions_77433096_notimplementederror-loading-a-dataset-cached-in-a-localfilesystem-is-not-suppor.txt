@@ -1,0 +1,1 @@
+I cannot load the datasets I am following from a tutorial. This error stems from a breaking change in fsspec. It has been fixed in the latest datasets release. Updating the installation with pip install -U datasets should fix the issue.

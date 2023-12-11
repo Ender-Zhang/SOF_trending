@@ -1,0 +1,1 @@
+The KMeans class has an n_init parameter like so. The fit_and_evaluation function from the docs uses an n-runs parameter for the number of times to rerun kmeans.

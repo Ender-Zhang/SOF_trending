@@ -1,0 +1,1 @@
+I wrote a little utility that prints adapter information, similar to ifconfig on Linux. It uses Inet6Address.getScopeId(). This is the output it produces: The scope id is 2 for the adapter and 1 for the loopback adapter. But when I run ifconfig (Ubuntu 22.04), I get: ifconfig prints a different scope id.

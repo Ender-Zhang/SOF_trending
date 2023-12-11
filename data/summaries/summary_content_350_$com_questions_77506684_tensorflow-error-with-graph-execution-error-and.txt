@@ -1,0 +1,1 @@
+When i want to start training i have error. Now i update tensor flow to verion 2.15.0 and my Python 3.11.0. And my error: I try to solve this problem, for example tit said Unknown image file format. One of JPEG, PNG, GIF, BMP required , i change format to .png but problem not changed (my format is .jpg).

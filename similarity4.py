@@ -22,7 +22,7 @@ model = SentenceTransformer('sentence-transformers/all-mpnet-base-v2')
 embeddings = model.encode(summaries)
 
 # 设置一个相似度阈值
-similarity_threshold = 0.3
+similarity_threshold = 0.5
 
 # 初始化用于保存相似文件组的大列表
 similar_files_groups = []

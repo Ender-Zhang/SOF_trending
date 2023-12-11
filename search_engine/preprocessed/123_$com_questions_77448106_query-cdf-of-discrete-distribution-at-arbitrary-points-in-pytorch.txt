@@ -1,0 +1,1 @@
+discret distribut say p x cdf given f x p f array denot correspond valu given x case p actual discret distribut piecewis uniform support x x p x x p x x p x x p x want queri cdf distribut differ point say f way librari function get f quickli without comput manual case x p array list valu array shape also array shape want comput effici pytorch allow gradient backprop well

@@ -1,0 +1,1 @@
+I want a result that group the same adjacent objects into another array : [[1,1], how can I do that? You are not dealing with the last group. The last group has no follower different from the previous. There are ways to solve that.

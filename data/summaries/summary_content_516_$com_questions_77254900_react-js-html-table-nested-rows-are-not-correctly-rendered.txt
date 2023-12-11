@@ -1,0 +1,1 @@
+I'm facing an issue with rendering the table data. There are a total of four columns and the last two columns can also contain nested rows. How can I achieve this via the HTML table element in React.js? Please see the screenshot as an example:

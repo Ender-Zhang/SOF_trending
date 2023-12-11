@@ -1,0 +1,1 @@
+I would like to visualize another data frame with STATE column (binary values) I want to visualize VALUE1 column that have 0 values of STATE column. I can create two arrays for each. I do not know how to update crossing points part and negative/positive area part. If green line is bigger than red, I can make radial plot.

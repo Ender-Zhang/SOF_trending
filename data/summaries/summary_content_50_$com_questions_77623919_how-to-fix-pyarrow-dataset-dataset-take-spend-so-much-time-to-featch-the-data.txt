@@ -1,0 +1,1 @@
+The idx of def getitems (self,idx) is a list, each element is random from 0-59999,the lenth of idx is 32. When I use sample = self.dataset.take(arrow_array) to fetch data, it will spend so much time. I want to ask how to optimize this part?

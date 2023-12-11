@@ -1,0 +1,1 @@
+SciPy's Cubic Spline function is creating a non logical shape between two of the control points. You should not use the scipy.interpolate.CubicSpline() for designing a 2D curve. Use libraries such as Splipy and NURBS-Python.

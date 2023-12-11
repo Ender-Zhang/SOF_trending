@@ -1,0 +1,1 @@
+I want to add a button that adds an element to the total every time I click it. The console shows that: Uncaught TypeError: Cannot create property 'id' on number '2' the buttons: the delete button(x) is working the items array: and in code: app.js: the items.js and the total.js. You could do as Inside the delItem method to add, inside addItem method.

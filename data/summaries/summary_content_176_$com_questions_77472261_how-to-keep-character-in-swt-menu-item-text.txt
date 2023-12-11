@@ -1,0 +1,1 @@
+I built a Java application using SWT and JFace (on Windows) Here I would like to put an email address as text in a menu item. What confuses me a bit is that when the menu is displayed, the "at" character is missing and a space is shown in its place instead. Can I somehow keep the @ character?

@@ -1,0 +1,1 @@
+I have to deploy a simple .jar file in a production environment. For security reasons, I'm not able to write production credentials inside the application.properties . I retrieve properties like so: Since the .jar contains /application.properties at its root directory, it will be read correctly.

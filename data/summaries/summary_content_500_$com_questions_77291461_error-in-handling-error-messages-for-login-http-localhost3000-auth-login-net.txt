@@ -1,0 +1,1 @@
+I am unable to implement where it displays that they have successfully logged in and the error handling. I followed answers below, however, I am receiving this error. Since you get a 405, I suppose the server configuration or the route handler not being set up correctly to handle POST requests to this endpoint.

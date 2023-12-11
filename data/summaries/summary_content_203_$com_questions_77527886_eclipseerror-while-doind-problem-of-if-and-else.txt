@@ -1,0 +1,1 @@
+You dont need to have String Args simple get he users input via scanner and check if it is passed or fail. Refer the below working exaple here. Sample code :

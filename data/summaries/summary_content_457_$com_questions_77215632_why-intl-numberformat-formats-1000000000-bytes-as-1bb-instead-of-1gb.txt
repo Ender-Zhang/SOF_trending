@@ -1,0 +1,1 @@
+My browser is the latest Chrome on MacOS. Here's a workaround which checks the size of the number and picks an appropriate unit. The issue seems to be with Intl itself. as your code in your question produces 1BB/s.

@@ -1,0 +1,1 @@
+I faced error which is pip can't download packages. I saw many people have this problem and solved but even I tried every things in internet I counldn't solve this. What I tried I tried internet connection I reinstalled pip and pythonand apt-get update, changing to python2, removing alternatives about python.

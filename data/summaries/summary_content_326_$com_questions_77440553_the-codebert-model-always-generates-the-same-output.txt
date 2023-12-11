@@ -1,0 +1,1 @@
+I am trying to use a CodeBert model followed by a CNN for multi-class classification of vulnerabilities in source code. I have some pretty strange results. The strangest thing is that it seems that the CodeB Bert model always outputs the same values.

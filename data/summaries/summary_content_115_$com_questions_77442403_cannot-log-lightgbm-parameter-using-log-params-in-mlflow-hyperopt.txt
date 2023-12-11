@@ -1,0 +1,1 @@
+I'm using hyperopt to optimize hyperparameter of lightGBM. The code I use are shown below. I'm trying to log hyperparameters using log_params() in the objective function. I got some error messages like below: I'm not sure what I did wrong.

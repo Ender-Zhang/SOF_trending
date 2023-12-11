@@ -1,0 +1,1 @@
+I am trying to fetch Azure Users data using MS Graph API. Since azure does not send all the data related to Users in a single API, we have to make multiple calls to build the data for a single Azure User. The pagination logic here is simple and doesn't bother me.

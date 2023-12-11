@@ -1,0 +1,1 @@
+ AWS SDK v1.5 had a method for this, simple as: But it appears that feature or capability doesn't exist in v2.21.2. To provide SDK support for the many services that AWS owns, the AWS SDKs make extensive use of code generation.

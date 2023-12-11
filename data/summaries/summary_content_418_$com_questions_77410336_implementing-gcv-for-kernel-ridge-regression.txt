@@ -1,0 +1,1 @@
+I would appreciate it if you could provide some insight. I'm implementing Kernel Ridge Regression in the R language. I want to determine the optimal value of lambda using the generalized cross-validation (GCV)

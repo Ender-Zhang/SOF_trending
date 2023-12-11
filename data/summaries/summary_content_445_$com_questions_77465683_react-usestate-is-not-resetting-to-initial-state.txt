@@ -1,0 +1,1 @@
+This question already has answers here : How to sync props to state using React hooks : setState() (8 answers) Closed 29 days ago . I am trying to re-render the checked state of below component, even though the isChecked state comes as false, the useState is not updating to the set prop value.

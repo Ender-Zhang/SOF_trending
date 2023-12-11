@@ -1,0 +1,3 @@
+This is the nav although, its a-lot longer its full of divs I just want to know how to scroll till the end of the menu.
+Edit:
+loading element that has to be accounted for and under it there are many line elements top of nav xpath: top of svg xpath: do you need scrollbar html? There are lots of specialized scroll methods in SeleniumBase : But you might not even need to scroll to the element. There's a self.js_click(selector) method, which lets you click on hidden elements that exist in the HTML. Here's an example test that uses that method to click a hidden logout menu item from the nav: Have you tried this scroll to element functionality? As you are saying there are divs in nav. you can try to scroll to those divs

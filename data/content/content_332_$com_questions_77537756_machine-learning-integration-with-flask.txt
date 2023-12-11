@@ -1,0 +1,2 @@
+I have a model trained and saved in a folder. I want to load it to integrate its result within a Flask web application.
+However, I have the error : when I use pickle to get the model I have the code below to train and save the model. I provide it just in case but it works, in a not-FLASK application I can give an input and it will predict an answer as an output. I created a utils.py handling the model loading and prediction : Unfortunately, I have the error above when I use it within a FLASK application like this :

@@ -1,0 +1,1 @@
+I'm working on a reactive application using Hibernate Reactive with Panache. I'm trying to implement a repository-service-rest-controller architecture. This code worked flawlessly in Quarkus version 2.16.7. However, after updating to 3.4.3, I'm encountering this error.

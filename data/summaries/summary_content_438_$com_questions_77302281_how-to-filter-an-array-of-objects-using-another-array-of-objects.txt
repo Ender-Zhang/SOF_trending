@@ -1,0 +1,1 @@
+Use Array::reduce() to filter and map simultaneously. Use reduce() to to iterate over the entries array and filter it based on the filters array.

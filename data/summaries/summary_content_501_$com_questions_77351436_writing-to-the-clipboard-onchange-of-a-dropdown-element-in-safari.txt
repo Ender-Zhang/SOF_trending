@@ -1,0 +1,1 @@
+I'm trying to write text to the clipboard when a user selects an option from a dropdown menu. The following works for all browsers except Safari. I understand that Safari expects a Promise to be passed to the write function of the clipboard object.

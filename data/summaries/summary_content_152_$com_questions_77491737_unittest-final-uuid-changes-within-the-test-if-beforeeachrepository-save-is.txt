@@ -1,0 +1,1 @@
+The id is auto generated, because of the annotation @GeneratedValue. When you call 'orderRepository.save(order2);' the id value you passed when building the order is ignored and a new UUID is automatically generated. You should not set th

@@ -1,0 +1,1 @@
+model mean video paramet like ex rabbit panda lion tri get video specifi queri paramet like sql code want below realiz process django queryset first construct q object

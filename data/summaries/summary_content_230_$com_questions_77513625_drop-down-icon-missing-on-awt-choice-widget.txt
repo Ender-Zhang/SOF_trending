@@ -1,0 +1,1 @@
+Running my java awt code on Linux MintOsv20.20. produces the output as, Another one of my Mint os machine also had this issue. Can some learned counsel guide me on this?

@@ -1,0 +1,1 @@
+code idx def getitem self idx list element random lenth idx use sampl fetch data spend much time want ask optim part

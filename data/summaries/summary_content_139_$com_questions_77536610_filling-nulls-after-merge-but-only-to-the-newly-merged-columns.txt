@@ -1,0 +1,1 @@
+Expected output: You can use the IDs to generate a mask for boolean indexing. Alternatively, reindex and concat : Another (not as nice) option, use a placeholder (e.g. object ) for existing NaNs.

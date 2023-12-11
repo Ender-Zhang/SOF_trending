@@ -1,0 +1,1 @@
+I had an unexpected output while implementing SGD algorithm for my ML homework. You get an overflow of numbers in your code. The gradients basically get too large with your setting. Consider taking more epochs and a much lower learning rate.

@@ -1,0 +1,1 @@
+I'm trying to convert two dates into this pattern: yyyy-MM-dd HH:mm:ss.SSS. I need to retrieve two dates: Last year, same month, day 1, 00:00:00.000 Last day of previous month, 23:59:59.999 So, as of today, I need these two values: 2022-11-01 00:000:000 2023-10-31 23: 59:999 The problem is: I get 2022-12-01 12:00-12.000 . This is the code that generates last year's date. If

@@ -1,0 +1,1 @@
+I was trying to import Turtle and Screen from turtle using the below code: but the editor(pycharm) shows--> "Unresolved reference 'turtle'" and suggests to use "import turtle" to import entire module. Kindly help.

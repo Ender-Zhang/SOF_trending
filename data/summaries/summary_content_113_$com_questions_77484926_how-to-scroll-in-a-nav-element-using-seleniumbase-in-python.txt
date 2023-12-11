@@ -1,0 +1,1 @@
+There are lots of specialized scroll methods in SeleniumBase. You might not even need to scroll to the element. There's a self.js_click(selector) method, which lets you click on hidden elements.

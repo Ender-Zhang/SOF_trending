@@ -1,0 +1,1 @@
+I have implemented a Java stream pipeline where some elements are sorted and checked if all of them fulfill a predicate. The validation by the predicate differentiates in costs. Some of the elements just need to check an attribute, for some of them I have to fetch potentially many elements from a database and evaluate them too.

@@ -1,0 +1,2 @@
+I want the finger to drag across the screen, and have a preview of the line show from the fixed start position (of when the finger initially touched the screen) to where it currently is. Problem is I am having trouble getting rid of all the preview lines drawn on screen so I'm getting this "sun-like" figure on the screen, where more and more lines are drawn with each and every move of the finger.
+Can you help me organize a certain algorithm to do that properly?

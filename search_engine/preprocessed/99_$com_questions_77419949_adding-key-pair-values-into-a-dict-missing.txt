@@ -1,0 +1,1 @@
+tri add key valu list dict wherea key amount time x repeat list valu x expect output actual output receiv anyon idea could duplic key dict case use counter vise versa save occurr product type counter alreadi note ca duplic key product use key without use collect modul give

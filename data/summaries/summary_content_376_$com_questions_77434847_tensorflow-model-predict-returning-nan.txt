@@ -1,0 +1,1 @@
+When I run model.predict(##) , I get the result nan . I also get this for calculating the loss function. I would expect a prediction somewhere from 0 to 100, but instead I get NAN (not a number)

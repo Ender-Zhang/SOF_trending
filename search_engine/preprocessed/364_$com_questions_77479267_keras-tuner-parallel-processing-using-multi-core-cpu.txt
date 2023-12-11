@@ -1,0 +1,1 @@
+current run hyperparamet search use gridsearch want get clarif whether util multipl cpu speed process hyperparamet tune know document onlin util multipl gpu via specif interest util threadripp pro nvidia rtx verifi run top command termin hyperparamet search show one process python run know use altern scikit configur paramet search creat multipl python process run togeth thank

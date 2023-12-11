@@ -1,0 +1,2 @@
+I have two dataframes that I am merging: The output is: Position 2 on the new 'Column C' is Null because ID=3 does not exist in df2. How can I fill the nulls in the new columns only but leave the nulls in the old column intact?
+Expected output: You can use the IDs to generate a mask for boolean indexing : Alternatively, reindex and concat : Another (not as nice) option, use a placeholder (e.g. object ) for existing NaNs: Output:

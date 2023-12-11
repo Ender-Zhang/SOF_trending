@@ -1,0 +1,1 @@
+I am connecting to a postgres db using apache-arrow ADBC driver. The goal is to fetch arrow tables from the postgres. the below code i want to put in a async method in fastapi endpoint. But it seems the cursor is not awaitable. How can I make the queries asynchronous

@@ -1,0 +1,2 @@
+I have trained the XLNet model for Sentiment Analysis on the IMDB Dataset and the code for making predictions looks like Now when I try applying LIME for explaining the predictions like this I get the following error
+Any idea how do I explain the predictions using LIME ? enter image description here

@@ -1,0 +1,1 @@
+Twitter's API v2 updates have significantly impacted the effectiveness of data scraping libraries like Tweepy and Scrapy. The new rate limits and access restrictions have introduced a set of challenges.

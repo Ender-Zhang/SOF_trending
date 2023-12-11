@@ -1,0 +1,1 @@
+I get this error: TypeError: root() missing 1 required positional argument: 'request' stack trace: ! Traceback (most recent call last): File "/opt/homebrew/Caskroom/miniconda/base/envs/assistant-backend/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 408, in run_asgiresult = await app(  # type: ignore[ func-returns-value]

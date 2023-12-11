@@ -1,0 +1,1 @@
+Angular Material is giving me an error when I use a <mat-label> element in a simple form. The problem is with this error popping in my developer console, which I want to discard. Even though mat-label should automatically associate with the form control, you can try explicitly setting an id on the mat-select.

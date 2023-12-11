@@ -1,0 +1,1 @@
+I want to combine two subjects in similar way as zip does, but with the following important difference. When both have emitted values, emit the latest of their values. Then, both need to emit at least once again, then emit their latest emitted values.

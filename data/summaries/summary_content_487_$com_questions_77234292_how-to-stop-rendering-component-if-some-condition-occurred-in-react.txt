@@ -1,0 +1,1 @@
+There are several options available to you to avoid the getNotes call in the NotesContainer component. Here are a few suggestions. Conditionally render the Notes container component only if there is a t

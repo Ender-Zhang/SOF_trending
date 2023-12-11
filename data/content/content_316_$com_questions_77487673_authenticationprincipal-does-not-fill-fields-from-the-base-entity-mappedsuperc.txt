@@ -1,0 +1,2 @@
+I need to get the current profile of an authorized user. build.gradle : There is a controller for this: console output always: user.getId() = null table users : User : BaseEntity : I tried to get rid of @MappedSuperclass , removed inheritance from BaseEntity and created an id field by analogy from BaseEntity and everything worked as it should.
+What could be the problem when using @MappedSuperclass ?

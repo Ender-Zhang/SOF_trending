@@ -1,0 +1,1 @@
+I need to create a script that send a mail once a day using a gmail account. I've used nodemailer and I have this simple test code. But I've noticed that I will always get this error when I try to run the script using node index.js Is there any problem into the code or it's a nodemailers bug?

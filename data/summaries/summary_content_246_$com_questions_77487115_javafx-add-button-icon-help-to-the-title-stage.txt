@@ -1,0 +1,1 @@
+You can't modify the title bar of Stages in JavaFX. Workaround solution: Build your own title bar, add it to top of your Scene, and remove the original title bar.

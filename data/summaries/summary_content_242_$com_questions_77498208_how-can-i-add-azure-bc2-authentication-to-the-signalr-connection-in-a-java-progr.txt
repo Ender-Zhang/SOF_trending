@@ -1,0 +1,1 @@
+I have a Java program that is not a not a web application that connects to an Azure SignalR hub running in ServerLess mode and listens for events. This program is run on different operating systems including Windows, macOS and Linux. The program uses the ASP.NET Core SignalR Java client. I would like to add authentication to validate with Azure BC2 using a username and password.

@@ -1,0 +1,1 @@
+I wanted to have a label showing open, high, low, close and percentage move of the candle that the crosshair was pointing to. I found the way to add these labels from here but there was no way to change the colour of all labels. Is there any workaround or a proper solution to this problem? From what I can tell this color cannot be set dynamically from the outside.

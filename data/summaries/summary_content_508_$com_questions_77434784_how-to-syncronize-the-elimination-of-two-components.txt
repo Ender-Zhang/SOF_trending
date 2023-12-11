@@ -1,0 +1,1 @@
+When you press the remove button, then please run the remove function in the main component. Then you'll get the result what you want. You can use redux or context. And use the state as props in these components.

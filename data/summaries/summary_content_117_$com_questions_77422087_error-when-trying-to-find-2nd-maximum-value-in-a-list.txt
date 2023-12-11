@@ -1,0 +1,1 @@
+Use comprehension instead of a succession of map - list constructor succession. This will reduce the complexity of your code, making the issue/bug easier to spot. Rename variables to help our brain understand what happens.

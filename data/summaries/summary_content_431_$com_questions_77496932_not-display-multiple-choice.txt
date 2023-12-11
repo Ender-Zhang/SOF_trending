@@ -1,0 +1,1 @@
+I have a script Im working on for Google sheets. I want it to only display a multiple choice if the ticket is open. What I am getting is it will not display the Value but have a blank option to select. Any idea how to remove the option?

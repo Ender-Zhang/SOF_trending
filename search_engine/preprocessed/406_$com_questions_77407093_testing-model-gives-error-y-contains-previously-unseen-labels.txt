@@ -1,0 +1,1 @@
+run test part encod valu match exampl malaysia encod whatev countri put test encod load labeldata pickel transform test data adjust label train phase appli test phase problem fit new labelencod test data appli encod train phase test data use transform method labelencod use train

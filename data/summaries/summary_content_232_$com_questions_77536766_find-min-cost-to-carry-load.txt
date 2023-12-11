@@ -1,0 +1,1 @@
+Every truck has 4 parameters, day numbers represented as Left[i] to Right[i]. Truck capacity is represented as Capacity and charges some amount represented as Cost. For given n days as input and I need to carry a load of capacity k on each day, find the minimum cost.

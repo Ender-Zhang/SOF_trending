@@ -1,0 +1,1 @@
+After upgrading from Spring 5.3.21 to 6.0.13 and updating java 12 to 17, we're getting errors on all our services like this one below. We include / pull in dependencies (xxx-3.4.5-SNAPSHOT.jar) from other repositories. Those are build using the same maven parent, so versions all are the same.

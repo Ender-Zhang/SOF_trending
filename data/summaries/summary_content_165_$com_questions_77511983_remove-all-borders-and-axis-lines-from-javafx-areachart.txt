@@ -1,0 +1,1 @@
+I am trying to get down to a completely unstyled AreaChart using JavaFX. So far I think I have achieved this accept for this annoying white line that appears along the bottom of the graph. Does anyone know how to remove this?

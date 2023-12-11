@@ -1,0 +1,1 @@
+Is it possible to somehow simplify the expressions? for example use 1 reduce. It seems to me that it can be done without two filter and reduce, but I don’t quite understand how. I write this data into an object, with the number of times it turns in a certain direction. This way, you achieve the same result with a single reduce operation.

@@ -1,0 +1,1 @@
+I am trying to backtest a momentum strategy using Backtesting.py. In your strategy, you seem to place a buy order if your vortex-based condition is met. However, you never close the position (with self.position.close() ). If you don't closed the position, your momentum strategy is not working.

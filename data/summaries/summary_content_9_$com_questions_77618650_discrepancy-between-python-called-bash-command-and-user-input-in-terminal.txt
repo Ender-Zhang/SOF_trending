@@ -1,0 +1,1 @@
+I am encountering a weird issue. Basically, I am trying to automate a task that I can do through command in the terminal, but using python. When I do it by hand, it works well. But when IDo it with python, the solution does not stop.

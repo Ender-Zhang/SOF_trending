@@ -1,0 +1,1 @@
+A possibly more efficient way is to do the combination at an array level. This way, you are dealing with the arrays, instead of building a DataFrame only to return to an Index. As always, test with your actual data:

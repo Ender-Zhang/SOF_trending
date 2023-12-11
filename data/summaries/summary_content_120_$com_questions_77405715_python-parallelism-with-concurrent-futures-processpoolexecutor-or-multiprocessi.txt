@@ -1,0 +1,1 @@
+ API managed to overload my single threaded AsyncIO and multi-threading attempts, but CPU never reached even 20% of load. My idea is to use multiprocessing and fully load (70-90%) the CPU. My current problem is with process creation inside my custom Queue system.

@@ -1,0 +1,1 @@
+In version 2.5.8 a new property 'maxAge' has been added, which must be less than 7 days to be able to refresh the metadata on the broker side. Set the maxAge to 7 seconds, with the expectation that it will refresh before 10 seconds to gain an additional 10 seconds.

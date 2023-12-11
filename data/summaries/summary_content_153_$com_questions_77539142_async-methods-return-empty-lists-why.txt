@@ -1,0 +1,1 @@
+The @DataJpaTest method doesn't return anything. It seems to be related to how transactions are handled in @ datajpaTest. If you run the application regularly, the findAll() method works fine. If I annotate your test with @Transactional(propagation = Propagation.NEVER) , your test also succeeds.

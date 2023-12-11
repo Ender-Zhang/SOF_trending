@@ -1,0 +1,1 @@
+I am experimenting with Apache POI 5.2.4 and managed to read a toy Excel file using the following cut-together code (Java): The Excel sheet I read in contains just a cell referencing another workbook in the same folder. It was created using Excel 2019 for Mac and is correctly displaying the linked value.

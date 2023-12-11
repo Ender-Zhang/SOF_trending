@@ -1,0 +1,1 @@
+Sexpdata 1.0.1 or segno 1.5.3 can't be installed in python. This was caused by the release of setuptools 69.0 on Nov 20, 2023. A simple fix is to change requires = ["setuptools>=61.0"] to requires = "setuptool==68.2.2"

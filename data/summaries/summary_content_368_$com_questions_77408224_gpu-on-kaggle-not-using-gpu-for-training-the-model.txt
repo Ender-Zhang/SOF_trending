@@ -1,0 +1,1 @@
+I have written a code for a custom transformer trained on some dataset. My issue lies with the model not utilizing my gpu even though i have initialized everything in my code to my best knowledge. Can someone help me figure out why the cpu is being used for training ?

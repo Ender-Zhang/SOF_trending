@@ -1,0 +1,1 @@
+I have a Pan gesture handler inside a Pinch gesture handler to create the effects of multi-directional scrolling zoomable view that is all working well. But I am having issues where when users zoom in, the view is not zoomed in under their fingers. When users zoom, the views would zoom some place else and not keep the same position.

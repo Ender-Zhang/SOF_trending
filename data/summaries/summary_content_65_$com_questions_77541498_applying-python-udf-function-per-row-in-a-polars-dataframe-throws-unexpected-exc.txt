@@ -1,0 +1,1 @@
+I want to create a new column named "common_movie_ratings" that will take from each rating list only the index of the movie rated in the common movies. For example, for the first row, I should return only the ratings for movies [7064, 7153,], for the second row the ratings  [7], and so on and so forth. I created the following function:

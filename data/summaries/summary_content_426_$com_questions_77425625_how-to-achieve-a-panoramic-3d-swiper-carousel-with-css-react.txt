@@ -1,0 +1,1 @@
+I'm working on creating a panoramic 3D swiper carousel similar to the following design: However, my current implementation does not achieve the same effect, and the carousel looks like this instead: I want to achieve that carousel in CSS. Could anyone help me on how to adjust my CSS to achieve the desired effect?

@@ -1,0 +1,1 @@
+In Nextjs 12, with old Pages router I could write pages/[...urlParts]/index.js , and that would catch pages routes only (exactly what is needed). But now in Nextjs 13 I use their new App router, and my app/[ ...url parts]/page.js route catches everything, including internal Nextjs requests like /_next/static/css/app/ReactToastify.css.

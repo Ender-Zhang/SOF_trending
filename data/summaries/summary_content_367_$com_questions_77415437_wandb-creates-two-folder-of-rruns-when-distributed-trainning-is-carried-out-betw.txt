@@ -1,0 +1,1 @@
+I am new to many things in deep learning and distributed training. I have defined a function for the distributed training setting: For the above function, I followed the example in wandb. My question is why when training the model, wandb creates two different run folders with two models? This is not correct setting for my experiments.

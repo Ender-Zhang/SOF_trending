@@ -1,0 +1,1 @@
+TensorFlow Keras does not work correctly with SparseCategoricalCrossentropy / sparce_categorical_crossentropy loss function with a generator as training data. The same symptom reported in Accuracy killed when using ImageDataGenerator TensorFlow.

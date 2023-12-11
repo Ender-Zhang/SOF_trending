@@ -1,0 +1,1 @@
+My input dataframe (or 2D numpy array) shape is 11kx12k. For each element, I check how many values are higher in the given row and column. It takes ~1 hour. I wonder is there any way to do this more efficient way?

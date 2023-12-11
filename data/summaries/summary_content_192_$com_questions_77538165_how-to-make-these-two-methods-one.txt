@@ -1,0 +1,1 @@
+If you can't add a common interface to these classes you can add some functions to the method parameters. For the setter, you can use instanceOf . If you are interested in performance, first of all you should also sort the A (the second) list. When you find the closest younger (dateToUse) in the B list (the first list) 

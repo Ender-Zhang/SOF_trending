@@ -1,0 +1,16 @@
+I get this error: TypeError: root() missing 1 required positional argument: 'request' stack trace: ! Traceback (most recent call last):
+File "/opt/homebrew/Caskroom/miniconda/base/envs/assistant-backend/lib/python3.9/site-packages/uvicorn/protocols/http/h11_impl.py", line 408, in run_asgi
+result = await app(  # type: ignore[func-returns-value]
+File "/opt/homebrew/Caskroom/miniconda/base/envs/assistant-backend/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 84, in call return await self.app(scope, receive, send)
+File "/opt/homebrew/Caskroom/miniconda/base/envs/assistant-backend/lib/python3.9/site-packages/fastapi/applications.py", line 1106, in call await super(). call (scope, receive, send)
+File "/opt/homebrew/Caskroom/miniconda/base/envs/assistant-backend/lib/python3.9/site-packages/starlette/applications.py", line 122, in call await self.middleware_stack(scope, receive, send)
+File "/opt/homebrew/Caskroom/miniconda/base/envs/assistant-backend/lib/python3.9/site-packages/starlette/middleware/errors.py", line 184, in call raise exc
+File "/opt/homebrew/Caskroom/miniconda/base/envs/assistant-backend/lib/python3.9/site-packages/starlette/middleware/errors.py", line 162, in call await self.app(scope, receive, _send)
+File "/opt/homebrew/Caskroom/miniconda/base/envs/assistant-backend/lib/python3.9/site-packages/starlette/middleware/exceptions.py", line 79, in call raise exc
+File "/opt/homebrew/Caskroom/miniconda/base/envs/assistant-backend/lib/python3.9/site-packages/starlette/middleware/exceptions.py", line 68, in call await self.app(scope, receive, sender)
+File "/opt/homebrew/Caskroom/miniconda/base/envs/assistant-backend/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 20, in call raise e
+File "/opt/homebrew/Caskroom/miniconda/base/envs/assistant-backend/lib/python3.9/site-packages/fastapi/middleware/asyncexitstack.py", line 17, in call await self.app(scope, receive, send)
+File "/opt/homebrew/Caskroom/miniconda/base/envs/assistant-backend/lib/python3.9/site-packages/starlette/routing.py", line 718, in call await route.handle(scope, receive, send)
+File "/opt/homebrew/Caskroom/miniconda/base/envs/assistant-backend/lib/python3.9/site-packages/starlette/routing.py", line 276, in handle
+await self.app(scope, receive, send)
+File "/opt/homebrew/Caskroom/miniconda/base/envs/assistant-backend/lib/python3.9/site-packages/starlette/routing.py", line 66, in app Which I'm able to reproduce with this simple bit of code: I need to access the full path and request object inside the route, and as far as I've been able to find, this is the way to do this. Does anyone know what I'm doing wrong? I run the script using uvicorn main:app Cheers The source code states that this decorator is no longer documented and should be avoided. Use @app.get(...) instead.

@@ -1,0 +1,1 @@
+Spring API is new solution which went live last week into production. For most part has been working well apart with decent response times. On 3 different days around same timeframe I spotted an instance of processPayment endpoint taking over 1 min to respond.

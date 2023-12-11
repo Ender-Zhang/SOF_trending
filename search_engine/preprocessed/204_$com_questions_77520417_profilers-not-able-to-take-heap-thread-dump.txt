@@ -1,0 +1,1 @@
+java desktop applic hang run scenario tri take heap thread dump analysi applic hang abl take heap thread dump applic hang neither thread dump heap dump work profil behav like noth happen hang tri jprofil jvisualvm also jstack command none applic take dump tri connect applic hang profil attach reason behind assum profil need thread applic abl attach hang workaround

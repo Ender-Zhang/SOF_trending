@@ -1,0 +1,1 @@
+When I run in the debugger and leave my laptop running, it seems to be working fine. when I run on my phone (either by copying the APK or by publishing through the store) it runs a number of times, sometimes as low as 2, and then stops. I tried this on two different phone models. Any idea why this would stop or how to troubleshoot?

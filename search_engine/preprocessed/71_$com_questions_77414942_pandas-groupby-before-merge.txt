@@ -1,0 +1,1 @@
+datafram like ten thousand row need creat column base player row eventid equal would column gameid merg output correct need group gameid r pretti simpl understand correctli python expect output like gameid eventid player b b c c e nan nan b b c c e nan nan add column list paramet

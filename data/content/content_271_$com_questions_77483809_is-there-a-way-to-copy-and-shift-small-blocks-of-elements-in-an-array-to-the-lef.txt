@@ -1,0 +1,19 @@
+lets say we have an array which acts as an implicit binary heap, and we start with: [0, 0, 0] It slowly gets filled up to: [3, 2, 3] We will need to grow it, by copying it to a new grown array of size 2n + 1 where n is the length of the old array, but this time we copy some blocks of elements into certian positions in the grown array, such as: [0, 3, 0, 2, 3, 0, 0] lets say the above array gets filled up and we need to grow agian, it would look like this: [5, 3, 5, 2, 3, 4, 5] [0, 5, 0, 3, 5, 0, 0, 2, 3, 4, 5, 0, 0, 0, 0] i hope you get the pattern of shifting by now. so is there a way to use System.arraycopy() to implement this way of shifting pattern in o(log(n))? if not can you suggest any other alternatives. There are several things to note here. Firstly, observe the usual strategy of having an array which can be efficiently expanded to the right.
+An example is std::vector in C++.
+Somewhat simplifying, the array has an explicit size and an implicit capacity.
+The allocated memory matches the capacity.
+The used memory matches the size.
+When we expand the array and size is less than capacity, we just start to use the next allocated element, O(1) cost.
+When size is equal to capacity, we create a copy which is two times larger, move the contents there, and start using the new copy. Note that this operation is O(size).
+But since it happens at capacities 1, 2, 4, 8, 16, 32..., the total running time is also O(size).
+This is called amortized complexity O(1) .
+Formally, for every k, the first k operations are done in O(k) time.
+Some operations are expensive, but they are rare enough. There are ways to have an expandable array where each operation costs real O(1), not amortized, at the cost of larger constant factor.
+One such way is to create the next array ahead of time, maintain both copies of the array simultaneously, and with each one addition, copy two more elements into the next array as well.
+If that would be the focus though, it deserves a separate question. Secondly, after expanding the underlying container, inserting an element into a binary heap can be efficiently done in O(log n) anyway.
+Just add the element as the last one, and then sift it up until it stops.
+So, if we are satisfied with amortized O(log n) per operation, we can just use the above strategy for expanding and the natural heap insertion operation. The only problem is if we want real O(log n), not amortized, but then it deserves an explicit mention in the question. Thirdly, if you insist on reordering the elements on container expansion, its cost is just the same as the container expansion cost.
+Remember how, on each expansion, we had to copy the old contents into the new array, and that took O(size) time.
+Well, at this moment, we can just copy into the places we choose instead of the same places.
+In your example, we choose [0]->[1], [1,2]->[3,4], [3,4,5,6]->[7,8,9,10], and so on. If really desired, just the same as amortized O(1) is transformed into real O(1) per element addition, we can create the next array in advance, and copy two more elements on each addition.
+We would have to maintain both copies though, so, heap operations will have their O(log n) with larger constant factor, too. "... We will need to grow it, by copying it to a new grown array of size 2n + 1 where n is the length of the old array, but this time we copy some blocks of elements into certian positions in the grown array ..." Here is an example, without arraycopy . Output

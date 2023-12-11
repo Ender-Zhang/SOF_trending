@@ -1,0 +1,1 @@
+I want to train an ML model for an IDS. I managed to train the model already, but the reason it does not work is because I created bad csv files. I have no idea how to deal with the fact that the features for a query and a response look so different. Does anyone know how I can create a proper CSV file that includes all the features from both queries and responses?

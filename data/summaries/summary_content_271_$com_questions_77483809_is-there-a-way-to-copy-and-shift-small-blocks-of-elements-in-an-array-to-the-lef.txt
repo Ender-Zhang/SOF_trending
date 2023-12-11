@@ -1,0 +1,1 @@
+System.arraycopy() can be used to copy an array to a new grown array of size 2n + 1 where n is the length of the old array. The array has an explicit size and an implicit capacity. The allocated memory matches the capacity.

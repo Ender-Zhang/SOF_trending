@@ -1,0 +1,1 @@
+I can't open Anaconda Navigator and Spyder from the drop down list (see image) No error appears. No issue when I open Spyder and Navigator from Anacondas Prompt (CLI)

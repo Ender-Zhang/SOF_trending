@@ -1,0 +1,1 @@
+I was expecting the the input validity to return the correct value irrespective of whether its disabled or not. The same behavior is also seen if the field is set to readonly.

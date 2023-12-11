@@ -1,0 +1,1 @@
+Text doesn't seem to be made to scale with the circle's radius. The main problem is where to put the line breaks. The best are complex and involve trying combinations of line breaks and measuring and scoring the result.

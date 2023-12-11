@@ -1,0 +1,1 @@
+I saw that question: question Unfortunatelly I don't understand how to use AtomicInteger with bit flags to atomically check two values (as mentioned by @Radiodef in his answer) in Java. Could somebody show me how to check atomically if for example: when val1 can be equal to 1 or 2 and val2 can be equal to 1, 2 or 3?

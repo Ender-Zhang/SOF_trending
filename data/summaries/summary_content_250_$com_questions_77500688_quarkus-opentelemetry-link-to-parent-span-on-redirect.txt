@@ -1,0 +1,1 @@
+I want to see full traces linked for my flow which includes redirects. I use quarkus + opentelemetry. In the middle sometimes I have ui part which is not always mine. Redirect is made by another service to which we send request and can not control.

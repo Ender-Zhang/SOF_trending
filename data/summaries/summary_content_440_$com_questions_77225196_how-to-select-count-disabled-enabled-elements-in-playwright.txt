@@ -1,0 +1,1 @@
+I want to check how many (if it's like in config) I have disabled elements. In Cypress it'd be like that: but I can't make it work for myself in Playwright. I thought of just filter over... but seems like it doesn't have method filter available to this array.

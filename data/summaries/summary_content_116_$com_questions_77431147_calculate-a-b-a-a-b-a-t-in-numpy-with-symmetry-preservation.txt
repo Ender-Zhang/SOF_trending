@@ -1,0 +1,1 @@
+I want to calculate the term A * B * A' for matrices A and B . The A' is the transpose of A . Is there an efficient way to calculate this on Python? I can do A @ B @ A.T yet I want something that takes advantage of the symmetric for calculation. I have the most straight forward numba based code: The output is symmetric.

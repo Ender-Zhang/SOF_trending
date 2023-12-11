@@ -1,0 +1,1 @@
+If the POJO is: then how can we achieve it? I understand you chose to use SimpleFlatMapper because that article recommended it. But jOOQ has a much better out of the box way to map to-many relationship, see the MULTISET operator.

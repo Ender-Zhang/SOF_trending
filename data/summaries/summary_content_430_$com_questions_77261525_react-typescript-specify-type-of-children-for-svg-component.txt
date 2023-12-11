@@ -1,0 +1,1 @@
+I have this Svg wrapper component: I wish to type restrict the types of children that can be passed to the prop, so that they are valid <svg> descendents (i.e. <line> )?

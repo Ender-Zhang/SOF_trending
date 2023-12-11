@@ -1,0 +1,1 @@
+I need to see partial weekly returns every week that gets reset at the beginning of the week or month. I tried the following that yields useful info, but not quite the same info I am looking for.

@@ -1,0 +1,1 @@
+I have a complex query which requires me to call this table using native query. I am using Java's Native query for my purpose. However, this is causing the error: How do I solve this error? The issue is with this line You are trying to run a native query and since you don't have any mapping for the intermediate table this is the only way.

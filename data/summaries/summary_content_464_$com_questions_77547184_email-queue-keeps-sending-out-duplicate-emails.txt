@@ -1,0 +1,1 @@
+I'm trying to implement an email queue, but it's not quite working as expected. One of the problems is that the interval keeps executing when this.running is set to true. Another problem is that an email sometimes sends out multiple times, when it should only be sent out once.

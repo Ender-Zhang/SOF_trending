@@ -1,0 +1,1 @@
+I want to implement optimistic locking in my project for concurrent requests. The main problem is that I don't understand how to work with exceptions correctly. I would greatly appreciate any advice or guidance on how to implement this functionality correctly.

@@ -1,0 +1,1 @@
+I have below code trying to fetch some data from Oracle DB tableName based on post request sent. I form query queryString using all post request inputs by appending over a loop, then send this queryString as whereClause parameter to Query in repository class. I am seeing error as below Hibernate: SELECT PALT_I, SIZE_C, AREA_C and DEPT_I from RSV_PALT.

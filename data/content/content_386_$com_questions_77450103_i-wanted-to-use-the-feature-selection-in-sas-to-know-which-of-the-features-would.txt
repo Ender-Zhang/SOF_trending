@@ -1,0 +1,2 @@
+Data set
+SID, AVGAttendance , AVGAbsence, AVGGrade , AVGTotalduration , AVGofPracticaltasks, AVGTotalclicks. Target variable is the (AMS) which has categorical data such I(Intrinsic motivation), ID(Identified regulation), E(External regulations) I am trying to use the feature selection in SAS to know which of the features would affect the I, id and E I used this code: ] enter image description here enter image description here

@@ -1,0 +1,1 @@
+I am training a linear model with two packages separately. I realize there is a huge difference between those two results, in terms of variables' coefficients. Both models list variables in the same order, so I am really confused now. Any idea about what is going wrong? Thank you!

@@ -1,0 +1,1 @@
+With Scrapy and Splash it doesn't work. With the code the button should be clicked for 120 times, but it is not clicked once. What can be a solution? I prefer not to use selenium.

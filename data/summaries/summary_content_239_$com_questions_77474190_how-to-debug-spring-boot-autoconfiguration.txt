@@ -1,0 +1,1 @@
+Enable Spring Boot's debugging by adding debug=true to your application.properties file. This creates log output during startup. For each auto-configuration available it contains the information if it "matched" or not.

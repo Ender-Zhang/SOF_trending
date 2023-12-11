@@ -1,0 +1,1 @@
+A BorderPane consists of 2 parts, top and center. Inside top part I have ImageView which i want to set. Inside center part i have a pane in which I have a button. This button should change the image inside ImageView. What I want to do:The imageview show my new image after i click the button.

@@ -1,0 +1,1 @@
+EWC on 12th Aug its sales value is 1212126 which is an extreme outlier. On 12th and 13th August its value is 15 and 20 which is not an extremeOutlier. Try this: You can change quantile size for determine threshhold.

@@ -1,0 +1,1 @@
+ Java records are essentially just classes behind the scenes. Does this mean that during compilation, they get converted into an explicit class with final private fields, a public constructor, and the necessary getters?

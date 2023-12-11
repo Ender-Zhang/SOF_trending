@@ -1,0 +1,1 @@
+Some features of Spring Data R2DBC are not very good, so I have to use traditional database frameworks. @Transactional annotation can be used in WebFlux now, sometimes it doesn't work in chain calls. Is there any simple way to encapsulate manual transactions to support transactions in Mono?

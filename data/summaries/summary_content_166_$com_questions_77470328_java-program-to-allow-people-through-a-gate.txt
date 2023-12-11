@@ -1,0 +1,1 @@
+I am writing a program to do a gate count of 5, and then allow people into the building. I have the following solution, using synchronized. However, someone mentioned this solution does not allow for sequential lock fairness. How can I rewrite this to allow for it? Is semaphores below correct?

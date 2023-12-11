@@ -1,0 +1,1 @@
+Keras-Tuner can utilize multiple CPU cores/threads to speed up the process of Hyperparameter tuning. I know there is documentation online about utilizing multiple GPUs via tf.distribute, but I am specifically interested in utilizing my Threadripper PRO 3975WX and NVIDIA RTX A6000.

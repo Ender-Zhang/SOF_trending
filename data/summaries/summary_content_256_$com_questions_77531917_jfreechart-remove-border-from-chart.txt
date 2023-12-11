@@ -1,0 +1,1 @@
+I am using JFreeChart with JavaFX and I have my chart looking almost exactly how I want. The last piece is this little bit of border that is still around the chart. I can't seem to figure out how to make the chart flush with the window pane.

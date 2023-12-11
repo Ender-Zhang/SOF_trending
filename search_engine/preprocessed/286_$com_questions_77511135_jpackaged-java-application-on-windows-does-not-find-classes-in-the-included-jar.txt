@@ -1,0 +1,1 @@
+packag applic jpackag result directori structur config file look correct look like tri launch get use javajvm directli like work build app use ant follow includ relev bit build variabl set like var valu ant output use jpackag would think problem stuck day miss turn work result exe work classpath apart main seem set howev work

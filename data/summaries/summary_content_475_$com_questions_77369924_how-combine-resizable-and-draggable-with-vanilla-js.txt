@@ -1,0 +1,1 @@
+RanneR has created a movable class for his own project. Although you have to modify it according to your needs, but should help get you started.

@@ -1,0 +1,1 @@
+I have been reading this other post , since I am dealing with a similar situation. I have timestamps which are outside of the values of the time ranges presented in df_2. I need to know how can I modify the solution to the previous post so that I get a null value for the fifth row.

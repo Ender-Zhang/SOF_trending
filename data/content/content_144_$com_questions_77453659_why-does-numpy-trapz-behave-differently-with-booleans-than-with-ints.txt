@@ -1,0 +1,2 @@
+Booleans in Python are implemented as ints and usually there is no difference in numpy and other packages when changing 0 by False and 1 by True .
+Why then these two computations differ? The same thing happens with scipy.integrate . Found it. It seems to be a bug: https://github.com/numpy/numpy/issues/12858 As pointed in the issue, the key is that

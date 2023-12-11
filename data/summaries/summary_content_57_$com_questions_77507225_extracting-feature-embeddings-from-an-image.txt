@@ -1,0 +1,1 @@
+I'm trying to use TensorFlow.js to extract feature embeddings from images. The first thing that I need is an instance of the ResNet152 model. So I created the following Python script to export Res net152 to the Keras format. And then I exported the KerAs (.h5) model to the Tensorflow.js format.

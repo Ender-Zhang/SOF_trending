@@ -1,0 +1,1 @@
+Python methods can be aliased using = . However, when I try it on the __init__ method, it doesn't seem to work. The b = MyClass.new_name() causes this error: Why does this not work? And how should I alias it correctly?

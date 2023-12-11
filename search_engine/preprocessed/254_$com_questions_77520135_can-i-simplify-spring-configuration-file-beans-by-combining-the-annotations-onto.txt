@@ -1,0 +1,1 @@
+make configur class provid name topic queue want use jm config file look someth like follow repeat time wonder could simplifi follow whether best practic allow etc put topic queue insid configur class use two differ project valu put would requir project includ valu insid dont access chang

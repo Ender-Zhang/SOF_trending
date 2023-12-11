@@ -1,0 +1,1 @@
+How should I correctly define these columns in H2(version: 2.1.214) for intregation test? I'm also using MariaDB, so any suggestions on compatibility between the two databases would be helpful.

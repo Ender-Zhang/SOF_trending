@@ -1,0 +1,1 @@
+I'm trying to make a machine learning model that operates validation extraction to distinguish whether it's bright or dark. I used the dataset " intel image classification " from kaggle. If I don't put '.all()' method at the end, I get error which is ValueError.

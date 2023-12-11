@@ -1,0 +1,1 @@
+In R it is pretty simple, but I don't understand how to correctly do it in Python. I have dataframe like this. But there are about ten thousand rows. So I need to create column "related_player" based on the player from row which eventId is equal related_eventId. If I would not have column gameId I can do it by merging.

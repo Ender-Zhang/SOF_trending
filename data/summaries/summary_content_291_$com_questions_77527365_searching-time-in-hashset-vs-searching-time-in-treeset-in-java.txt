@@ -1,0 +1,1 @@
+I have read that searching time in TreeSet is of the order of log(N) and in HashSet is 1 (Constant) To test this in a program I have written a Java program. After running this program several times, these are the results I got.

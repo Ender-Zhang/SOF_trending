@@ -1,0 +1,1 @@
+I am trying to generate some parquet files from my POJO classes. I am mostly successful in that but AvroWriter is giving me a failure when I try to save a list of custom POJO object. This is my Schema: This is my POJO class: StackTrace: I was expecting that Array is going to be recognized and written into a file.

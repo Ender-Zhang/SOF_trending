@@ -1,0 +1,1 @@
+I want to treat errors from overestimates and underestimates differently (like The Price is Right) during model training. I don't want to rewrite the entire MLP, regression, DecisionTree, etc. algorithms in sklearn just to implement my custom cost function and relevant derivative. Is there a way for me to define a function any classifier can use to override the default?

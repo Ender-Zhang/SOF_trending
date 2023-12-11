@@ -1,0 +1,1 @@
+You don't need Numpy arrays at all for a simple overlay. You'll have to crop or work with the picture label in the lower right corner for your needs. The blend method may not be the best for many images.

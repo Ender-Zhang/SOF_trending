@@ -1,0 +1,1 @@
+I'm working on a React project and using the useReducer hook to manage my state. My goal is to add the fixed price to the total price with each increment of the item counter. The issue I'm experiencing is that the newPrice variable appears to update continuously when I increment the item quantity.

@@ -1,0 +1,1 @@
+I encountered an error in cell 43 of the notebook. I use a MacBook Pro with M1 Max processor. I don't know if that produces the error. How to resolve this?

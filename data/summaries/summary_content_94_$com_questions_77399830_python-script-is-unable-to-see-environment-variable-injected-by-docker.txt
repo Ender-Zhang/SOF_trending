@@ -1,0 +1,1 @@
+Docker injects an environment variable called "INJECT_THIS" using two different methodologies (env.list file via ' docker run', and Dockerfile). My Dockerfile's RUN command invokes a Python file (run.py), but the environment variable is not seen by the Python code. I've created a reproducible example on Github.

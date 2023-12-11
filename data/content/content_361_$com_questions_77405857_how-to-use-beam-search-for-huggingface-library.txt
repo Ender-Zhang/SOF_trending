@@ -1,0 +1,2 @@
+I am using HuggingFace library for BART model. I want to use Beam Search for text generation in interface time. I know there is model.generate to use beam search. But in my case, I am using the BART encoder and decoder in a variational autoencoder.
+As there are latent variables inside the autoencoder, I am not directly using the model. In short, Is there any built-in way to use beam search in my case? Or any well-known library, which will generate the beam search given input and model?

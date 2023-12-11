@@ -1,0 +1,1 @@
+You can achieve that style using the following. From what I could tell from the library source there is no way to get the style you want without the splitlines / join bit at the end.

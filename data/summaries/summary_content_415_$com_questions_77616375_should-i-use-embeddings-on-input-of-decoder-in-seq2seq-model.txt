@@ -1,0 +1,1 @@
+ sequence-to-sequence model in Pytorch. It uses the same vocabulary for the encoder and the decoder. The model is trained by batches of (src, trg) pairs of tensors of the same length.

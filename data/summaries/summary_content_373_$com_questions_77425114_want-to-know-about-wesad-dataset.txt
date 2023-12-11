@@ -1,0 +1,1 @@
+I converted one subject's (s2) pkl file into csv by downsampling the values to 4 Hz because the wrist parameters were all sampled different unline the chest paramters which is sampled to 700 Hz. I wanted to know what's in the zip file of each subject that contains different CSV files for each wrist parameter, It doesn't sync up with the number of values in the pickle file.

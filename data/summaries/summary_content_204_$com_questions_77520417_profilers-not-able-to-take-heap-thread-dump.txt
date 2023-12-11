@@ -1,0 +1,1 @@
+I have a Java desktop application which hangs at-times while running a scenario. I tried to take heap and thread dump for analysis. Neither thread dump nor heap dump works. The profilers just behaves like nothing happened or hanged.

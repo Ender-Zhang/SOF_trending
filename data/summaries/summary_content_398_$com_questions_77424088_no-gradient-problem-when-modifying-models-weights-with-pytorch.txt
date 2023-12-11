@@ -1,0 +1,1 @@
+Perturbation.grad shouldn't be None after executing loss.backward() but it was. Changing the .data attribute isn't tracked by autograd. You need something like return nn.functional.linear(x, perturbation + clean)

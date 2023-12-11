@@ -1,0 +1,1 @@
+part learn process want write transform model copi input sequenc output sequenc thought would rel straight forward howev result less ideal loss higher expect result inaccur copi number sequenc would love get pointer improv far tri lot hyper param tune noth substanti chang outcom someth wrong architectur algorithm bug overlook implement turn model suitabl type task use model work

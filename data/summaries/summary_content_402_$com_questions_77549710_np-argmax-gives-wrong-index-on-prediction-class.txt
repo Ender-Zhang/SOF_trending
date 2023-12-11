@@ -1,0 +1,1 @@
+I've written so simple handwritten classifier example. It works great, it has %98 accuracy on test samples. However, when I have given an sample input to it, np.argmax gives wrong index (even the ones larger than the size of the classes) Could you help me?

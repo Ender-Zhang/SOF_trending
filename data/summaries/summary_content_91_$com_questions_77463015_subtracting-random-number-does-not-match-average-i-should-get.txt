@@ -1,0 +1,1 @@
+Expected number of rounds for starting with X participants. In Python: Output: Running your experiment three times, printing the average sum(lst) / len( lst)

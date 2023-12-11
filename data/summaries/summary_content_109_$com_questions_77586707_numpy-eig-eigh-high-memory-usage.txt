@@ -1,0 +1,1 @@
+When performing eigenvalue decompositions the memory usage is significantly larger than expected. This becomes a problem when the matrix size is such that we can not afford to store several copies. Admittedly, we know to expect twice as much, as NumPy will keep the original matrix.

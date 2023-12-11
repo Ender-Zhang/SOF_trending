@@ -1,0 +1,2 @@
+I need to get all mails from outlook using Graphapi,
+for below code shows only unread mails will get, but, here I need to get it category, like below reference instead of using isRead conditions I need to get mails based on category. categories property is a collection, so you need to use any If some messages have two categories, let's say Green and Red and you want to get messages with both categories then filterCondition will be If want to get messages with either Green or Red

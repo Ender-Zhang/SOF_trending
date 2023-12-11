@@ -1,0 +1,1 @@
+ scrollView.canScrollVertically(1) (positive value to check scrolling down)? You'd do this when your view is created (outside of your onScrollChange because it might not get called) If this doesn't work, how about checking whether the textViewHeight is smaller than your scrollView's height? Again making sure that the views are already drawn and measured.

@@ -1,0 +1,2 @@
+Tell me please, how add button HELP to the title Stage with JavaFX.
+I'm use Linux. Preface: You can't modify the title bar of Stages in JavaFX. Workaround solution: Build your own title bar, add it to top of your Scene, and remove the original title bar. Use BorderPane as root node of your Scene . Create your title bar in the "top" Part of the BorderPane . Remove the original Stage title bar with stage.initStyle(StageStyle.UNDECORATED); .

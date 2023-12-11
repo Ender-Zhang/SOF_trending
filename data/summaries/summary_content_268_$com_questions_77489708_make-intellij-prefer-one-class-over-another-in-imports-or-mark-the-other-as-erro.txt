@@ -1,0 +1,1 @@
+I'm working in an old application that's been written in Swing, and I'm moving it to JavaFX. Because of that I have a misfortune of having many classes that have the same names, but are from different packages. On more then one occasion I've asked IntelliJ to import the wrong one.

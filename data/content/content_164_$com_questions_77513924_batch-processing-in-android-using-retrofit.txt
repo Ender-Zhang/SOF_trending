@@ -1,0 +1,1 @@
+I am trying to achieve batch processing in android in java using retrofit. I have a batch payload with me, when i use it in postman it gives me a response of 201 with the correct body, but when i try it in android i get 400 bad request error code. Below is my code in android java: above is my code and the interface used for retrofit.

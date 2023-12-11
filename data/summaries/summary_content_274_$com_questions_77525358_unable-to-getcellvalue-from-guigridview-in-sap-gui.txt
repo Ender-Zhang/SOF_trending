@@ -1,0 +1,1 @@
+I have a project using the jacob project to automate SAP gui automation (version 7.70) I'm able to access a GuiGridView as an ActiveXComponent. However, I'm unable to get past an error occurring when I try to get a cell value via Dispatch.

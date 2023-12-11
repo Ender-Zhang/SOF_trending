@@ -1,0 +1,1 @@
+Rows 8 and 9 in the example also become valid. Preceding valid row can be Valid or an extended valid row. If a valid row is followed directly by ExtendsValid, that row is also valid, even if the underlying valid condition doesnt apply.

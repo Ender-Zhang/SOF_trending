@@ -1,0 +1,1 @@
+The default TS type for window.Notification is Notification , but since the Web Notifications API has only 90% browser support, it should be Notification | undefined. Is there a way to override properties on window , such as making them optional? I tried this, but it didn't work.

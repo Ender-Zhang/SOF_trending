@@ -1,0 +1,3 @@
+I use Freemarker templating in my Srping application to generate PDF files from HTML template.
+All template was encoded in Base64 and saved in database. So to generate my PDF file I load the Base64 document and call Freemarker.
+During the processing I obtain this error : You can found my Freemarker configuration : Template html Template generator code :

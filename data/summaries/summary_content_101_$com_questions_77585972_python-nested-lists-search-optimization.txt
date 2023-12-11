@@ -1,0 +1,1 @@
+I have a search and test problem :in the list of prime numbers from 2 to 100k, we're searching the first set of 5 with the following criteria. I can totally code such a thing, but i have a severe optimization problem : my code is super duper slow. Here is a numba version that computes the minimal combination of the prime numbers with restrictions.

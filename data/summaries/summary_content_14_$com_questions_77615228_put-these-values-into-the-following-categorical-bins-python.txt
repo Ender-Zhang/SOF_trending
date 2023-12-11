@@ -1,0 +1,1 @@
+The task is to put these values into the following categorical bins: unknown , 17 and under , 18-25 , 26-35 , 36-45 , 46-55 , and 56+ . The category labels should exactly match the above. Missing values should be replaced with the unknown category.

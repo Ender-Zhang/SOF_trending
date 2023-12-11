@@ -1,0 +1,1 @@
+I'm getting ModuleNotFoundError: No module named 'dotenv' error. I did install python-dotenv as suggested in other posts but it still gives error. Make sure it's installed in the same virtual environment (venv) as your project.

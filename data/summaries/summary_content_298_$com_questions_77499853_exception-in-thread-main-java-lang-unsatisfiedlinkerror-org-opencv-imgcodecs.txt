@@ -1,0 +1,1 @@
+I'm new to openCV , I want to use openCV in Intellij IDEA (Scala) to detect image blurriness. I'm using library dependency openpnp-opencv. Here is versions detail. Ubuntu version 22.04.3 LTS scala version 12.13.1 sbt version 1.9.6 here is my FaceRecognition.scala Build.

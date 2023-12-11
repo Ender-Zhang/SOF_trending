@@ -1,0 +1,1 @@
+How can i avoid extra spaces in the tabulate grid? gives me 2 extra spaces in every cell how can i solve it to get You can leverage the MIN_PADDING constant. Outputs: There is a global minimum padding setting you can change. I don't know how recommended that is but they mention it for the whitespace handling.

@@ -1,0 +1,12 @@
+Thank you very much for your help. I am using Yii2. I want to use a REST POST request to send a list of words to the server, the server will translate the words and send back their translation. When I send the POST request, I get this message in the browser JavaScript console:
+name    "Bad Request"
+message "Missing required parameters: words"
+code    0
+status  400
+type    "yii\web\BadRequestHttpException" I am running PHP using this command: php yii serve. JavaScript This is the view: This is the REST controller: This is the model: config/web.php My environment:
+PHP 8.1.2-1ubuntu2.14 (cli) (built: Aug 18 2023 11:41:11) (NTS)
+Zend Engine v4.1.2
+with Zend OPcache v8.1.2-1ubuntu2.14
+with Xdebug v3.2.1
+Yii2 (2.0.48.1) Thank you very much for your help. I googled for a solution, but I didn't find a anything. Answering this.. "Bad Request (#400): Missing required parameters: words" Yes, you're sending words , as I see in your js, so it might be your Yii2 how it handle the request. As I check your controller RestTranslationController , the actionTranslate($words) expecting your words parameter, but in your POST request, parameters are usually sent in the body , not in url . This is how I come up that this is causing you the error.
+Can you do modified it to this? We use Yii::$app->request->post('words') here to ensure that your controller will get the parameter( words ) and hoping it will not causing you Bad Request error. Edit Used php://input to read raw data from the request body. Today I was reading the Yii documentation, specifically I was reading the handle request section and I came across how Yii process POST requests. Here is an extract of the documentation: When implementing RESTful APIs, you often need to retrieve parameters that are submitted via PUT, PATCH or other request methods. You can get these parameters by calling the yii\web\Request::getBodyParam() methods. For example, $request = Yii::$app->request; // returns all parameters $params = $request->bodyParams; // returns the parameter "id" $param = $request->getBodyParam('id'); Info: Unlike GET parameters, parameters submitted via POST, PUT, PATCH etc. are sent in the request body. The request component will parse these parameters when you access them through the methods described above. You can customize the way how these parameters are parsed by configuring the yii\web\Request::$parsers property. --End of extract We also need to add this in the config/web.php file:

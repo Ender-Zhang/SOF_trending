@@ -1,0 +1,1 @@
+face issu render tabl data total four column last two column also contain nest row face problem render behavior achiev via html tabl element pleas see screenshot exampl code use rowspan attribut td element make cell span across multipl tabl row case need add td rowspan first row product row product would first td element omit work exampl http

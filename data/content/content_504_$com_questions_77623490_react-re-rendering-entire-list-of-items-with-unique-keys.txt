@@ -1,0 +1,2 @@
+I am using the React-Query useInfiniteQuery hook to fetch a list of items and display them like this: When I fetch next data (add items to the last) only added items renders which is good. However, when fetching previous items (they get prepended to the list) all the items are re-rendered. Here is the example: https://codesandbox.io/p/devbox/boring-grass-lt9jvr I tested without React-Query, just an items state
+In this case adding items to the beginning or the end doesn't rerender other items. ( https://codesandbox.io/p/sandbox/exciting-hermann-7sl8cg )

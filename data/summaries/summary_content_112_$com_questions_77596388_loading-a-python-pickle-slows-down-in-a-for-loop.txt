@@ -1,0 +1,1 @@
+I have a 25GB pickle of a dictionary of numpy arrays. When I load the data using pickle repeatedly in a loop, the time to load slows down. I've tried including del file and gc.collect() in the loop, but this doesn't speed anything up.

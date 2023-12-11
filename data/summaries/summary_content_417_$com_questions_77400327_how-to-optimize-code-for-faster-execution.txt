@@ -1,0 +1,1 @@
+I'm trying to rewrite a Convolution layer without using TensorFlow or PyTorch. My code is too slow and memory-intensive. I'm asking this question to seek advice on how to optimize my code. Thank you.

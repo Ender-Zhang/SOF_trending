@@ -1,0 +1,1 @@
+Using BufferedWriter can improve the performance by reducing the number of I/O operations. Using Java's ExecutorService or other parallel processing techniques. Submit your tasks defined as Runnable or Callable objects.

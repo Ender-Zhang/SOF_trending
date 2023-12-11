@@ -1,0 +1,1 @@
+I have two different losses for training the model. L1 loss is computed as: and another customized loss function for my model, that computes the loss for two 3D data cubes, new_criterion = MyLoss(...) . These two losses are added with weight: The output of two-loss functions is as follows:

@@ -1,0 +1,1 @@
+When I am zipping my model and code together, things work fine. On un-zipping, folder structure will be like below: Where code has two files inference.py and requirements.txt As mentioned before, this works fine. Since creating zip of code and model together means that zipping and uploading time is very huge.

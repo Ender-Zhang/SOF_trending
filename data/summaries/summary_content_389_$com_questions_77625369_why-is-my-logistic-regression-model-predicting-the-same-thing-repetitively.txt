@@ -1,0 +1,1 @@
+Kaggle's diabetes dataset has a 10.0 usability rating on Kaggle. The only thing that stands out to me in your code is the 2000 iterations that you train the model for.

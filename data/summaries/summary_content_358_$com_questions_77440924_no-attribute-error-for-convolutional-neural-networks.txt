@@ -1,0 +1,1 @@
+There is a no attribute error at line 57, 'x = self.conv_output(x)' saying that there is no attribute for conv_output. Could you give me suggestions for the revisions for the code in order to not give any attribute errors anymore.

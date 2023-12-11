@@ -1,0 +1,1 @@
+Standard Java ImageIO doesn't support CMYK TIFF images. To rotate a BufferedImage in Java, the normal way would be to use AffineTransformOp. This will allow you to rotate any image without having to create a new image of the same type up front.

@@ -1,0 +1,1 @@
+After Oracle donated Java EE to the Eclipse Foundation, it was renamed to Jakarta EE. With that, the javax namespace was changed to jakarta . What does one need to take care about in order to avoid compatibility issues?

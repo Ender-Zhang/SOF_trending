@@ -1,0 +1,4 @@
+I am trying to install Pytorch in python 3.12.0 and cuda 12.1 in windows 11 ? But I get the error ERROR: could not find a version that satisfies the requirement torch(from version: None)
+ERROR: No matching distribution found for torch I installed the nvidia cuda 12.1 as well I tried to install Pytorch using the Pytorch website but it isnt working and is giving me the error
+ERROR: could not find a version that satisfies the requirement torch(from version: None)
+ERROR: No matching distribution found for torch

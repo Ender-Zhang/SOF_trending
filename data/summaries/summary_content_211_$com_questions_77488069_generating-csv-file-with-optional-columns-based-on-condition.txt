@@ -1,0 +1,1 @@
+We have a use case where we want to generate a CSV file out of records (can be ~500k) The records are fetched from a db via pagination and converted to a bean collection. Thereafter, the beans are written as rows of CSV file. The problem is that out of the fields in the bean, depending on condition some field might need to be omitted from the CSV.

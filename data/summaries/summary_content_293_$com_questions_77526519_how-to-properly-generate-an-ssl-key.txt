@@ -1,0 +1,1 @@
+I'm trying to write a SSL server in Java. Here's my server I generate a key using this:keytool -genkey -keystore server1.keystore -keyalg RSA. But I'm getting this error: I have asolutely no clue why this happens.

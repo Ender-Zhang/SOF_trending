@@ -1,0 +1,1 @@
+Why let _x = x, and then return _x? Why not just return x directly? What's the underlying logic? I tried google, but didn't find what I want. I'm an absolute beginner.

@@ -1,0 +1,1 @@
+I'm encountering memory-related issues when attempting to classify a large number of entries using a custom-trained BERT model. I've tried running the code both on my local system and Google Colab (with a GPU), but I'm consistently hitting memory limits. The project involves extracting text from scanned images and classifying them using bert(bert-base-uncased) transformer model.

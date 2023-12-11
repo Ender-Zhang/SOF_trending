@@ -1,0 +1,1 @@
+I was directly mapping id to id. I needed to add mapping based on function because I am reading some flag and setting it up. Method I added is as follows. Now I am getting error in Impl class that gets generated as IdDto class.

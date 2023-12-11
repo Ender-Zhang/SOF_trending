@@ -1,0 +1,1 @@
+Mapping to read serialized messages in Json format from Kafka topic in Informatica PowerCenter. When I run the workflow, it reads messages which I can see in monitor and could not write to flat file.

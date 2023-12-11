@@ -1,0 +1,1 @@
+The goal is to visually put the focus on the pixels above the threshold. If you can define a discrete value range for pixels (ex. min 0 and max 10), then you can use it to define a custom colorscale. In my example i'm using just two colors to define values above and below your threshold.

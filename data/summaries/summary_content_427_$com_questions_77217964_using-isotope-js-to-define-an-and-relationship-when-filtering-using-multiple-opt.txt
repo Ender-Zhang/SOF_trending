@@ -1,0 +1,1 @@
+I'm trying to utilise isotope.js to achieve a dual filtering layout. The way I want it to function is: If only one tag is selected, then show results with that tag. If more than one tags are selected, show results that have any of those tags (both do not need to exist together on a card)

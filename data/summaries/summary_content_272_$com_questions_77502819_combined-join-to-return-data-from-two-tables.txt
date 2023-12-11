@@ -1,0 +1,1 @@
+ query specified join fetching,but the owner of the fetched association was not present in the select list. All the examples I've found show how to do joins in order to filter the results. It looks like you're close, but you are using .select() twice, which is causing the issue.

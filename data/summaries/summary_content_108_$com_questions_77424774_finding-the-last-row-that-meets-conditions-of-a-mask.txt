@@ -1,0 +1,1 @@
+The output that I want looks like this: I tried the code below but it didn't work. Instead of checking if the cumulative sum is greater than 1, you should check if the maximum cumulative sum value is equal to the mask.sum() [suggested by @Onyambu ] .

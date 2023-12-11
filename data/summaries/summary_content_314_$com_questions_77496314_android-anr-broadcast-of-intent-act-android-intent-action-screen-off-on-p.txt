@@ -1,0 +1,1 @@
+I have an ANR "Broadcast of Intent { act=android.intent.action.SCREEN_off }" on the following line of code. I think that this ANR makes my app crashing. Any idea how to solve this issue? Thanks !

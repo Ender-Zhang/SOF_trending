@@ -1,0 +1,1 @@
+This is a stripped down version of the code so you don't have to read all the irrelevant stuff. Your main thread holding the Socket doesn't wait for the client / server to exit. It just starts the connection, starts the client and then immediately ends the try(){} block.

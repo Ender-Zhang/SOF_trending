@@ -1,0 +1,1 @@
+Horizontal-Like graph I only had 1 user's list. But is that the correct path forward? The images I saw for DBSCAN are donut shapes which is most likely due to a lot data (which I need to add more user's list). However, I am not sure if what i'm doing is correct as I am a beginner.

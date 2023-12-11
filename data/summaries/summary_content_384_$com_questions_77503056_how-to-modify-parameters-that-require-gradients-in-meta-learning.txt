@@ -1,0 +1,1 @@
+I have a neural network that is trained to output learning rates. I'm trying to update one trainable parameter to solve this function. The issue is that one of the variables needed for gradient computation has been modified by an inplace operation.

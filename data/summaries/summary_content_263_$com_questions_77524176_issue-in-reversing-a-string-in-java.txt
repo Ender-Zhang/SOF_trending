@@ -1,0 +1,1 @@
+The above code gives me output as wrong for example if my input is geeks it gives output as skeks. In your code, you are trying to read and write data in the same array at the same time, which is causing data loss. To fix this, you need to create a new array to store the re.

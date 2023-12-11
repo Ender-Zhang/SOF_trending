@@ -1,0 +1,1 @@
+I wanted to see what was happening to the count variable during recursion. I found that it was actually incrementing by one, but I don't know why it would. There's nothing special about recursion, and new developers tend to very much over-think it.

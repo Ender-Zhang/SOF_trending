@@ -1,0 +1,1 @@
+New rows can be created for a group that does not have a row for every type in the types list. One way to do this is to create a dataframe which is all the combinations of names and types. This will create a df with all combinations, with NaN values where there was a missing entry in the original data.

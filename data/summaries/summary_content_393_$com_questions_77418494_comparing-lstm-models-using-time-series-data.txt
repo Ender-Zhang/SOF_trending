@@ -1,0 +1,1 @@
+I have time series data (365 days) for 50 different stocks. I have fitted LSTM models for each stock to best predict price. I am using RMSE and R2 to evaluate the performance of each individual model.

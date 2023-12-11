@@ -1,0 +1,1 @@
+I cannot seem to connect my Java Spring Boot Project to Azure SQL. I keep getting errors, both through Autowired, with connection string, and Option 2) Setting Data Source manually. How can I resolve this issue?

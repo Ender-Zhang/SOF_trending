@@ -1,0 +1,1 @@
+I have a website and when I click on ' Login ' button ---> it opens a Microsoft login window. I want to access to MS login window to input my account BUT I don't know how to do it. Can anyone help me? I also try to perform like code And it isn't work. But I see command log, I have a URL and I Want to take this URL to visit. do we have the way to get this URL?

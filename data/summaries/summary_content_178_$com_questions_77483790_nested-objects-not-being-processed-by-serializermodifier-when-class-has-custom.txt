@@ -1,0 +1,1 @@
+A custom BeanSerializer can be used to limit the depth of serialization. This works great if you add a custom serializer to a nested class, but not if you use @JsonSerialize in the nested class.
