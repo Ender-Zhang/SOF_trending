@@ -40,7 +40,7 @@ export const HeatComponent: React.FC = () => {
 
   return (
     <div>
-      <h1>File Names</h1>
+      <h1>Hot Topics</h1>
       <ul>
         {fileNames.map((fileName, index) => (
           <li key={index}><a href={fileName} target="_blank" rel="noopener noreferrer">{fileName}</a></li>
