@@ -21,7 +21,7 @@ function App() {
          <button className={activeTab === 'search' ? 'active' : ''} onClick={() => setActiveTab('search')}>Search</button>
           <button className={activeTab === 'hits' ? 'active' : ''} onClick={() => setActiveTab('hits')}>Hits</button>
           <button className={activeTab === 'pagerank' ? 'active' : ''} onClick={() => setActiveTab('pagerank')}>PageRank</button>
-          <button className={activeTab === 'heat' ? 'active' : ''} onClick={() => setActiveTab('heat')}>Heat Topic</button>
+          <button className={activeTab === 'heat' ? 'active' : ''} onClick={() => setActiveTab('heat')}>Hot Topic</button>
           <button className={activeTab === 'llm' ? 'active' : ''} onClick={() => setActiveTab('llm')}>LLM</button>
         </div>
 

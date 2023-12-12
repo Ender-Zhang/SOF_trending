@@ -137,7 +137,7 @@ const SearchComponent: React.FC = () => {
         type="text" 
         value={query} 
         onChange={(e) => setQuery(e.target.value)}
-        placeholder="Enter what you want to search..."
+        placeholder="Content to search..."
       />
       <button onClick={handleSearch}>Search</button>
       <div>
