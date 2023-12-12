@@ -11,7 +11,7 @@ const SearchComponent: React.FC = () => {
         redirect: 'follow',
       };
       
-      fetch(`http://127.0.0.1:8000/search/inverted_index?query=${query}`, requestOptions)
+      fetch(`http://127.0.0.1:8001/search/inverted_index?query=${query}`, requestOptions)
         .then(response => response.json())  // 假设后端返回的是JSON格式的数组
         .then(result => {
             console.log(result);
@@ -36,9 +36,9 @@ const SearchComponent: React.FC = () => {
         type="text" 
         value={query} 
         onChange={(e) => setQuery(e.target.value)}
-        placeholder="输入搜索内容..."
+        placeholder="Enter what you want to search..."
       />
-      <button onClick={handleSearch}>搜索</button>
+      <button onClick={handleSearch}>Search</button>
       <div>
         {results.length > 0 && (
           <ul>

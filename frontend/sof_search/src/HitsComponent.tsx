@@ -11,7 +11,7 @@ const PageRankComponent: React.FC = () => {
       redirect: "follow",
     } as RequestInit;
 
-    fetch("http://127.0.0.1:8000/hits", requestOptions)
+    fetch("http://127.0.0.1:8001/hits", requestOptions)
       .then((response) => response.json())
       .then((result) => {
         console.log(result);

@@ -9,7 +9,7 @@ export const HeatComponent: React.FC = () => {
       redirect: 'follow'
     } as RequestInit;
     
-    fetch("http://127.0.0.1:8000/similar-files/", requestOptions)
+    fetch("http://127.0.0.1:8001/similar-files/", requestOptions)
       .then(response => response.json())
       .then(result => setData(result))
       .catch(error => console.log('error', error));
