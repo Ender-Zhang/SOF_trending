@@ -8,14 +8,17 @@
 conda env create -f environment.yml
 ```
 
-## Preprocess
+Backend
 
 ```
-python preprocess.py
+cd fastapi
+uvicorn main:app --reload
 ```
 
-## Run
+Frontend
 
 ```
-python main3.py
+cd frontend
+npm install
+npm start
 ```
